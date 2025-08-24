@@ -1648,6 +1648,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-08-24 01:35:57 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-08-24 01:02:48 +0000"
@@ -1882,6 +1888,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/safely_harvest_honey": {
+    "criteria": {
+      "safely_harvest_honey": "2025-08-24 01:36:10 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_cutlass_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-24 00:34:11 +0000"
@@ -2107,6 +2119,12 @@
   "bakery:recipes/granite_stove": {
     "criteria": {
       "has_iron_ingot": "2025-08-24 00:54:15 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/nethers_stove": {
+    "criteria": {
+      "has_campfire": "2025-08-24 01:35:56 +0000"
     },
     "done": true
   },
@@ -2807,6 +2825,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-08-24 01:36:10 +0000"
+    },
+    "done": true
+  },
   "morevillagers:all_workstations_get": {
     "criteria": {
       "fletchingtable": "2025-08-24 00:55:41 +0000",
@@ -2955,6 +2979,12 @@
     },
     "done": true
   },
+  "miners_delight:recipes/cooking/pasta_with_veggieballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-24 01:32:50 +0000"
+    },
+    "done": true
+  },
   "collectorsreap:recipes/food/pink_limeade": {
     "criteria": {
       "has_lime": "2025-08-24 01:10:33 +0000"
@@ -3033,9 +3063,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-08-24 01:36:10 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/gold_claymore_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-24 00:41:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-08-24 01:36:10 +0000"
     },
     "done": true
   },
@@ -3249,6 +3291,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-08-24 01:35:56 +0000"
+    },
+    "done": true
+  },
   "collectorsreap:recipes/food/salmon_tartare": {
     "criteria": {
       "has_citrus": "2025-08-24 01:10:33 +0000"
@@ -3354,6 +3402,12 @@
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-08-24 00:40:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-08-24 01:32:50 +0000"
     },
     "done": true
   },
