@@ -1234,6 +1234,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-08-24 00:47:38 +0000",
+      "baked_potato": "2025-08-24 01:21:23 +0000",
       "cooked_mutton": "2025-08-23 23:13:37 +0000",
       "cooked_cod": "2025-08-24 00:44:24 +0000",
       "bread": "2025-08-24 01:05:24 +0000",
@@ -1497,6 +1498,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-08-24 01:27:04 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/iron_bow_conditional_120_smithing": {
     "criteria": {
       "has_item": "2025-08-24 00:54:15 +0000"
@@ -1557,6 +1564,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-24 01:20:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-08-24 00:34:11 +0000"
@@ -1566,6 +1579,12 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-08-24 00:55:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-08-24 01:27:14 +0000"
     },
     "done": true
   },
@@ -1809,6 +1828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_candle": {
+    "criteria": {
+      "has_magenta_dye": "2025-08-24 01:20:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_bed": {
     "criteria": {
       "has_needed_dye": "2025-08-24 00:33:20 +0000"
@@ -1956,6 +1981,12 @@
   "expanded_combat:recipes/combat/jungle_plank_broad_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-24 00:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-08-24 01:22:04 +0000"
     },
     "done": true
   },
@@ -2147,9 +2178,16 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:bee": "2025-08-24 01:22:55 +0000",
       "minecraft:pig": "2025-08-24 01:15:23 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-24 01:27:14 +0000"
+    },
+    "done": true
   },
   "expanded_combat:recipes/combat/gold_glaive_conditional_shaped": {
     "criteria": {
@@ -2295,6 +2333,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-08-24 01:27:04 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/oat_crate": {
     "criteria": {
       "has_oat": "2025-08-24 00:54:18 +0000"
@@ -2382,6 +2426,18 @@
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "diamond_knife": "2025-08-24 01:14:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-24 01:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-08-24 01:24:56 +0000"
     },
     "done": true
   },
@@ -2767,6 +2823,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-08-24 01:24:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_the_recipe": "2025-08-24 00:45:33 +0000"
@@ -2812,6 +2874,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2025-08-24 01:00:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-24 01:27:14 +0000"
     },
     "done": true
   },
@@ -2899,6 +2967,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-24 01:27:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-24 00:19:36 +0000"
@@ -2938,6 +3012,12 @@
   "bakery:recipes/red_nether_bricks_stove": {
     "criteria": {
       "has_iron_ingot": "2025-08-24 00:54:15 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-08-24 01:28:07 +0000"
     },
     "done": true
   },
@@ -2995,6 +3075,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-08-24 01:24:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-08-24 00:36:36 +0000"
@@ -3010,6 +3096,12 @@
   "farmersdelight:recipes/food/bread_from_smoking": {
     "criteria": {
       "has_dough": "2025-08-24 01:03:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-24 01:27:14 +0000"
     },
     "done": true
   },
@@ -3073,6 +3165,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-08-24 01:21:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-08-24 00:54:15 +0000"
@@ -3106,6 +3204,12 @@
   "collectorsreap:recipes/lime_crate": {
     "criteria": {
       "has_lime": "2025-08-24 01:10:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-24 01:27:14 +0000"
     },
     "done": true
   },
@@ -3163,6 +3267,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-08-24 01:27:04 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/iron_great_hammer_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-24 00:54:15 +0000"
@@ -3199,6 +3309,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_magenta_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-24 01:20:23 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/dark_boat": {
     "criteria": {
       "in_water": "2025-08-24 00:36:36 +0000"
@@ -3217,9 +3333,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-08-24 01:24:56 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/brick_stove": {
     "criteria": {
       "has_iron_ingot": "2025-08-24 00:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-24 01:20:23 +0000"
     },
     "done": true
   },
@@ -3244,6 +3372,12 @@
   "collectorsreap:recipes/food/limeade": {
     "criteria": {
       "has_lime": "2025-08-24 01:10:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-08-24 01:27:14 +0000"
     },
     "done": true
   },
@@ -3361,6 +3495,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_magenta_dye": "2025-08-24 01:20:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_white_dye": "2025-08-24 00:33:20 +0000"
@@ -3424,6 +3564,24 @@
   "collectorsreap:recipes/food/cod_ceviche": {
     "criteria": {
       "has_citrus": "2025-08-24 01:10:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-08-24 01:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-08-24 01:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-08-24 01:22:04 +0000"
     },
     "done": true
   },
