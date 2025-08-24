@@ -1619,6 +1619,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/tools/lead_from_straw": {
+    "criteria": {
+      "has_straw": "2025-08-24 03:00:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-08-24 01:27:14 +0000"
@@ -1730,6 +1736,12 @@
   "bakery:recipes/butter": {
     "criteria": {
       "has_water_bucket": "2025-08-24 00:40:40 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/mining_bench": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-08-24 03:04:50 +0000"
     },
     "done": true
   },
@@ -2667,6 +2679,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/rope": {
+    "criteria": {
+      "has_straw": "2025-08-24 03:00:52 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_arrow_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-24 00:34:11 +0000"
@@ -2694,6 +2712,12 @@
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2025-08-24 00:33:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_tree_bark": {
+    "criteria": {
+      "has_tree_bark": "2025-08-24 03:00:51 +0000"
     },
     "done": true
   },
@@ -2871,6 +2895,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/straw_bale": {
+    "criteria": {
+      "has_straw": "2025-08-24 03:00:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2025-08-24 00:55:36 +0000"
@@ -2928,6 +2958,12 @@
   "expanded_combat:recipes/combat/gold_quiver_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-24 00:41:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-08-24 03:04:50 +0000"
     },
     "done": true
   },
@@ -3069,6 +3105,7 @@
       "grindstone": "2025-08-24 00:55:52 +0000",
       "smoker": "2025-08-24 00:49:41 +0000",
       "smithingtable": "2025-08-24 00:55:52 +0000",
+      "blastfurnace": "2025-08-24 03:07:28 +0000",
       "cauldron": "2025-08-24 00:56:01 +0000"
     },
     "done": false
@@ -3211,6 +3248,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/paper_from_tree_bark": {
+    "criteria": {
+      "has_tree_bark": "2025-08-24 03:00:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/cabbage_rolls": {
     "criteria": {
       "has_any_ingredient": "2025-08-24 01:06:17 +0000"
@@ -3346,6 +3389,12 @@
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-08-24 00:31:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/canvas": {
+    "criteria": {
+      "has_straw": "2025-08-24 03:00:52 +0000"
     },
     "done": true
   },
@@ -3697,6 +3746,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/straw": {
+    "criteria": {
+      "has_straw_bale": "2025-08-24 03:01:09 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-08-24 00:40:39 +0000"
@@ -3706,6 +3761,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-08-24 02:00:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
+    "criteria": {
+      "has_straw": "2025-08-24 03:00:52 +0000"
     },
     "done": true
   },
@@ -3766,6 +3827,12 @@
   "man_of_many_planes:misc/expanded_aircraftery": {
     "criteria": {
       "has_item": "2025-08-24 00:54:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2025-08-24 03:00:52 +0000"
     },
     "done": true
   },

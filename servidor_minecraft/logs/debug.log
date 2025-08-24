@@ -12751,3 +12751,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [24Aug2025 02:55:10.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Aug2025 03:00:10.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Aug2025 03:00:10.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Aug2025 03:04:50.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Isn't It Iron Pick]
+[24Aug2025 03:05:10.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Aug2025 03:05:10.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Aug2025 03:05:57.746] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[24Aug2025 03:10:10.584] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Aug2025 03:10:10.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Aug2025 03:11:44.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Not Today, Thank You]
