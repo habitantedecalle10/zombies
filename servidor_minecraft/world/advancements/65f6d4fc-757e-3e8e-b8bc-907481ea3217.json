@@ -1235,6 +1235,7 @@
     "criteria": {
       "cooked_porkchop": "2025-08-24 00:47:38 +0000",
       "baked_potato": "2025-08-24 01:21:23 +0000",
+      "mushroom_stew": "2025-08-24 02:41:32 +0000",
       "cooked_mutton": "2025-08-23 23:13:37 +0000",
       "cooked_cod": "2025-08-24 00:44:24 +0000",
       "bread": "2025-08-24 01:05:24 +0000",
@@ -1441,6 +1442,12 @@
   "expanded_combat:recipes/combat/iron_battle_staff_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-24 00:54:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2025-08-24 02:39:21 +0000"
     },
     "done": true
   },
@@ -1726,6 +1733,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-24 02:39:19 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/iron_bow_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-24 00:54:15 +0000"
@@ -1966,6 +1979,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-08-24 02:41:32 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/jungle_plank_dagger_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-24 00:31:56 +0000"
@@ -1974,6 +1993,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "brown_mushroom": "2025-08-24 02:39:42 +0000",
       "sugar_cane": "2025-08-24 00:50:22 +0000"
     },
     "done": false
@@ -1993,6 +2013,12 @@
   "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2025-08-24 00:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-24 02:39:19 +0000"
     },
     "done": true
   },
@@ -2029,6 +2055,12 @@
   "bakery:recipes/iron_chair": {
     "criteria": {
       "has_iron_ingot": "2025-08-24 00:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-24 02:39:19 +0000"
     },
     "done": true
   },
@@ -2137,6 +2169,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-08-24 00:34:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-08-24 02:40:00 +0000"
     },
     "done": true
   },
@@ -2293,7 +2331,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:bee": "2025-08-24 01:22:55 +0000",
-      "minecraft:pig": "2025-08-24 01:15:23 +0000"
+      "minecraft:pig": "2025-08-24 01:15:23 +0000",
+      "minecraft:chicken": "2025-08-24 02:49:33 +0000"
     },
     "done": false
   },
@@ -2390,6 +2429,12 @@
   "advancednetherite:recipes/misc/netherite_diamond_ingot": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/diamond]": "2025-08-24 00:34:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-24 02:39:19 +0000"
     },
     "done": true
   },
@@ -3609,6 +3654,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-24 02:39:19 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/brick_stove": {
     "criteria": {
       "has_iron_ingot": "2025-08-24 00:54:15 +0000"
@@ -3930,6 +3981,12 @@
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
       "in_water": "2025-08-24 00:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-24 02:39:19 +0000"
     },
     "done": true
   },
