@@ -1661,6 +1661,12 @@
     },
     "done": true
   },
+  "bakery:recipes/strawberry_chocolate": {
+    "criteria": {
+      "has_strawberry": "2025-08-24 02:51:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
     "criteria": {
       "beef_patty": "2025-08-24 01:58:41 +0000"
@@ -1700,6 +1706,12 @@
   "immersive_aircraft:misc/aircraftery": {
     "criteria": {
       "has_item": "2025-08-24 00:54:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_organic_compost": {
+    "criteria": {
+      "place_organic_compost": "2025-08-24 02:51:32 +0000"
     },
     "done": true
   },
@@ -1994,7 +2006,8 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "brown_mushroom": "2025-08-24 02:39:42 +0000",
-      "sugar_cane": "2025-08-24 00:50:22 +0000"
+      "sugar_cane": "2025-08-24 00:50:22 +0000",
+      "wheat": "2025-08-24 02:50:58 +0000"
     },
     "done": false
   },
@@ -3108,6 +3121,12 @@
     },
     "done": true
   },
+  "bakery:recipes/strawberry_seeds": {
+    "criteria": {
+      "has_strawberry": "2025-08-24 02:51:26 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/upgrade_base": {
     "criteria": {
       "has_iron_ingot": "2025-08-24 00:54:15 +0000"
@@ -3510,6 +3529,12 @@
     },
     "done": true
   },
+  "bakery:recipes/strawberry_crate": {
+    "criteria": {
+      "has_strawberry": "2025-08-24 02:51:26 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/jungle_barrel": {
     "criteria": {
       "has_jungle_plank": "2025-08-24 00:31:56 +0000"
@@ -3909,6 +3934,12 @@
   "expanded_combat:recipes/combat/jungle_plank_glaive_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-24 00:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-08-24 02:50:58 +0000"
     },
     "done": true
   },
