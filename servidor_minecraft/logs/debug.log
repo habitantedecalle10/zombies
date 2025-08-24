@@ -12604,3 +12604,66 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [24Aug2025 00:49:41.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Let's Get To Work]
 [24Aug2025 00:50:10.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Aug2025 00:50:10.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Aug2025 00:54:00.534] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[24Aug2025 00:54:15.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Acquire Hardware]
+[24Aug2025 00:54:18.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Wild Crops]
+[24Aug2025 00:54:19.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Crops of the Wild]
+[24Aug2025 00:55:10.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Aug2025 00:55:10.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Aug2025 00:55:36.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Suit Up]
+[24Aug2025 00:55:59.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Hot Stuff]
+[24Aug2025 01:00:10.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Aug2025 01:00:10.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Aug2025 01:05:04.493] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=480, y=69, z=528}
+[24Aug2025 01:05:04.520] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=443, y=57, z=505}
+[24Aug2025 01:05:04.617] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=480, y=69, z=528}
+[24Aug2025 01:05:04.641] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=443, y=57, z=505}
+[24Aug2025 01:05:05.357] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=480, y=69, z=528}
+[24Aug2025 01:05:05.362] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=448, y=64, z=525}
+[24Aug2025 01:05:05.362] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=443, y=57, z=505}
+[24Aug2025 01:05:05.365] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=460, y=50, z=514}
+[24Aug2025 01:05:05.366] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=466, y=50, z=527}
+[24Aug2025 01:05:05.366] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=459, y=50, z=527}
+[24Aug2025 01:05:05.442] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=480, y=69, z=528}
+[24Aug2025 01:05:05.444] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=443, y=57, z=505}
+[24Aug2025 01:05:10.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Aug2025 01:05:10.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Aug2025 01:05:13.155] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=480, y=69, z=528}
+[24Aug2025 01:05:13.158] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=443, y=57, z=505}
+[24Aug2025 01:05:13.159] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=467, y=50, z=513}
+[24Aug2025 01:05:13.468] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[24Aug2025 01:05:13.469] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[24Aug2025 01:05:13.470] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[24Aug2025 01:05:13.470] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[24Aug2025 01:05:13.471] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[24Aug2025 01:05:13.472] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[24Aug2025 01:05:13.472] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[24Aug2025 01:05:17.219] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=480, y=69, z=528}
+[24Aug2025 01:05:21.959] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=480, y=69, z=528}
+[24Aug2025 01:05:21.962] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=443, y=57, z=505}
+[24Aug2025 01:05:21.963] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=460, y=50, z=514}
+[24Aug2025 01:05:21.963] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=466, y=50, z=527}
+[24Aug2025 01:05:21.964] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=473, y=50, z=527}
+[24Aug2025 01:05:21.964] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=473, y=50, z=520}
+[24Aug2025 01:05:21.964] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=467, y=50, z=513}
+[24Aug2025 01:05:21.964] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=474, y=50, z=514}
+[24Aug2025 01:05:30.018] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=480, y=69, z=528}
+[24Aug2025 01:05:30.020] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=474, y=50, z=514}
+[24Aug2025 01:08:36.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Dinner's Served!]
+[24Aug2025 01:09:46.064] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=480, y=69, z=528}
+[24Aug2025 01:09:46.068] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=443, y=57, z=505}
+[24Aug2025 01:09:46.236] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=480, y=69, z=528}
+[24Aug2025 01:09:46.239] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=443, y=57, z=505}
+[24Aug2025 01:09:46.242] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=466, y=50, z=528}
+[24Aug2025 01:09:46.369] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=480, y=69, z=528}
+[24Aug2025 01:09:46.444] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=480, y=69, z=528}
+[24Aug2025 01:09:46.446] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=443, y=57, z=505}
+[24Aug2025 01:09:46.447] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=466, y=50, z=528}
+[24Aug2025 01:10:10.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Aug2025 01:10:10.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Aug2025 01:14:43.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Hunt and Gather]
+[24Aug2025 01:15:10.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Aug2025 01:15:10.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Aug2025 01:15:23.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [The Parrots and the Bats]
+[24Aug2025 01:20:10.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Aug2025 01:20:10.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
