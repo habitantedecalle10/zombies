@@ -3261,6 +3261,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-08-24 01:41:03 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/jungle_barrel": {
     "criteria": {
       "has_jungle_plank": "2025-08-24 00:31:56 +0000"
@@ -3594,6 +3600,12 @@
   "expanded_combat:recipes/combat/diamond_katana_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-24 00:34:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/tomato": {
+    "criteria": {
+      "has_tomato_crate": "2025-08-24 01:45:18 +0000"
     },
     "done": true
   },
