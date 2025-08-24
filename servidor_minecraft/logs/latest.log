@@ -5338,3 +5338,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [24Aug2025 01:35:57.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Bonfire Lit]
 [24Aug2025 01:36:10.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Bee Our Guest]
 [24Aug2025 01:44:54.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
+[24Aug2025 01:57:01.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Beginner Breadsmithing]
+[24Aug2025 02:00:25.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Keep Going]
