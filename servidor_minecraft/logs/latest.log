@@ -5340,3 +5340,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [24Aug2025 01:44:54.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
 [24Aug2025 01:57:01.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Beginner Breadsmithing]
 [24Aug2025 02:00:25.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Keep Going]
+[24Aug2025 02:21:01.102] [Worker-Main-85/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[24Aug2025 02:21:01.102] [Worker-Main-85/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[24Aug2025 02:21:01.103] [Worker-Main-85/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[24Aug2025 02:21:01.103] [Worker-Main-85/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[24Aug2025 02:21:01.103] [Worker-Main-85/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[24Aug2025 02:21:01.104] [Worker-Main-85/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[24Aug2025 02:21:01.104] [Worker-Main-85/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
