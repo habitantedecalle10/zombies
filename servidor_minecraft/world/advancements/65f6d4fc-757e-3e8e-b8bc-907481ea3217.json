@@ -459,6 +459,7 @@
       "cooked_porkchop": "2025-08-25 20:11:00 +0000",
       "suspicious_stew": "2025-08-25 20:31:21 +0000",
       "cooked_mutton": "2025-08-25 20:20:32 +0000",
+      "bread": "2025-08-25 21:39:23 +0000",
       "cooked_rabbit": "2025-08-25 21:26:58 +0000"
     },
     "done": false
@@ -2581,9 +2582,75 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/building_blocks/crafting/letios_compost_from_bone_alt": {
+    "criteria": {
+      "has_bone_meal": "2025-08-25 21:33:25 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/mangrove_plank_battle_staff_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-25 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-08-25 21:38:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-08-25 21:33:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/tools/lead_from_straw": {
+    "criteria": {
+      "has_straw": "2025-08-25 21:33:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-08-25 21:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-25 21:31:36 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-25 21:38:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-25 21:42:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "red_mushroom": "2025-08-25 21:34:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-08-25 21:38:09 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/egg_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-25 21:42:00 +0000"
     },
     "done": true
   },
@@ -2617,6 +2684,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-08-25 21:42:54 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/mangrove_plank_great_hammer_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-25 21:30:16 +0000"
@@ -2641,9 +2714,69 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/rope": {
+    "criteria": {
+      "has_straw": "2025-08-25 21:33:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_tree_bark": {
+    "criteria": {
+      "has_straw": "2025-08-25 21:33:23 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/mangrove_plank_mace_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-25 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-08-25 21:33:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-08-25 21:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-08-25 21:42:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bread_from_smelting": {
+    "criteria": {
+      "has_dough": "2025-08-25 21:42:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/straw_bale": {
+    "criteria": {
+      "has_straw": "2025-08-25 21:33:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-08-25 21:39:13 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/oat_seeds": {
+    "criteria": {
+      "has_wheat_seeds": "2025-08-25 21:34:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2025-08-25 21:36:54 +0000"
     },
     "done": true
   },
@@ -2665,9 +2798,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-08-25 21:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-08-25 21:38:09 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/mangrove_plank_cutlass_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-25 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/paper_from_tree_bark": {
+    "criteria": {
+      "has_tree_bark": "2025-08-25 21:33:24 +0000"
     },
     "done": true
   },
@@ -2701,15 +2852,64 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/canvas": {
+    "criteria": {
+      "has_straw": "2025-08-25 21:33:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-08-25 21:26:29 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/food/bread_from_smoking": {
+    "criteria": {
+      "has_dough": "2025-08-25 21:42:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-25 21:38:09 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/scotch_eggs": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-25 21:42:00 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_fence_gate_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-25 21:38:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-08-25 21:38:09 +0000",
+      "has_the_recipe": "2025-08-25 21:38:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-08-25 21:30:11 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_fence_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-25 21:38:09 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-25 21:38:09 +0000"
     },
     "done": true
   },
@@ -2749,6 +2949,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
+    "criteria": {
+      "has_straw": "2025-08-25 21:33:23 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/mangrove_plank_claymore_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-25 21:30:16 +0000"
@@ -2773,6 +2979,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2025-08-25 21:33:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mangrove_wood": {
     "criteria": {
       "has_log": "2025-08-25 21:30:02 +0000"
@@ -2785,9 +2997,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-08-25 21:42:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-08-25 21:42:54 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/mangrove_plank_dagger_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-25 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-08-25 21:38:09 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_stairs_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-25 21:38:09 +0000"
     },
     "done": true
   },
@@ -2797,9 +3033,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-25 21:38:09 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/mangrove_plank_flail_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-25 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "animal_feeding_trough:recipes/decorations/feeding_trough": {
+    "criteria": {
+      "has_wood_slab": "2025-08-25 21:36:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-08-25 21:42:00 +0000"
     },
     "done": true
   },

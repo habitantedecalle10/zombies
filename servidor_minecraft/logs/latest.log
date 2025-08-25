@@ -5731,3 +5731,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [25Aug2025 21:20:17.181] [Server thread/INFO] [Jade/]: Syncing config to nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217)
 [25Aug2025 21:31:36.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Sweet Dreams]
 [25Aug2025 21:33:14.444] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class com.pikachu.mod.illager_more.CombatEvent
+[25Aug2025 21:45:45.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[25Aug2025 22:06:38.195] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro lost connection: Disconnected
+[25Aug2025 22:06:38.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro left the game
