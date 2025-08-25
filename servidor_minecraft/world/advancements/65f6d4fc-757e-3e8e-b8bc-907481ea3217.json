@@ -1,4228 +1,2805 @@
 {
-  "morevillagers:root": {
-    "criteria": {
-      "always": "2025-08-23 23:01:40 +0000"
-    },
-    "done": true
-  },
-  "dungeons_and_combat:dungeons_and_combat": {
-    "criteria": {
-      "dungeons_and_combat_0": "2025-08-23 23:01:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2025-08-23 23:01:40 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:root": {
-    "criteria": {
-      "custom_test_name": "2025-08-23 23:01:40 +0000"
-    },
-    "done": true
-  },
-  "traveloptics:root": {
-    "criteria": {
-      "custom_test_name": "2025-08-23 23:01:40 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:grant_patchouli": {
-    "criteria": {
-      "tick": "2025-08-23 23:01:40 +0000"
-    },
-    "done": true
-  },
-  "ags_day_counter:day_counter_root_advancement": {
-    "criteria": {
-      "day_counter_root_advancement_0": "2025-08-23 23:01:40 +0000"
-    },
-    "done": true
-  },
   "bakery:main/root": {
     "criteria": {
-      "seeds": "2025-08-23 23:01:40 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:legendary_monsters_root": {
-    "criteria": {
-      "custom_test_name": "2025-08-23 23:01:40 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:bornin_chaos": {
-    "criteria": {
-      "bornin_chaos_0": "2025-08-23 23:01:40 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:end_root": {
-    "criteria": {
-      "custom_test_name": "2025-08-23 23:01:40 +0000"
-    },
-    "done": true
-  },
-  "eeeabsmobs:eeeabsmobs/root": {
-    "criteria": {
-      "requirement": "2025-08-23 23:01:40 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:root": {
-    "criteria": {
-      "custom_test_name": "2025-08-23 23:01:40 +0000"
+      "seeds": "2025-08-25 20:07:36 +0000"
     },
     "done": true
   },
   "farmersdelight:main/root": {
     "criteria": {
-      "seeds": "2025-08-23 23:01:40 +0000"
+      "seeds": "2025-08-25 20:07:36 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2025-08-25 20:07:37 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:dungeons_and_combat": {
+    "criteria": {
+      "dungeons_and_combat_0": "2025-08-25 20:07:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-08-25 20:07:37 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-08-25 20:07:37 +0000"
+    },
+    "done": true
+  },
+  "traveloptics:root": {
+    "criteria": {
+      "custom_test_name": "2025-08-25 20:07:37 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2025-08-25 20:07:37 +0000"
+    },
+    "done": true
+  },
+  "ags_day_counter:day_counter_root_advancement": {
+    "criteria": {
+      "day_counter_root_advancement_0": "2025-08-25 20:07:37 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:legendary_monsters_root": {
+    "criteria": {
+      "custom_test_name": "2025-08-25 20:07:37 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2025-08-25 20:07:37 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:end_root": {
+    "criteria": {
+      "custom_test_name": "2025-08-25 20:07:37 +0000"
+    },
+    "done": true
+  },
+  "eeeabsmobs:eeeabsmobs/root": {
+    "criteria": {
+      "requirement": "2025-08-25 20:07:37 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-08-25 20:07:37 +0000"
     },
     "done": true
   },
   "legendary_monsters:nether_root": {
     "criteria": {
-      "custom_test_name": "2025-08-23 23:01:40 +0000"
+      "custom_test_name": "2025-08-25 20:07:37 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:windswept_hills": "2025-08-24 00:52:45 +0000",
-      "minecraft:beach": "2025-08-24 00:50:10 +0000",
-      "minecraft:river": "2025-08-24 00:36:39 +0000",
-      "minecraft:forest": "2025-08-23 23:05:27 +0000",
-      "minecraft:jungle": "2025-08-24 00:11:28 +0000",
-      "minecraft:windswept_savanna": "2025-08-24 00:39:03 +0000",
-      "minecraft:flower_forest": "2025-08-23 23:11:30 +0000",
-      "minecraft:savanna": "2025-08-23 23:01:42 +0000",
-      "minecraft:plains": "2025-08-23 23:11:02 +0000"
+      "minecraft:sunflower_plains": "2025-08-25 20:07:38 +0000",
+      "minecraft:beach": "2025-08-25 20:09:35 +0000",
+      "minecraft:river": "2025-08-25 20:08:30 +0000",
+      "minecraft:ocean": "2025-08-25 20:23:34 +0000",
+      "minecraft:plains": "2025-08-25 20:08:35 +0000",
+      "neapolitan:neapolitan:strawberry_fields": "2025-08-25 20:15:37 +0000"
     },
     "done": false
   },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
-      "useitem": "2025-08-23 23:02:10 +0000"
+      "useitem": "2025-08-25 20:08:04 +0000"
     },
     "done": true
   },
   "minecraft:husbandry/root": {
     "criteria": {
-      "consumed_item": "2025-08-23 23:02:10 +0000"
+      "consumed_item": "2025-08-25 20:08:04 +0000"
     },
     "done": true
   },
   "dungeons_and_combat:origin": {
     "criteria": {
-      "origin_0": "2025-08-23 23:02:19 +0000"
+      "origin_0": "2025-08-25 20:08:12 +0000"
     },
     "done": true
   },
   "dungeons_and_combat:the_exiled": {
     "criteria": {
-      "the_exiled_0": "2025-08-23 23:02:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2025-08-23 23:02:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2025-08-23 23:02:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_planks": {
-    "criteria": {
-      "has_log": "2025-08-23 23:02:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_button": {
-    "criteria": {
-      "has_planks": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/acacia_plank_cutlass_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/acacia_barrel": {
-    "criteria": {
-      "has_acacia_plank": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/acacia_plank_glaive_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_stairs": {
-    "criteria": {
-      "has_planks": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_door": {
-    "criteria": {
-      "has_planks": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/acacia_plank_sickle_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/generic_chest": {
-    "criteria": {
-      "has _plank": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/acacia_sign": {
-    "criteria": {
-      "has_planks": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_4": {
-    "criteria": {
-      "has_acacia_plank": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_3": {
-    "criteria": {
-      "has_acacia_plank": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_2": {
-    "criteria": {
-      "has_acacia_plank": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_1": {
-    "criteria": {
-      "has_acacia_plank": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/acacia_plank_mace_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/acacia_plank_scythe_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/acacia_plank_dagger_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/acacia_plank_battle_staff_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_slab": {
-    "criteria": {
-      "has_planks": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/acacia_plank_broad_sword_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/generic_limited_barrel_2": {
-    "criteria": {
-      "has _plank": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/generic_limited_barrel_3": {
-    "criteria": {
-      "has _plank": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/generic_limited_barrel_1": {
-    "criteria": {
-      "has _plank": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/generic_limited_barrel_4": {
-    "criteria": {
-      "has _plank": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/acacia_chest": {
-    "criteria": {
-      "has_acacia_plank": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/acacia_plank_spear_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/acacia_plank_katana_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/acacia_plank_flail_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/generic_barrel": {
-    "criteria": {
-      "has _plank": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/acacia_plank_dancer_s_sword_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/acacia_fence": {
-    "criteria": {
-      "has_planks": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/acacia_plank_great_hammer_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/acacia_plank_claymore_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:02:39 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:adventure/root": {
-    "criteria": {
-      "crafting_table": "2025-08-23 23:02:42 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:root": {
-    "criteria": {
-      "crafting_table": "2025-08-23 23:02:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2025-08-23 23:02:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ladder": {
-    "criteria": {
-      "has_stick": "2025-08-23 23:02:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_axe": {
-    "criteria": {
-      "has_stick": "2025-08-23 23:02:45 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/cupcake_display": {
-    "criteria": {
-      "has_stick": "2025-08-23 23:02:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_stick": "2025-08-23 23:02:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2025-08-23 23:02:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_shovel": {
-    "criteria": {
-      "has_stick": "2025-08-23 23:02:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2025-08-23 23:02:45 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/flint_knife": {
-    "criteria": {
-      "has_stick": "2025-08-23 23:02:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_pickaxe": {
-    "criteria": {
-      "has_stick": "2025-08-23 23:02:45 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/bread_box": {
-    "criteria": {
-      "has_stick": "2025-08-23 23:02:45 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/cutting_board": {
-    "criteria": {
-      "has_stick": "2025-08-23 23:02:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2025-08-23 23:02:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2025-08-23 23:02:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2025-08-23 23:02:56 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:recipes/gardening_table": {
-    "criteria": {
-      "has_flower": "2025-08-23 23:03:14 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/acacia_blossom": {
-    "criteria": {
-      "acacia_blossom": "2025-08-23 23:03:14 +0000"
-    },
-    "done": true
-  },
-  "mutantmonsters:root": {
-    "criteria": {
-      "killed_something": "2025-08-23 23:03:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-08-23 23:03:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_smoking": {
-    "criteria": {
-      "has_mutton": "2025-08-23 23:03:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton": {
-    "criteria": {
-      "has_mutton": "2025-08-23 23:03:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
-    "criteria": {
-      "has_mutton": "2025-08-23 23:03:17 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-23 23:03:17 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/kangaroo": {
-    "criteria": {
-      "killed_by": "2025-08-23 23:03:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_helmet": {
-    "criteria": {
-      "has_leather": "2025-08-23 23:05:39 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/leather_stick_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:05:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2025-08-23 23:05:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2025-08-23 23:05:39 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/backpack": {
-    "criteria": {
-      "has_leather": "2025-08-23 23:05:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2025-08-23 23:05:39 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/leather_quiver_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:05:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2025-08-23 23:05:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2025-08-23 23:05:39 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/leather_gauntlet_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:05:39 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
-    "criteria": {
-      "has_leather": "2025-08-23 23:05:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-08-23 23:06:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/furnace": {
-    "criteria": {
-      "has_cobblestone": "2025-08-23 23:06:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-08-23 23:06:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone": {
-    "criteria": {
-      "has_cobblestone": "2025-08-23 23:06:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_pickaxe": {
-    "criteria": {
-      "has_cobblestone": "2025-08-23 23:06:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab": {
-    "criteria": {
-      "has_cobblestone": "2025-08-23 23:06:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-08-23 23:06:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
-    "criteria": {
-      "has_cobblestone": "2025-08-23 23:06:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_shovel": {
-    "criteria": {
-      "has_cobblestone": "2025-08-23 23:06:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lever": {
-    "criteria": {
-      "has_cobblestone": "2025-08-23 23:06:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/stone_sword": {
-    "criteria": {
-      "has_cobblestone": "2025-08-23 23:06:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall": {
-    "criteria": {
-      "has_cobblestone": "2025-08-23 23:06:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_axe": {
-    "criteria": {
-      "has_cobblestone": "2025-08-23 23:06:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-08-23 23:06:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_hoe": {
-    "criteria": {
-      "has_cobblestone": "2025-08-23 23:06:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/torch": {
-    "criteria": {
-      "has_stone_pickaxe": "2025-08-23 23:06:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-08-23 23:06:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smoker": {
-    "criteria": {
-      "has_furnace": "2025-08-23 23:06:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-08-23 23:07:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-08-23 23:07:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-08-23 23:07:02 +0000"
-    },
-    "done": true
-  },
-  "gnumus:vasebreaker": {
-    "criteria": {
-      "vasebreaker": "2025-08-23 23:11:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather": {
-    "criteria": {
-      "has_rabbit_hide": "2025-08-23 23:11:20 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/rabbit_leather_gauntlet_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:11:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2025-08-23 23:11:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-08-23 23:11:20 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/rabbit_leather_quiver_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:11:20 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/rabbit_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-23 23:11:23 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/vegetable_sandwich": {
-    "criteria": {
-      "has_carrot": "2025-08-23 23:11:23 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/chicken_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-23 23:11:23 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_noodles": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-23 23:11:23 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fried_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-23 23:11:23 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/beef_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-23 23:11:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-08-23 23:11:23 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-23 23:11:23 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_glaive_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_sign": {
-    "criteria": {
-      "has_planks": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/cabinet": {
-    "criteria": {
-      "has_oak_planks": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_slab": {
-    "criteria": {
-      "has_planks": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/rolling_pin": {
-    "criteria": {
-      "has_oak_planks": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/oak_chest": {
-    "criteria": {
-      "has_oak_plank": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_door": {
-    "criteria": {
-      "has_planks": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/wall_cabinet": {
-    "criteria": {
-      "has_oak_planks": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/chocolate_box": {
-    "criteria": {
-      "has_oak_planks": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_sickle_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/oak_limited_barrel_1": {
-    "criteria": {
-      "has_oak_plank": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/oak_limited_barrel_2": {
-    "criteria": {
-      "has_oak_plank": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/oak_limited_barrel_3": {
-    "criteria": {
-      "has_oak_plank": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/oak_limited_barrel_4": {
-    "criteria": {
-      "has_oak_plank": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/oak_barrel": {
-    "criteria": {
-      "has_oak_plank": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_katana_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_cutlass_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_stairs": {
-    "criteria": {
-      "has_planks": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_fence": {
-    "criteria": {
-      "has_planks": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/street_sign": {
-    "criteria": {
-      "has_oak_planks": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_battle_staff_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/drawer": {
-    "criteria": {
-      "has_oak_planks": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_claymore_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_dagger_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/tray": {
-    "criteria": {
-      "has_oak_planks": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_button": {
-    "criteria": {
-      "has_planks": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_mace_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_great_hammer_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_scythe_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_flail_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_broad_sword_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_spear_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/brick_counter": {
-    "criteria": {
-      "has_oak_planks": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_dancer_s_sword_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:12:31 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/apple_cider": {
-    "criteria": {
-      "has_apple": "2025-08-23 23:12:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-08-23 23:13:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-08-23 23:13:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_button": {
-    "criteria": {
-      "has_planks": "2025-08-23 23:13:28 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/birch_plank_battle_staff_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:13:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_door": {
-    "criteria": {
-      "has_planks": "2025-08-23 23:13:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_fence": {
-    "criteria": {
-      "has_planks": "2025-08-23 23:13:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_sign": {
-    "criteria": {
-      "has_planks": "2025-08-23 23:13:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-08-23 23:13:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_slab": {
-    "criteria": {
-      "has_planks": "2025-08-23 23:13:28 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/birch_plank_scythe_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:13:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_stairs": {
-    "criteria": {
-      "has_planks": "2025-08-23 23:13:28 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/birch_plank_katana_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:13:28 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/birch_plank_mace_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:13:28 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/birch_plank_claymore_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:13:28 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/birch_plank_broad_sword_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:13:28 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/birch_limited_barrel_4": {
-    "criteria": {
-      "has_birch_plank": "2025-08-23 23:13:28 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/birch_limited_barrel_3": {
-    "criteria": {
-      "has_birch_plank": "2025-08-23 23:13:28 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/birch_limited_barrel_2": {
-    "criteria": {
-      "has_birch_plank": "2025-08-23 23:13:28 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/birch_limited_barrel_1": {
-    "criteria": {
-      "has_birch_plank": "2025-08-23 23:13:28 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/birch_plank_dancer_s_sword_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:13:28 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/birch_chest": {
-    "criteria": {
-      "has_birch_plank": "2025-08-23 23:13:28 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/birch_plank_sickle_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:13:28 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/birch_barrel": {
-    "criteria": {
-      "has_birch_plank": "2025-08-23 23:13:28 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/birch_plank_cutlass_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:13:28 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/birch_plank_glaive_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:13:28 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/birch_plank_great_hammer_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:13:28 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/birch_plank_dagger_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:13:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-08-23 23:13:28 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/birch_plank_spear_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:13:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-08-23 23:13:28 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/birch_plank_flail_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-23 23:13:28 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
-    "criteria": {
-      "has_mutton": "2025-08-23 23:13:31 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/shepherds_pie_block": {
-    "criteria": {
-      "has_cooked_mutton": "2025-08-23 23:13:31 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/mutton_wrap": {
-    "criteria": {
-      "has_mutton": "2025-08-23 23:13:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "cooked_porkchop": "2025-08-24 00:47:38 +0000",
-      "baked_potato": "2025-08-24 01:21:23 +0000",
-      "mushroom_stew": "2025-08-24 02:41:32 +0000",
-      "cooked_mutton": "2025-08-23 23:13:37 +0000",
-      "cooked_cod": "2025-08-24 00:44:24 +0000",
-      "bread": "2025-08-24 01:05:24 +0000",
-      "cooked_salmon": "2025-08-24 01:14:15 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:pillager": "2025-08-24 00:58:13 +0000",
-      "minecraft:skeleton": "2025-08-24 00:44:15 +0000",
-      "minecraft:spider": "2025-08-24 00:30:55 +0000",
-      "minecraft:creeper": "2025-08-23 23:17:22 +0000",
-      "minecraft:zombie": "2025-08-24 00:24:09 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:creeper": "2025-08-23 23:17:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-08-23 23:17:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2025-08-23 23:17:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lightning_rod": {
-    "criteria": {
-      "has_copper_ingot": "2025-08-23 23:17:56 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/decorations/copper_cup": {
-    "criteria": {
-      "has_copper": "2025-08-23 23:17:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/copper_block": {
-    "criteria": {
-      "has_copper_ingot": "2025-08-23 23:17:56 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/food/copper_carrot": {
-    "criteria": {
-      "has_copper": "2025-08-23 23:17:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/brush": {
-    "criteria": {
-      "has_copper_ingot": "2025-08-23 23:17:56 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/decorations/copper_pot": {
-    "criteria": {
-      "has_copper": "2025-08-23 23:17:56 +0000"
-    },
-    "done": true
-  },
-  "friendsandfoes:recipes/redstone/copper_button": {
-    "criteria": {
-      "has_copper_ingot": "2025-08-23 23:17:56 +0000"
-    },
-    "done": true
-  },
-  "gnumus:fatty_demon": {
-    "criteria": {
-      "fatty_demon": "2025-08-23 23:18:46 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/misc/crafting/rock_soup": {
-    "criteria": {
-      "has_magma_cream": "2025-08-23 23:20:09 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/cooking/rock_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-23 23:20:09 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/misc/crafting/magma_cake": {
-    "criteria": {
-      "has_magma_cream": "2025-08-23 23:20:09 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/misc/crafting/magma_cake_alt": {
-    "criteria": {
-      "has_magma_cream": "2025-08-23 23:20:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2025-08-23 23:20:09 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/misc/crafting/burnt_roll": {
-    "criteria": {
-      "has_magma_cream": "2025-08-23 23:20:09 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/cooking/burn_roll": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-23 23:20:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-08-23 23:20:11 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/misc/crafting/spicy_skewer": {
-    "criteria": {
-      "has_blaze_rod": "2025-08-23 23:20:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2025-08-23 23:20:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2025-08-23 23:20:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2025-08-23 23:20:12 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/bone_broth": {
-    "criteria": {
-      "has_bone": "2025-08-23 23:20:12 +0000"
-    },
-    "done": true
-  },
-  "ags_day_counter:firts_day_advancement": {
-    "criteria": {
-      "firts_day_advancement_0": "2025-08-23 23:21:40 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-24 02:00:50 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/iron_cutlass_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "ags_day_counter:tenth_day_advancement": {
-    "criteria": {
-      "tenth_day_advancement_0": "2025-08-24 02:00:25 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/grilled_salmon": {
-    "criteria": {
-      "has_salmon": "2025-08-24 00:41:16 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/building_blocks/crafting/letios_compost_from_bone_alt": {
-    "criteria": {
-      "has_bone_meal": "2025-08-24 00:33:17 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/diamond_bow_conditional_120_smithing": {
-    "criteria": {
-      "has_item": "2025-08-24 00:34:11 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/iron_battle_staff_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_rich_soil": {
-    "criteria": {
-      "get_rich_soil": "2025-08-24 02:39:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
-    "criteria": {
-      "has_chicken": "2025-08-24 01:57:45 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/jungle_plank_cutlass_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:31:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_wood": {
-    "criteria": {
-      "has_log": "2025-08-24 00:11:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-08-24 03:11:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_axe": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-24 00:41:12 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:recipes/hunting_post": {
-    "criteria": {
-      "has_arrow": "2025-08-24 00:45:33 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/gold_great_hammer_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:41:12 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/fletched_sticks_conditional_fletching": {
-    "criteria": {
-      "has_item": "2025-08-24 01:00:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-08-24 00:19:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_pickaxe": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-24 00:41:12 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2025-08-24 00:55:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-08-24 00:39:21 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/iron_glaive_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_iron_block": {
-    "criteria": {
-      "has_raw_iron": "2025-08-24 01:27:04 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/iron_bow_conditional_120_smithing": {
-    "criteria": {
-      "has_item": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-24 02:04:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_sword": {
-    "criteria": {
-      "has_diamond": "2025-08-24 00:34:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-08-24 00:33:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jukebox": {
-    "criteria": {
-      "has_diamond": "2025-08-24 00:34:11 +0000"
-    },
-    "done": true
-  },
-  "bagofholding:recipes/tools/leather_bag_of_holding": {
-    "criteria": {
-      "has_chest": "2025-08-24 00:32:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-24 00:41:12 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/mud_bricks_stove": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "collectorsreap:recipes/lime_seeds_from_lime": {
-    "criteria": {
-      "has_lime": "2025-08-24 01:10:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_helmet": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_shovel": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-24 00:41:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-08-24 01:20:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_chestplate": {
-    "criteria": {
-      "has_diamond": "2025-08-24 00:34:11 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/cooking/cave_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-24 02:04:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-08-24 00:55:18 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/tools/lead_from_straw": {
-    "criteria": {
-      "has_straw": "2025-08-24 03:00:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
-    "criteria": {
-      "has_andesite": "2025-08-24 01:27:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/golden_apple": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-24 00:41:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/green_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-08-24 00:19:36 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/half_iron_bow_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/quartz_stove": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roast_chicken_block": {
-    "criteria": {
-      "has_cooked_chicken": "2025-08-24 01:58:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_boots": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-24 00:41:12 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/strawberry_chocolate": {
-    "criteria": {
-      "has_strawberry": "2025-08-24 02:51:26 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
-    "criteria": {
-      "beef_patty": "2025-08-24 01:58:41 +0000"
-    },
-    "done": true
-  },
-  "goldenhopper:recipes/redstone/golden_hopper": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-24 00:41:12 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "onion": "2025-08-24 00:54:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-08-24 00:19:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit": {
-    "criteria": {
-      "has_rabbit": "2025-08-24 01:57:41 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/jungle_plank_scythe_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:31:56 +0000"
-    },
-    "done": true
-  },
-  "immersive_aircraft:misc/aircraftery": {
-    "criteria": {
-      "has_item": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_organic_compost": {
-    "criteria": {
-      "place_organic_compost": "2025-08-24 02:51:32 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_campfire": {
-    "criteria": {
-      "campfire": "2025-08-24 01:35:57 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
-    "criteria": {
-      "fried_egg": "2025-08-24 01:02:48 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/butter": {
-    "criteria": {
-      "has_water_bucket": "2025-08-24 00:40:40 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:recipes/mining_bench": {
-    "criteria": {
-      "has_iron_pickaxe": "2025-08-24 03:04:50 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/iron_sickle_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/shears": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-08-24 02:39:19 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/iron_bow_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/diamond_bow_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:34:11 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/iron_crossbow_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-08-24 00:43:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
-    "criteria": {
-      "has_rabbit": "2025-08-24 01:57:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/cherry_boat": {
-    "criteria": {
-      "in_water": "2025-08-24 00:36:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/carrot_from_crate": {
-    "criteria": {
-      "has_carrot_crate": "2025-08-24 01:06:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_pickaxe": {
-    "criteria": {
-      "has_diamond": "2025-08-24 00:34:11 +0000"
-    },
-    "done": true
-  },
-  "collectorsreap:recipes/food/mediterranean_salmon": {
-    "criteria": {
-      "has_lime": "2025-08-24 01:10:33 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/diamond_battle_staff_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:34:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_chestplate": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-24 00:41:12 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/spruce_banister": {
-    "criteria": {
-      "has_item": "2025-08-24 00:42:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/iron_block": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2025-08-24 00:30:57 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/cooking_pot": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_raft": {
-    "criteria": {
-      "in_water": "2025-08-24 00:36:36 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/jungle_plank_katana_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:31:56 +0000"
-    },
-    "done": true
-  },
-  "collectorsreap:recipes/food/lime_pie": {
-    "criteria": {
-      "has_lime": "2025-08-24 01:10:33 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/cooking/hotcream": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-24 00:55:59 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/jungle_chest": {
-    "criteria": {
-      "has_jungle_plank": "2025-08-24 00:31:56 +0000"
-    },
-    "done": true
-  },
-  "collectorsreap:recipes/food/berry_limeade": {
-    "criteria": {
-      "has_lime": "2025-08-24 01:10:33 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/baked_cod_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-24 00:39:21 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/bread_knife": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/iron_gauntlet_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/golden_knife": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-24 00:41:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/candle": {
-    "criteria": {
-      "has_string": "2025-08-24 00:30:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2025-08-24 01:11:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_candle": {
-    "criteria": {
-      "has_magenta_dye": "2025-08-24 01:20:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-08-24 00:33:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-08-24 01:02:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-08-24 01:11:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_hay_block": "2025-08-24 01:02:01 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/gold_stick_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:41:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_hoe": {
-    "criteria": {
-      "has_diamond": "2025-08-24 00:34:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2025-08-24 00:34:11 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/squid_ink_pasta": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-24 01:00:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/safely_harvest_honey": {
-    "criteria": {
-      "safely_harvest_honey": "2025-08-24 01:36:10 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/diamond_cutlass_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:34:11 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/gold_broad_sword_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:41:12 +0000"
-    },
-    "done": true
-  },
-  "collectorsreap:recipes/food/deluxe_salad": {
-    "criteria": {
-      "has_lime": "2025-08-24 01:10:33 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/eat_comfort_food": {
-    "criteria": {
-      "comfort": "2025-08-24 02:41:32 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/jungle_plank_dagger_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:31:56 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "brown_mushroom": "2025-08-24 02:39:42 +0000",
-      "sugar_cane": "2025-08-24 00:50:22 +0000",
-      "wheat": "2025-08-24 02:50:58 +0000"
-    },
-    "done": false
-  },
-  "expanded_combat:recipes/combat/diamond_flail_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:34:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-24 00:41:12 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-24 00:34:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-08-24 02:39:19 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/iron_spear_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/diamond_bow_conditional_shaped_skip": {
-    "criteria": {
-      "has_item": "2025-08-24 00:34:11 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/iron_broad_sword_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_stairs": {
-    "criteria": {
-      "has_planks": "2025-08-24 00:31:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2025-08-24 01:15:23 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/iron_chair": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-08-24 02:39:19 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/jungle_plank_mace_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:31:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-08-24 00:19:36 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/jungle_plank_broad_sword_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:31:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-08-24 01:22:04 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/gold_katana_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:41:12 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/gold_sickle_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:41:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/hopper": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/cooking/egg_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-24 01:02:48 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/jungle_plank_flail_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:31:56 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/diamond_spear_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:34:11 +0000"
+      "the_exiled_0": "2025-08-25 20:08:12 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
     "criteria": {
-      "cooked_bacon": "2025-08-24 01:57:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lime_dye": {
-    "criteria": {
-      "has_white_dye": "2025-08-24 00:33:20 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/diamond_scythe_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:34:11 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/hot_cocoa": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-24 02:20:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-08-24 00:55:59 +0000"
+      "cooked_bacon": "2025-08-25 20:08:48 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
     "criteria": {
-      "cooked_bacon": "2025-08-24 01:57:40 +0000"
-    },
-    "done": true
-  },
-  "xtraarrows:recipes/all_recipes": {
-    "criteria": {
-      "has_arrow": "2025-08-24 00:45:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2025-08-24 00:34:16 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/spruce_cabinet": {
-    "criteria": {
-      "has_spruce_trapdoor": "2025-08-24 02:40:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-08-24 00:33:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-08-24 00:19:36 +0000"
+      "cooked_bacon": "2025-08-25 20:08:48 +0000"
     },
     "done": true
   },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
-      "has_porkchop": "2025-08-24 00:40:34 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_chicken_cuts_from_campfire_cooking": {
-    "criteria": {
-      "cooked_chicken_cuts": "2025-08-24 02:04:28 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/faucet": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/tomato_crate": {
-    "criteria": {
-      "has_tomato": "2025-08-24 01:00:39 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/gold_bow_conditional_120_smithing": {
-    "criteria": {
-      "has_item": "2025-08-24 00:41:12 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/diamond_dancer_s_sword_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:34:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_boots": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/granite_stove": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/misc/crafting/nethers_stove": {
-    "criteria": {
-      "has_campfire": "2025-08-24 01:35:56 +0000"
-    },
-    "done": true
-  },
-  "bakery:main/find_wild_crops": {
-    "criteria": {
-      "tomato": "2025-08-24 00:54:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-08-24 00:33:20 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/yeast": {
-    "criteria": {
-      "has_the_recipe": "2025-08-24 00:40:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lantern": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beef_patty": {
-    "criteria": {
-      "beef_patty": "2025-08-24 01:58:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-08-24 00:19:36 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/gold_bow_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:41:12 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/dumplings": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-24 00:54:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2025-08-24 00:55:18 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/oat_block": {
-    "criteria": {
-      "has_oat": "2025-08-24 00:54:18 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_ham": {
-    "criteria": {
-      "ham": "2025-08-24 01:14:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-08-24 00:31:56 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_chicken_cuts": {
-    "criteria": {
-      "cooked_chicken_cuts": "2025-08-24 02:04:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-08-24 01:57:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:bee": "2025-08-24 01:22:55 +0000",
-      "minecraft:pig": "2025-08-24 01:15:23 +0000",
-      "minecraft:chicken": "2025-08-24 02:49:33 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-08-24 01:27:14 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/gold_glaive_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:41:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_shovel": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2025-08-24 00:41:16 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
-    "criteria": {
-      "cooked_mutton_chops": "2025-08-24 01:57:49 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-24 00:34:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_helmet": {
-    "criteria": {
-      "has_diamond": "2025-08-24 00:34:11 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/iron_claymore_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/half_diamond_bow_conditional_120_smithing": {
-    "criteria": {
-      "has_item": "2025-08-24 00:34:11 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_gold_ingot": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/gold]": "2025-08-24 00:41:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jungle_sign": {
-    "criteria": {
-      "has_planks": "2025-08-24 00:31:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_door": {
-    "criteria": {
-      "has_planks": "2025-08-24 00:31:56 +0000"
-    },
-    "done": true
-  },
-  "collectorsreap:recipes/food/strawberry_jam_bun": {
-    "criteria": {
-      "has_strawberries": "2025-08-24 01:56:58 +0000"
-    },
-    "done": true
-  },
-  "collectorsreap:recipes/food/mint_limeade": {
-    "criteria": {
-      "has_lime": "2025-08-24 01:10:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_sword": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-24 00:41:12 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_diamond_ingot": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:gems/diamond]": "2025-08-24 00:34:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-08-24 02:39:19 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/jungle_plank_dancer_s_sword_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:31:56 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/decorations/sticky_basket": {
-    "criteria": {
-      "has_cobweb": "2025-08-24 00:34:19 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beetroot_from_crate": {
-    "criteria": {
-      "has_beetroot_crate": "2025-08-24 01:58:38 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
-    "criteria": {
-      "has_vanilla_chest": "2025-08-24 00:32:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gold_block": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-24 00:41:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-08-24 00:40:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2025-08-24 00:36:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/iron_trapdoor": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jungle_fence": {
-    "criteria": {
-      "has_planks": "2025-08-24 00:31:56 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/gold_gauntlet_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:41:12 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/gold_mace_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:41:12 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/jungle_plank_battle_staff_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:31:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-08-24 01:27:04 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/oat_crate": {
-    "criteria": {
-      "has_oat": "2025-08-24 00:54:18 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/gold_flail_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:41:12 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/sandstone_stove": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough": {
-    "criteria": {
-      "has_wheat": "2025-08-24 01:11:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-08-24 00:19:36 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/jungle_plank_spear_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:31:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/crossbow": {
-    "criteria": {
-      "has_string": "2025-08-24 00:30:57 +0000"
+      "has_porkchop": "2025-08-25 20:08:48 +0000"
     },
     "done": true
   },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
-      "has_porkchop": "2025-08-24 00:40:34 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-08-24 00:55:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gray_dye": {
-    "criteria": {
-      "has_white_dye": "2025-08-24 00:33:20 +0000"
-    },
-    "done": true
-  },
-  "goldenhopper:recipes/transportation/golden_hopper_minecart": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-24 00:41:12 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/sweet_berry_cookie": {
-    "criteria": {
-      "has_sweet_berries": "2025-08-24 00:41:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diamond_block": {
-    "criteria": {
-      "has_diamond": "2025-08-24 00:34:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
-    "criteria": {
-      "has_log": "2025-08-24 01:02:45 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "diamond_knife": "2025-08-24 01:14:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-08-24 01:27:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_bed": {
-    "criteria": {
-      "has_white_wool": "2025-08-24 01:24:56 +0000"
-    },
-    "done": true
-  },
-  "collectorsreap:recipes/food/lime_ice_cream": {
-    "criteria": {
-      "has_lime": "2025-08-24 01:10:33 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/potato_from_crate": {
-    "criteria": {
-      "has_potato_crate": "2025-08-24 01:57:31 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/pie_crust": {
-    "criteria": {
-      "has_wheat": "2025-08-24 01:11:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/iron_knife": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-08-24 00:33:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purple_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-08-24 00:19:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/rope": {
-    "criteria": {
-      "has_straw": "2025-08-24 03:00:52 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/diamond_arrow_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:34:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2025-08-24 00:34:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-08-24 00:19:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cake_from_milk_bottle": {
-    "criteria": {
-      "has_milk_bottle": "2025-08-24 02:22:35 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2025-08-24 00:33:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
-    "criteria": {
-      "has_coal_ore": "2025-08-24 03:16:43 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/organic_compost_from_tree_bark": {
-    "criteria": {
-      "has_tree_bark": "2025-08-24 03:00:51 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/onion": {
-    "criteria": {
-      "has_onion_crate": "2025-08-24 01:13:45 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/iron_scythe_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/diamond_crossbow_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:34:11 +0000"
+      "has_porkchop": "2025-08-25 20:08:48 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/food/cooked_bacon": {
     "criteria": {
-      "cooked_bacon": "2025-08-24 01:57:40 +0000"
+      "cooked_bacon": "2025-08-25 20:08:48 +0000"
     },
     "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_slab": {
-    "criteria": {
-      "has_planks": "2025-08-24 00:31:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef": {
-    "criteria": {
-      "has_beef": "2025-08-24 00:34:16 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_chicken_cuts_from_smoking": {
-    "criteria": {
-      "cooked_chicken_cuts": "2025-08-24 02:04:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2025-08-24 00:36:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:first_workstation_get": {
-    "criteria": {
-      "smoker": "2025-08-24 00:49:41 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/jungle_plank_claymore_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:31:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-08-24 00:33:17 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/twilight_oak_boat": {
-    "criteria": {
-      "in_water": "2025-08-24 00:36:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/dog_food": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-24 00:24:13 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/fried_egg_from_smoking": {
-    "criteria": {
-      "fried_egg": "2025-08-24 01:02:48 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/nether_salad": {
-    "criteria": {
-      "has_bowl": "2025-08-24 00:40:39 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_cooking_pot": {
-    "criteria": {
-      "cooking_pot": "2025-08-24 01:08:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/diamond_knife": {
-    "criteria": {
-      "has_diamond": "2025-08-24 00:34:11 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/time_boat": {
-    "criteria": {
-      "in_water": "2025-08-24 00:36:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-08-24 01:02:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_leggings": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/mining_boat": {
-    "criteria": {
-      "in_water": "2025-08-24 00:36:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-08-24 00:19:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/smoked_ham": {
-    "criteria": {
-      "has_ham": "2025-08-24 01:14:59 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/milk_bottle": {
-    "criteria": {
-      "has_milk_bucket": "2025-08-24 02:20:34 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/bread_from_smelting": {
-    "criteria": {
-      "has_dough": "2025-08-24 01:03:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-08-24 00:19:36 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/small_cooking_pot": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-08-24 00:19:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/straw_bale": {
-    "criteria": {
-      "has_straw": "2025-08-24 03:00:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_leggings": "2025-08-24 00:55:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_leggings": {
-    "criteria": {
-      "has_diamond": "2025-08-24 00:34:11 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/iron_ladder": {
-    "criteria": {
-      "has_iron_bars": "2025-08-24 00:54:51 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fish_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-24 00:39:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_iron_shovel": "2025-08-24 00:24:12 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/oat_seeds": {
-    "criteria": {
-      "has_wheat_seeds": "2025-08-24 00:15:03 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/milk_bucket_from_bottles": {
-    "criteria": {
-      "has_milk_bottle": "2025-08-24 02:22:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-08-24 02:00:51 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/iron_bow_conditional_shaped_skip": {
-    "criteria": {
-      "has_item": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/gold_quiver_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:41:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-08-24 03:04:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_chestplate": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "collectorsreap:recipes/food/lime_cookie": {
-    "criteria": {
-      "has_lime": "2025-08-24 01:10:33 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/diamond_mace_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:34:11 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/iron_arrow_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2025-08-24 01:57:45 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/kitchen_sink": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brown_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-08-24 00:19:36 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/diamond_dagger_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:34:11 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/gold_spear_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:41:12 +0000"
-    },
-    "done": true
-  },
-  "some_assembly_required:recipes/food/crafting_shapeless/burger_bun": {
-    "criteria": {
-      "has_wheat": "2025-08-24 01:11:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bucket": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-08-24 00:19:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2025-08-24 00:30:57 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/iron_stick_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/sandwich": {
-    "criteria": {
-      "has_bread": "2025-08-24 00:55:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/minecart": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_hoe": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_mushroom_stew": "2025-08-24 00:40:37 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_mutton_chops": {
-    "criteria": {
-      "cooked_mutton_chops": "2025-08-24 01:57:49 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/honey_cookie": {
-    "criteria": {
-      "has_honey_bottle": "2025-08-24 01:36:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-08-24 02:00:51 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:all_workstations_get": {
-    "criteria": {
-      "fletchingtable": "2025-08-24 00:55:41 +0000",
-      "grindstone": "2025-08-24 00:55:52 +0000",
-      "smoker": "2025-08-24 00:49:41 +0000",
-      "smithingtable": "2025-08-24 00:55:52 +0000",
-      "blastfurnace": "2025-08-24 03:07:28 +0000",
-      "cauldron": "2025-08-24 00:56:01 +0000"
-    },
-    "done": false
   },
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
-      "has_any_ingredient": "2025-08-24 00:40:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2025-08-24 01:24:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_the_recipe": "2025-08-24 00:45:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_helmet": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-24 00:41:12 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/iron_dagger_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2025-08-24 00:41:16 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/iron_dancer_s_sword_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-08-24 00:42:15 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/strawberry_seeds": {
-    "criteria": {
-      "has_strawberry": "2025-08-24 02:51:26 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/upgrade_base": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2025-08-24 01:00:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-08-24 01:27:14 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2025-08-24 00:36:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/diamond_gauntlet_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:34:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2025-08-24 00:30:57 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/gold_dancer_s_sword_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:41:12 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/half_diamond_bow_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:34:11 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/iron_mace_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:54:15 +0000"
+      "has_any_ingredient": "2025-08-25 20:08:48 +0000"
     },
     "done": true
   },
   "mynethersdelight:recipes/cooking/spicy_noodle_soup": {
     "criteria": {
-      "has_any_ingredient": "2025-08-24 00:40:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/beehive": {
-    "criteria": {
-      "has_honeycomb": "2025-08-24 01:09:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-08-24 00:34:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
-    "criteria": {
-      "has_rabbit": "2025-08-24 01:57:41 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/paper_from_tree_bark": {
-    "criteria": {
-      "has_tree_bark": "2025-08-24 03:00:51 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/cabbage_rolls": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-24 01:06:17 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/transformation_boat": {
-    "criteria": {
-      "in_water": "2025-08-24 00:36:36 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/cooking/pasta_with_veggieballs": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-24 01:32:50 +0000"
-    },
-    "done": true
-  },
-  "collectorsreap:recipes/food/pink_limeade": {
-    "criteria": {
-      "has_lime": "2025-08-24 01:10:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_candle": {
-    "criteria": {
-      "has_white_dye": "2025-08-24 00:33:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-08-24 01:27:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-08-24 00:19:36 +0000"
-    },
-    "done": true
-  },
-  "illagerinvasion:recipes/misc/platinum_sheet": {
-    "criteria": {
-      "has_platinum_chunk": "2025-08-24 00:58:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chain": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
-    "criteria": {
-      "has_coal_ore": "2025-08-24 03:16:43 +0000"
+      "has_any_ingredient": "2025-08-25 20:08:48 +0000"
     },
     "done": true
   },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
-      "has_porkchop": "2025-08-24 00:40:34 +0000"
+      "has_porkchop": "2025-08-25 20:08:48 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
-      "has_any_ingredient": "2025-08-24 00:40:34 +0000"
+      "has_any_ingredient": "2025-08-25 20:08:48 +0000"
     },
     "done": true
   },
-  "expanded_combat:recipes/combat/gold_battle_staff_conditional_shaped": {
+  "minecraft:recipes/decorations/ladder": {
     "criteria": {
-      "has_item": "2025-08-24 00:41:12 +0000"
+      "has_stick": "2025-08-25 20:08:49 +0000"
     },
     "done": true
   },
-  "bakery:recipes/red_nether_bricks_stove": {
+  "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
+      "has_stick": "2025-08-25 20:08:49 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/seagull_steal": {
+  "bakery:recipes/cupcake_display": {
     "criteria": {
-      "ex": "2025-08-24 01:28:07 +0000"
+      "has_stick": "2025-08-25 20:08:49 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/barbecue_stick": {
+  "minecraft:recipes/decorations/campfire": {
     "criteria": {
-      "has_onion": "2025-08-24 00:54:19 +0000"
+      "has_stick": "2025-08-25 20:08:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/smithing_table": {
+  "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
+      "has_stick": "2025-08-25 20:08:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+  "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
-      "has_honey_bottle": "2025-08-24 01:36:10 +0000"
+      "has_stick": "2025-08-25 20:08:49 +0000"
     },
     "done": true
   },
-  "expanded_combat:recipes/combat/gold_claymore_conditional_shaped": {
+  "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
-      "has_item": "2025-08-24 00:41:12 +0000"
+      "has_stick": "2025-08-25 20:08:49 +0000"
     },
     "done": true
   },
-  "some_assembly_required:obtain_sandwich": {
+  "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
-      "obtain_sandwich": "2025-08-24 01:57:01 +0000"
+      "has_stick": "2025-08-25 20:08:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/honey_block": {
+  "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
-      "has_honey_bottle": "2025-08-24 01:36:10 +0000"
+      "has_stick": "2025-08-25 20:08:49 +0000"
     },
     "done": true
   },
-  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+  "bakery:recipes/bread_box": {
     "criteria": {
-      "has_TagKey[minecraft:item / forge:gems/emerald]": "2025-08-24 00:34:09 +0000"
+      "has_stick": "2025-08-25 20:08:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_boat": {
+  "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
-      "in_water": "2025-08-24 00:36:36 +0000"
+      "has_stick": "2025-08-25 20:08:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_button": {
+  "farmersdelight:main/craft_knife": {
     "criteria": {
-      "has_planks": "2025-08-24 00:31:56 +0000"
+      "iron_knife": "2025-08-25 20:08:51 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/canvas": {
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
     "criteria": {
-      "has_straw": "2025-08-24 03:00:52 +0000"
+      "has_iron_knife": "2025-08-25 20:08:51 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
     "criteria": {
-      "cooked_mutton_chops": "2025-08-24 01:57:49 +0000"
+      "has_iron_knife": "2025-08-25 20:08:51 +0000"
     },
     "done": true
   },
-  "expanded_combat:recipes/combat/diamond_claymore_conditional_shaped": {
+  "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
-      "has_item": "2025-08-24 00:34:11 +0000"
+      "has_leather": "2025-08-25 20:08:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
+  "expanded_combat:recipes/combat/leather_stick_conditional_shaped": {
     "criteria": {
-      "in_water": "2025-08-24 00:36:36 +0000"
+      "has_item": "2025-08-25 20:08:52 +0000"
     },
     "done": true
   },
-  "expanded_combat:recipes/combat/gold_bow_conditional_shaped_skip": {
+  "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
-      "has_item": "2025-08-24 00:41:12 +0000"
+      "has_leather": "2025-08-25 20:08:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_carpet": {
+  "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "has_white_wool": "2025-08-24 01:24:56 +0000"
+      "has_lots_of_items": "2025-08-25 20:08:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/oak_boat": {
+  "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
-      "in_water": "2025-08-24 00:36:36 +0000"
+      "has_leather": "2025-08-25 20:08:52 +0000"
     },
     "done": true
   },
-  "expanded_combat:recipes/combat/half_gold_bow_conditional_shaped": {
+  "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
-      "has_item": "2025-08-24 00:41:12 +0000"
+      "has_leather": "2025-08-25 20:08:52 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/bread_from_smoking": {
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
-      "has_dough": "2025-08-24 01:03:52 +0000"
+      "has_mutton": "2025-08-25 20:08:52 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/cooked_rice": {
+  "minecraft:recipes/decorations/item_frame": {
     "criteria": {
-      "has_rice": "2025-08-24 02:00:50 +0000"
+      "has_leather": "2025-08-25 20:08:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+  "expanded_combat:recipes/combat/leather_quiver_conditional_shaped": {
     "criteria": {
-      "has_andesite": "2025-08-24 01:27:14 +0000"
+      "has_item": "2025-08-25 20:08:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-08-25 20:08:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-08-25 20:08:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-08-25 20:08:52 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/leather_gauntlet_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:08:52 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
-      "has_coal": "2025-08-24 00:39:38 +0000"
+      "has_coal": "2025-08-25 20:08:52 +0000"
     },
     "done": true
   },
-  "mynethersdelight:recipes/cooking/scotch_eggs": {
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
-      "has_any_ingredient": "2025-08-24 01:02:48 +0000"
+      "has_leather": "2025-08-25 20:08:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+  "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
-      "has_white_dye": "2025-08-24 00:33:20 +0000"
+      "has_mutton": "2025-08-25 20:08:52 +0000"
     },
     "done": true
   },
-  "expanded_combat:recipes/combat/diamond_broad_sword_conditional_shaped": {
+  "miners_delight:recipes/decorations/sticky_basket": {
     "criteria": {
-      "has_item": "2025-08-24 00:34:11 +0000"
+      "has_cobweb": "2025-08-25 20:08:53 +0000"
     },
     "done": true
   },
-  "expanded_combat:recipes/combat/diamond_great_hammer_conditional_shaped": {
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
-      "has_item": "2025-08-24 00:34:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2025-08-24 01:13:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-08-24 00:31:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_boots": {
-    "criteria": {
-      "has_diamond": "2025-08-24 00:34:11 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/cobblestone_stove": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_sword": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
-    "criteria": {
-      "has_white_tulip": "2025-08-24 01:21:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_pickaxe": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2025-08-24 00:36:36 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/building_blocks/crafting/letios_compost_from_rotten_flesh": {
-    "criteria": {
-      "has_rotten_flesh": "2025-08-24 00:24:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/shield": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/iron_flail_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "collectorsreap:recipes/lime_crate": {
-    "criteria": {
-      "has_lime": "2025-08-24 01:10:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-08-24 01:27:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/iron_bars": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2025-08-24 01:41:03 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/strawberry_crate": {
-    "criteria": {
-      "has_strawberry": "2025-08-24 02:51:26 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/jungle_barrel": {
-    "criteria": {
-      "has_jungle_plank": "2025-08-24 00:31:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2025-08-24 00:41:16 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/iron_table": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/banana": {
-    "criteria": {
-      "banana": "2025-08-24 00:12:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2025-08-24 00:11:35 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/stove": {
-    "criteria": {
-      "has_campfire": "2025-08-24 01:35:56 +0000"
-    },
-    "done": true
-  },
-  "collectorsreap:recipes/food/salmon_tartare": {
-    "criteria": {
-      "has_citrus": "2025-08-24 01:10:33 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_mushroom_colony": {
-    "criteria": {
-      "red_mushroom_colony": "2025-08-24 02:09:10 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/deepslate_stove": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "wildberries:berry": {
-    "criteria": {
-      "berry": "2025-08-24 00:11:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-08-24 01:27:04 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/iron_great_hammer_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/half_iron_bow_conditional_120_smithing": {
-    "criteria": {
-      "has_item": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "collectorsreap:recipes/food/potato_fritters": {
-    "criteria": {
-      "has_lime": "2025-08-24 01:10:33 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beef_patty_from_smoking": {
-    "criteria": {
-      "beef_patty": "2025-08-24 01:58:41 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cabbage": {
-    "criteria": {
-      "has_cabbage_crate": "2025-08-24 01:58:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-08-24 00:33:20 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/canopy_boat": {
-    "criteria": {
-      "in_water": "2025-08-24 00:36:36 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/gold_dagger_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:41:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_magenta_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-08-24 01:20:23 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/dark_boat": {
-    "criteria": {
-      "in_water": "2025-08-24 00:36:36 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/misc/crafting/golden_egg": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-24 00:41:12 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/diamond_quiver_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:34:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_banner": {
-    "criteria": {
-      "has_white_wool": "2025-08-24 01:24:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-08-24 02:39:19 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/brick_stove": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_magenta_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-08-24 01:20:23 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/straw": {
-    "criteria": {
-      "has_straw_bale": "2025-08-24 03:01:09 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/mixed_salad": {
-    "criteria": {
-      "has_bowl": "2025-08-24 00:40:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-08-24 02:00:51 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
-    "criteria": {
-      "has_straw": "2025-08-24 03:00:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/use_cutting_board": {
-    "criteria": {
-      "cutting_board": "2025-08-24 01:32:50 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/gold_cutlass_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:41:12 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/iron_quiver_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "collectorsreap:recipes/food/limeade": {
-    "criteria": {
-      "has_lime": "2025-08-24 01:10:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite": {
-    "criteria": {
-      "has_andesite": "2025-08-24 01:27:14 +0000"
-    },
-    "done": true
-  },
-  "immersive_paintings:misc/graffiti": {
-    "criteria": {
-      "has_item": "2025-08-24 00:41:30 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/end_bricks_stove": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/eat_nourishing_food": {
-    "criteria": {
-      "nourishment": "2025-08-24 02:21:41 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
-    "criteria": {
-      "has_backpack": "2025-08-24 00:32:40 +0000"
-    },
-    "done": true
-  },
-  "man_of_many_planes:misc/expanded_aircraftery": {
-    "criteria": {
-      "has_item": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/harvest_straw": {
-    "criteria": {
-      "harvest_straw": "2025-08-24 03:00:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-08-24 00:19:36 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/jungle_limited_barrel_3": {
-    "criteria": {
-      "has_jungle_plank": "2025-08-24 00:31:56 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/jungle_limited_barrel_2": {
-    "criteria": {
-      "has_jungle_plank": "2025-08-24 00:31:56 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/jungle_limited_barrel_1": {
-    "criteria": {
-      "has_jungle_plank": "2025-08-24 00:31:56 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/jungle_limited_barrel_4": {
-    "criteria": {
-      "has_jungle_plank": "2025-08-24 00:31:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-08-24 00:33:20 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/diamond_sickle_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:34:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2025-08-24 00:35:58 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/tomato_sauce": {
-    "criteria": {
-      "has_tomato": "2025-08-24 01:00:39 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/ratatouille": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-24 00:54:19 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/tomato_seeds": {
-    "criteria": {
-      "has_tomato": "2025-08-24 01:00:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
-    "criteria": {
-      "has_string": "2025-08-24 00:30:57 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/gold_scythe_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:41:12 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
-    "criteria": {
-      "has_rotten_flesh": "2025-08-24 00:24:13 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/rice_bag": {
-    "criteria": {
-      "has_rice": "2025-08-24 02:00:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2025-08-24 00:39:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_magenta_dye": "2025-08-24 01:20:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-08-24 00:33:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-08-24 00:31:56 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/stuffed_potato": {
-    "criteria": {
-      "has_baked_potato": "2025-08-24 00:55:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-08-24 00:19:36 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/jungle_plank_great_hammer_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:31:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_axe": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/diamond_katana_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:34:11 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/tomato": {
-    "criteria": {
-      "has_tomato_crate": "2025-08-24 01:45:18 +0000"
+      "has_iron_axe": "2025-08-25 20:09:36 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
-      "has_iron_shovel": "2025-08-24 00:24:12 +0000"
+      "has_iron_axe": "2025-08-25 20:09:36 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+  "farmersdelight:recipes/misc/straw": {
     "criteria": {
-      "has_iron_backpack": "2025-08-24 00:56:22 +0000"
+      "has_straw_bale": "2025-08-25 20:09:40 +0000"
     },
     "done": true
   },
-  "expanded_combat:recipes/combat/jungle_plank_glaive_conditional_shaped": {
+  "farmersdelight:recipes/food/carrot_from_crate": {
     "criteria": {
-      "has_item": "2025-08-24 00:31:56 +0000"
+      "has_carrot_crate": "2025-08-25 20:09:54 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "farmersdelight:recipes/food/beetroot_from_crate": {
     "criteria": {
-      "wheat": "2025-08-24 02:50:58 +0000"
+      "has_beetroot_crate": "2025-08-25 20:09:54 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/chicken_sandwich": {
+  "farmersdelight:recipes/food/potato_from_crate": {
     "criteria": {
-      "has_cooked_chicken": "2025-08-24 01:58:43 +0000"
+      "has_potato_crate": "2025-08-25 20:09:54 +0000"
     },
     "done": true
   },
-  "collectorsreap:recipes/food/cod_ceviche": {
+  "farmersdelight:recipes/food/tomato": {
     "criteria": {
-      "has_citrus": "2025-08-24 01:10:33 +0000"
+      "has_tomato_crate": "2025-08-25 20:09:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/andesite_wall": {
+  "farmersdelight:recipes/food/onion": {
     "criteria": {
-      "has_andesite": "2025-08-24 01:27:14 +0000"
+      "has_onion_crate": "2025-08-25 20:09:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_slab": {
+  "farmersdelight:recipes/food/rice_from_bag": {
     "criteria": {
-      "has_andesite": "2025-08-24 01:27:14 +0000"
+      "has_rice_bag": "2025-08-25 20:10:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+  "mutantmonsters:root": {
     "criteria": {
-      "has_oxeye_daisy": "2025-08-24 01:22:04 +0000"
+      "killed_something": "2025-08-25 20:10:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+  "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "has_white_dye": "2025-08-24 00:33:20 +0000"
+      "minecraft:pillager": "2025-08-25 20:10:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-08-25 20:10:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "has_hay_block": "2025-08-24 01:02:01 +0000"
+      "killed_something": "2025-08-25 20:10:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_hoe": {
+  "minecraft:adventure/kill_a_mob": {
     "criteria": {
-      "has_gold_ingot": "2025-08-24 00:41:12 +0000"
+      "minecraft:pillager": "2025-08-25 20:10:48 +0000"
+    },
+    "done": true
+  },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2025-08-25 20:10:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-08-25 20:11:00 +0000",
+      "suspicious_stew": "2025-08-25 20:31:21 +0000",
+      "cooked_mutton": "2025-08-25 20:20:32 +0000",
+      "cooked_rabbit": "2025-08-25 21:26:58 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-25 20:11:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-25 20:11:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-25 20:11:16 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/cave_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-25 20:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-25 20:11:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-25 20:11:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-08-25 20:11:16 +0000"
     },
     "done": true
   },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
-      "has_mushroom_stew": "2025-08-24 00:40:37 +0000"
+      "has_brown_mushroom": "2025-08-25 20:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-08-25 20:11:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-08-25 20:11:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-08-25 20:11:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_mushroom_colony": {
+    "criteria": {
+      "red_mushroom_colony": "2025-08-25 20:11:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cabbage": {
+    "criteria": {
+      "has_cabbage_crate": "2025-08-25 20:13:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-08-25 20:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-08-25 20:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-08-25 20:13:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-08-25 20:13:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-08-25 20:13:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/smoked_ham": {
+    "criteria": {
+      "has_ham": "2025-08-25 20:13:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-08-25 20:13:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-08-25 20:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-08-25 20:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-08-25 20:13:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-25 20:13:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-08-25 20:13:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-08-25 20:13:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-08-25 20:13:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-25 20:14:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-25 20:14:07 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/building_blocks/cabbage_crate": {
     "criteria": {
-      "has_cabbage": "2025-08-24 01:06:17 +0000"
+      "has_cabbage": "2025-08-25 20:14:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod": {
+  "farmersdelight:main/get_fd_seed": {
     "criteria": {
-      "has_cod": "2025-08-24 00:39:21 +0000"
+      "onion": "2025-08-25 20:14:10 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/transportation/sorting_boat": {
+  "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
-      "in_water": "2025-08-24 00:36:36 +0000"
+      "has_any_ingredient": "2025-08-25 20:14:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+  "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
-      "has_mossy_cobblestone": "2025-08-24 02:39:19 +0000"
+      "has_onion": "2025-08-25 20:14:10 +0000"
     },
     "done": true
   },
-  "collectorsreap:recipes/food/lime_cake": {
+  "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
-      "has_lime": "2025-08-24 01:10:33 +0000"
+      "has_any_ingredient": "2025-08-25 20:14:10 +0000"
     },
     "done": true
   },
-  "expanded_combat:recipes/combat/gold_crossbow_conditional_shaped": {
+  "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
-      "has_item": "2025-08-24 00:41:12 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/iron_katana_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/diamond_glaive_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:34:11 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_iron_ingot": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/iron]": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/jungle_plank_sickle_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-24 00:31:56 +0000"
+      "has_any_ingredient": "2025-08-25 20:14:10 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/building_blocks/onion_crate": {
     "criteria": {
-      "has_onion": "2025-08-24 00:54:19 +0000"
+      "has_onion": "2025-08-25 20:14:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/loom": {
+  "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
-      "has_string": "2025-08-24 00:30:57 +0000"
+      "has_any_ingredient": "2025-08-25 20:14:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_axe": {
+  "minecraft:recipes/misc/charcoal": {
     "criteria": {
-      "has_diamond": "2025-08-24 00:34:11 +0000"
+      "has_log": "2025-08-25 20:15:26 +0000"
     },
     "done": true
   },
-  "collectorsreap:recipes/food/honey_lime_chicken": {
+  "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
-      "has_lime": "2025-08-24 01:10:33 +0000"
+      "has_logs": "2025-08-25 20:15:26 +0000"
     },
     "done": true
   },
-  "expanded_combat:recipes/combat/half_gold_bow_conditional_120_smithing": {
+  "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
-      "has_item": "2025-08-24 00:41:12 +0000"
+      "has_log": "2025-08-25 20:15:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-08-25 20:15:48 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/cabinet": {
+    "criteria": {
+      "has_oak_planks": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/generic_chest": {
+    "criteria": {
+      "has _plank": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/rolling_pin": {
+    "criteria": {
+      "has_oak_planks": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_chest": {
+    "criteria": {
+      "has_oak_plank": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/wall_cabinet": {
+    "criteria": {
+      "has_oak_planks": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/chocolate_box": {
+    "criteria": {
+      "has_oak_planks": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_limited_barrel_1": {
+    "criteria": {
+      "has_oak_plank": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_limited_barrel_2": {
+    "criteria": {
+      "has_oak_plank": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_limited_barrel_3": {
+    "criteria": {
+      "has_oak_plank": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_limited_barrel_4": {
+    "criteria": {
+      "has_oak_plank": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_barrel": {
+    "criteria": {
+      "has_oak_plank": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/street_sign": {
+    "criteria": {
+      "has_oak_planks": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/drawer": {
+    "criteria": {
+      "has_oak_planks": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/generic_limited_barrel_2": {
+    "criteria": {
+      "has _plank": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/generic_limited_barrel_3": {
+    "criteria": {
+      "has _plank": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/generic_limited_barrel_1": {
+    "criteria": {
+      "has _plank": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/generic_limited_barrel_4": {
+    "criteria": {
+      "has _plank": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/tray": {
+    "criteria": {
+      "has_oak_planks": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/generic_barrel": {
+    "criteria": {
+      "has _plank": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/brick_counter": {
+    "criteria": {
+      "has_oak_planks": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:16:40 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-08-25 20:16:44 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:root": {
+    "criteria": {
+      "crafting_table": "2025-08-25 20:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-08-25 20:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-08-25 20:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-08-25 20:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-08-25 20:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-08-25 20:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-25 20:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-08-25 20:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-08-25 20:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-08-25 20:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-08-25 20:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-08-25 20:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-08-25 20:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-08-25 20:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-25 20:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-08-25 20:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-25 20:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-08-25 20:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-08-25 20:18:24 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/butter": {
+    "criteria": {
+      "has_water_bucket": "2025-08-25 20:18:45 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/yeast": {
+    "criteria": {
+      "has_the_recipe": "2025-08-25 20:18:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-08-25 20:18:45 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_barrel": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-08-25 20:19:13 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:13 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-25 20:19:13 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_2": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-08-25 20:19:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_1": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-08-25 20:19:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_4": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-08-25 20:19:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_3": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-08-25 20:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-08-25 20:19:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_chest": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-08-25 20:19:13 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:13 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:13 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-08-25 20:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-25 20:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-25 20:19:13 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-08-25 20:19:13 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-25 20:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-08-25 20:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-08-25 20:19:13 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:13 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:13 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:13 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:13 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:13 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/iron_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/iron_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/iron_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/iron_bow_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/mud_bricks_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/half_iron_bow_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/quartz_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/iron_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/iron_bow_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/iron_crossbow_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/bread_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/iron_gauntlet_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/iron_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/iron_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/iron_chair": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/faucet": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/granite_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/iron_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/sandstone_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/iron_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/small_cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/iron_bow_conditional_shaped_skip": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/iron_arrow_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/kitchen_sink": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/iron_stick_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/iron_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/iron_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/iron_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/red_nether_bricks_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/cobblestone_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/iron_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/iron_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/deepslate_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/iron_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/half_iron_bow_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/brick_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/iron_quiver_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/end_bricks_stove": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "man_of_many_planes:misc/expanded_aircraftery": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/iron_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/iron]": "2025-08-25 20:19:59 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
-    },
-    "done": true
-  },
-  "animal_feeding_trough:recipes/decorations/feeding_trough": {
-    "criteria": {
-      "has_wood_slab": "2025-08-24 00:42:15 +0000"
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
     },
     "done": true
   },
   "bakery:recipes/stone_bricks_stove": {
     "criteria": {
-      "has_iron_ingot": "2025-08-24 00:54:15 +0000"
+      "has_iron_ingot": "2025-08-25 20:19:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-25 20:20:45 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/crafting/letios_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-08-25 20:20:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-08-25 20:20:45 +0000"
+    },
+    "done": true
+  },
+  "bagofholding:recipes/tools/leather_bag_of_holding": {
+    "criteria": {
+      "has_chest": "2025-08-25 20:21:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
+    "criteria": {
+      "has_vanilla_chest": "2025-08-25 20:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-08-25 20:22:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-08-25 20:22:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-08-25 20:22:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-08-25 20:22:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-08-25 20:22:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-08-25 20:22:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 20:23:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-08-25 20:23:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 20:23:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 20:23:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 20:23:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 20:23:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 20:23:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 20:23:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 20:23:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 20:23:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 20:23:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 20:23:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 20:23:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 20:23:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 20:23:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 20:23:07 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
-      "in_water": "2025-08-24 00:36:36 +0000"
+      "in_water": "2025-08-25 20:23:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/honeycomb_block": {
+  "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
-      "has_honeycomb": "2025-08-24 01:09:29 +0000"
+      "has_rice": "2025-08-25 20:24:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-08-25 20:24:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-08-25 20:24:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-08-25 20:24:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-08-25 20:24:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-08-25 20:25:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "mushroom_rice": "2025-08-25 20:25:13 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-08-25 20:25:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-08-25 20:25:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-08-25 20:25:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-08-25 20:25:19 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/emerald]": "2025-08-25 20:25:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-08-25 20:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-25 20:25:31 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/sandwich": {
+    "criteria": {
+      "has_bread": "2025-08-25 20:25:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-08-25 20:25:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "goldenhopper:recipes/redstone/golden_hopper": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_stick_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_bow_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_bow_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/gold]": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_gauntlet_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "goldenhopper:recipes/transportation/golden_hopper_minecart": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_quiver_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_bow_conditional_shaped_skip": {
+    "criteria": {
+      "has_item": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/half_gold_bow_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/golden_egg": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_crossbow_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:26:23 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/half_gold_bow_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2025-08-25 20:26:23 +0000"
     },
     "done": true
   },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
-      "has_gold_ingot": "2025-08-24 00:41:12 +0000"
+      "has_gold_ingot": "2025-08-25 20:26:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+  "minecraft:recipes/food/bread": {
     "criteria": {
-      "has_beef": "2025-08-24 00:34:16 +0000"
+      "has_wheat": "2025-08-25 20:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-08-25 20:26:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough": {
+    "criteria": {
+      "has_wheat": "2025-08-25 20:26:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-08-25 20:26:35 +0000"
+    },
+    "done": true
+  },
+  "some_assembly_required:recipes/food/crafting_shapeless/burger_bun": {
+    "criteria": {
+      "has_wheat": "2025-08-25 20:26:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-25 20:26:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-08-25 20:26:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-08-25 20:26:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-25 20:26:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-08-25 20:26:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-08-25 20:26:52 +0000"
     },
     "done": true
   },
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
-      "has_backpack": "2025-08-24 00:32:40 +0000"
+      "has_backpack": "2025-08-25 20:26:52 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg": {
+  "some_assembly_required:obtain_sandwich": {
     "criteria": {
-      "fried_egg": "2025-08-24 01:02:48 +0000"
+      "obtain_sandwich": "2025-08-25 20:27:14 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-08-25 20:27:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-08-25 20:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-08-25 20:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-08-25 20:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-08-25 20:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-25 20:27:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-08-25 20:27:23 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:27:25 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:27:25 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-08-25 20:27:25 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:27:25 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_2": {
+    "criteria": {
+      "has_spruce_plank": "2025-08-25 20:27:25 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_1": {
+    "criteria": {
+      "has_spruce_plank": "2025-08-25 20:27:25 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_4": {
+    "criteria": {
+      "has_spruce_plank": "2025-08-25 20:27:25 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_3": {
+    "criteria": {
+      "has_spruce_plank": "2025-08-25 20:27:25 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-08-25 20:27:25 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:27:25 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:27:25 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-25 20:27:25 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:27:25 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:27:25 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:27:25 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:27:25 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_chest": {
+    "criteria": {
+      "has_spruce_plank": "2025-08-25 20:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-08-25 20:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-08-25 20:27:25 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-25 20:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-08-25 20:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-25 20:27:25 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 20:27:25 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_barrel": {
+    "criteria": {
+      "has_spruce_plank": "2025-08-25 20:27:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-25 20:27:25 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/vegetable_sandwich": {
+    "criteria": {
+      "has_carrot": "2025-08-25 20:27:36 +0000"
+    },
+    "done": true
+  },
+  "ags_day_counter:firts_day_advancement": {
+    "criteria": {
+      "firts_day_advancement_0": "2025-08-25 20:27:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-25 20:27:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-25 20:27:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-25 20:27:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-25 20:28:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-25 20:28:00 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-08-25 20:28:15 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-08-25 20:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-08-25 21:30:02 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/mangrove_plank_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-25 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_limited_barrel_4": {
+    "criteria": {
+      "has_mangrove_plank": "2025-08-25 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_limited_barrel_3": {
+    "criteria": {
+      "has_mangrove_plank": "2025-08-25 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_limited_barrel_2": {
+    "criteria": {
+      "has_mangrove_plank": "2025-08-25 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_limited_barrel_1": {
+    "criteria": {
+      "has_mangrove_plank": "2025-08-25 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/mangrove_plank_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/mangrove_plank_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2025-08-25 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-08-25 21:26:29 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/mangrove_plank_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-08-25 21:29:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-25 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-08-25 21:26:29 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/mangrove_plank_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/mangrove_plank_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2025-08-25 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/mangrove_plank_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/mangrove_plank_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/mangrove_plank_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-08-25 21:26:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-08-25 21:30:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_chest": {
+    "criteria": {
+      "has_mangrove_plank": "2025-08-25 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2025-08-25 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-08-25 21:26:29 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/mangrove_plank_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-25 21:30:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_barrel": {
+    "criteria": {
+      "has_mangrove_plank": "2025-08-25 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/mangrove_plank_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-25 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-25 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/mangrove_plank_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-08-25 21:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2025-08-25 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/mangrove_plank_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2025-08-25 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/mangrove_plank_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 21:30:16 +0000"
     },
     "done": true
   },

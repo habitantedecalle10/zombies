@@ -1,0 +1,384 @@
+# ExtraGore Particle Group Configuration
+# ------------------------------------------------------
+# This file enables the creation of custom blood particle properties for various entities.
+# Begin by uniquely naming each property group to effectively manage different settings.
+
+# Particle Behavior Options:
+# - Bounce: The particle will bounce off surfaces like a solid object.
+# - Stick: The particle will stick to walls and other surfaces.
+# - Magic: Some particles will fall to the ground while the majority will fly up to the sky.
+# - None: The particle won't have any special effects.
+
+# Particle Weight Options:
+# - Heavy: The particle will sink to the bottom when it's underwater.
+# - Light: The particle will float up to the top of the water.
+
+# Particle State Options:
+# - Liquid: The particle will get larger during its lifetime.
+# - Solid: The particle will remain the same size all the time.
+
+# Color Settings:
+# Set an RGB color value to visually distinguish particles for various entities.
+
+# How to Use:
+# 1. Define a group with a name, including behavior, weight, state, color and entity values.
+# 2. Example:
+#    ["Color Group Name"]
+#    behavior = Choose from "Stuck", "Bounce" or "None"
+#    weight = Choose from "Heavy" or "Light"
+#    state = Choose from "Liquid" or "Solid"
+#    color = "R,G,B"
+#    entities = ["entityID1", "entityID2"]
+# 3. You can modify or delete any predefined groups, except for the red group. The red group is non editable and serves only to show you unused entities which are compatible with different color groups.
+# 4. Add your custom color groups under an already predefined group, except for the red one.
+# 5. Ensure each color group has a unique name and is properly structured.
+
+# Note: Incorrectly formatted lines or unrecognized entity IDs will be ignored.
+# ------------------------------------------------------
+
+["Violet Group"]
+behavior = "Magic"
+weight = "Light"
+state = "Liquid"
+color = "128,0,128"
+entities = ["minecraft:enderman", "minecraft:endermite", "minecraft:phantom", "minecraft:shulker", "minecraft:silverfish", "minecraft:warden", "minecraft:ender_dragon"]
+
+["White Group"]
+behavior = "Bounce"
+weight = "Heavy"
+state = "Solid"
+color = "255,255,255"
+entities = ["minecraft:skeleton", "minecraft:ghast", "minecraft:iron_golem", "minecraft:skeleton_horse", "minecraft:snow_golem", "minecraft:stray", "minecraft:vex", "minecraft:wither_skeleton", "minecraft:allay", "minecraft:wither"]
+
+["Green Group"]
+behavior = "Stuck"
+weight = "Light"
+state = "Liquid"
+color = "0,255,0"
+entities = ["minecraft:cave_spider", "minecraft:creeper", "minecraft:slime", "minecraft:spider", "minecraft:witch"]
+
+["Yellow Group"]
+behavior = "Bounce"
+weight = "Heavy"
+state = "Solid"
+color = "255,255,0"
+entities = ["minecraft:blaze", "minecraft:magma_cube", "minecraft:strider"]
+
+["Blue Group"]
+behavior = "None"
+weight = "Light"
+state = "Liquid"
+color = "0,0,255"
+entities = ["minecraft:squid", "minecraft:elder_guardian", "minecraft:guardian", "minecraft:glow_squid"]
+
+# Auto generated red color group - do not edit. Use this as reference for unused entity IDs.
+"255,0,0" = [
+    "thalassophobia:glow_fish",
+    "alexsmobs:snow_leopard",
+    "thalassophobia:bathotrap_natural_spawn",
+    "zombie_island:walker_3",
+    "zombie_island:walker_4",
+    "zombie_island:walker_1",
+    "alexsmobs:seal",
+    "thalassophobia:riffhead",
+    "zombie_island:walker_2",
+    "zombie_island:eat_courier",
+    "alexsmobs:roadrunner",
+    "alexsmobs:laviathan",
+    "minecraft:trader_llama",
+    "dayzombierebooted:spawner",
+    "alexsmobs:endergrade",
+    "minecraft:horse",
+    "zombie_island:firefighter_walker",
+    "minecraft:llama",
+    "alexsmobs:maned_wolf",
+    "thalassophobia:liopleurodon",
+    "zombie_extreme:goon",
+    "extinction:infected_police",
+    "alexsmobs:skreecher",
+    "minecraft:tadpole",
+    "minecraft:dolphin",
+    "zombie_extreme:devestated",
+    "alexsmobs:gelada_monkey",
+    "thalassophobia:sea_sludge_spawn",
+    "zombie_extreme:infected_military",
+    "alexsmobs:hammerhead_shark",
+    "alexsmobs:dropbear",
+    "alexsmobs:tiger",
+    "thalassophobia:cookie_cutter_shark",
+    "alexsmobs:grizzly_bear",
+    "alexsmobs:murmur_head",
+    "zombie_island:grenadier_walker",
+    "extinction:runner",
+    "thalassophobia:maka_maka_natural_spawn",
+    "zombie_extreme:divided",
+    "minecraft:bee",
+    "mutantsbuff:invul",
+    "alexsmobs:devils_hole_pupfish",
+    "sona:sound_decoy",
+    "minecraft:illusioner",
+    "thalassophobia:crab",
+    "zombiesmore:explosive_zombie",
+    "thalassophobia:sea_sludge_natural_spawn",
+    "thalassophobia:sea_sludge",
+    "thalassophobia:yeti_crab_natural_spawn",
+    "minecraft:mooshroom",
+    "alexsmobs:bison",
+    "minecraft:drowned",
+    "minecraft:axolotl",
+    "zombie_extreme:faceless",
+    "zombie_extreme:revived",
+    "alexsmobs:gorilla",
+    "zombie_island:insect_swarm_walker",
+    "alexsmobs:tusklin",
+    "thalassophobia:megalodon",
+    "alexsmobs:cosmic_cod",
+    "alexsmobs:underminer",
+    "zombie_extreme:boomer",
+    "extinction:soldier_clicker",
+    "minecraft:wandering_trader",
+    "zombiesmore:boomer_zombie",
+    "extinction:patient_zero",
+    "alexsmobs:kangaroo",
+    "zombiesmore:cursed_head",
+    "extinction:patient_zero_i",
+    "alexsmobs:hummingbird",
+    "thalassophobia:basking_shark",
+    "mutantmonsters:mutant_zombie",
+    "thalassophobia:yeti_crab",
+    "extinction:infected_hazmat",
+    "thalassophobia:reaverfish",
+    "hordes:drowned_player",
+    "zombiesmore:tank_zombie",
+    "mutantsbuff:shockwave",
+    "thalassophobia:hesperornis",
+    "thalassophobia:megastar",
+    "thalassophobia:sunfish",
+    "thalassophobia:sonar_boom",
+    "alexsmobs:crow",
+    "thalassophobia:crab_spawn",
+    "alexsmobs:guster",
+    "zombie_island:shambler",
+    "thalassophobia:eurypterid",
+    "minecraft:pufferfish",
+    "modern_structures:human_2",
+    "minecraft:fox",
+    "alexsmobs:warped_toad",
+    "thalassophobia:sea_bird",
+    "thalassophobia:dead_archelon",
+    "minecraft:chicken",
+    "alexsmobs:giant_squid",
+    "minecraft:zombie",
+    "alexsmobs:emu",
+    "alexsmobs:cockroach",
+    "extinction:mercenary",
+    "thalassophobia:bathotrap_spawn",
+    "zombie_island:hazmat_walker",
+    "alexsmobs:flutter",
+    "minecraft:hoglin",
+    "thalassophobia:baby_colossoteus",
+    "alexsmobs:capuchin_monkey",
+    "hordes:husk_player",
+    "minecraft:polar_bear",
+    "minecraft:zombified_piglin",
+    "minecraft:turtle",
+    "minecraft:sheep",
+    "thalassophobia:maka_maka_in_ground",
+    "zombie_island:walker",
+    "alexsmobs:rattlesnake",
+    "thalassophobia:sea_phantom",
+    "zombie_extreme:assasin_black_ops",
+    "thalassophobia:colossoteus_sonar_attack",
+    "alexsmobs:bone_serpent_part",
+    "extinction:goon",
+    "alexsmobs:raccoon",
+    "minecraft:ravager",
+    "alexsmobs:bone_serpent",
+    "zombie_extreme:runner",
+    "alexsmobs:potoo",
+    "alexsmobs:fly",
+    "thalassophobia:orthoceras",
+    "alexsmobs:straddler",
+    "alexsmobs:sea_bear",
+    "extinction:boomer",
+    "alexsmobs:mudskipper",
+    "alexsmobs:sugar_glider",
+    "zombie_island:riot_gear_walker",
+    "alexsmobs:crimson_mosquito",
+    "thalassophobia:ammonita",
+    "alexsmobs:orca",
+    "thalassophobia:maka_maka",
+    "extinction:infected_mutated",
+    "thalassophobia:ichthyosaurus_tamed",
+    "alexsmobs:jerboa",
+    "minecraft:bat",
+    "alexsmobs:cosmaw",
+    "thalassophobia:archelon",
+    "alexsmobs:comb_jelly",
+    "thalassophobia:bathotrap",
+    "zombie_island:caustic_x_walker",
+    "zombie_island:runner",
+    "thalassophobia:dunkleosteus",
+    "thalassophobia:megastar_natural_spawn",
+    "thalassophobia:hesperornis_spawn",
+    "alexsmobs:skunk",
+    "extinction:stalker_ii",
+    "alexsmobs:enderiophage",
+    "zombie_extreme:fetus",
+    "alexsmobs:sunbird",
+    "alexsmobs:tasmanian_devil",
+    "zombie_extreme:zero_patient",
+    "chovys_apocalypse_mod:anchovy",
+    "minecraft:cat",
+    "alexsmobs:stradpole",
+    "minecraft:tropical_fish",
+    "zombie_extreme:chainsaw",
+    "thalassophobia:megastar_spawn",
+    "minecraft:panda",
+    "minecraft:zombie_villager",
+    "zombie_extreme:crawler",
+    "alexsmobs:froststalker",
+    "zombie_extreme:demolisher",
+    "minecraft:giant",
+    "alexsmobs:lobster",
+    "thalassophobia:helicoprion",
+    "alexsmobs:seagull",
+    "zombie_extreme:infected",
+    "alexsmobs:moose",
+    "thalassophobia:yeti_crab_spawn",
+    "alexsmobs:shoebill",
+    "alexsmobs:farseer",
+    "alexsmobs:warped_mosco",
+    "zombie_extreme:parasite",
+    "hordes:zombie_player",
+    "zombie_extreme:infected_juggernaut",
+    "minecraft:husk",
+    "thalassophobia:bull_shark",
+    "extinction:infected_riot_gear",
+    "alexsmobs:komodo_dragon",
+    "minecraft:donkey",
+    "thalassophobia:dead_archelon_spawn",
+    "thalassophobia:maka_maka_spawn",
+    "mutantmonsters:mutant_skeleton",
+    "minecraft:piglin_brute",
+    "extinction:traveler",
+    "mutantsbuff:shockwaves",
+    "alexsmobs:crocodile",
+    "thalassophobia:maka_maka_swim",
+    "alexsmobs:triops",
+    "alexsmobs:rhinoceros",
+    "alexsmobs:frilled_shark",
+    "alexsmobs:bald_eagle",
+    "extinction:soldier",
+    "alexsmobs:blobfish",
+    "zombie_island:shocking_walker",
+    "thalassophobia:anomalocaris",
+    "alexsmobs:mimicube",
+    "zombie_extreme:infected_police",
+    "thalassophobia:panderodus",
+    "alexsmobs:void_worm",
+    "thalassophobia:plesiosaur",
+    "zombiesmore:boomer_charged",
+    "minecraft:parrot",
+    "zombie_extreme:inflated",
+    "alexsmobs:centipede_head",
+    "thalassophobia:alpha_reaverfish",
+    "zombie_island:incendiary_walker",
+    "minecraft:frog",
+    "zombie_extreme:clicker",
+    "alexsmobs:banana_slug",
+    "mutantmonsters:mutant_creeper",
+    "alexsmobs:mimic_octopus",
+    "alexsmobs:bunfungus",
+    "alexsmobs:void_worm_part",
+    "zombie_island:runner_2",
+    "zombie_island:runner_1",
+    "zombie_extreme:explosive_infected",
+    "minecraft:mule",
+    "thalassophobia:electrophorus",
+    "zombie_island:shambler_4",
+    "zombie_island:shambler_3",
+    "minecraft:vindicator",
+    "zombie_island:burning_walker",
+    "zombie_island:runner_4",
+    "alexsmobs:flying_fish",
+    "zombie_island:runner_3",
+    "modern_structures:human",
+    "minecraft:evoker",
+    "thalassophobia:leedsichthys",
+    "zombie_island:shambler_2",
+    "zombie_island:shambler_1",
+    "zombie_extreme:infected_hazmat",
+    "alexsmobs:tarantula_hawk",
+    "alexsmobs:cachalot_whale",
+    "thalassophobia:cnidaria",
+    "thalassophobia:manta",
+    "zombie_extreme:ram",
+    "alexsmobs:terrapin",
+    "zombiesmore:cursed_zombie",
+    "alexsmobs:anaconda",
+    "thalassophobia:basilosaurus",
+    "thalassophobia:octus",
+    "minecraft:pig",
+    "alexsmobs:alligator_snapping_turtle",
+    "extinction:infected_bear",
+    "minecraft:goat",
+    "mutantmonsters:mutant_enderman",
+    "minecraft:cod",
+    "alexsmobs:mantis_shrimp",
+    "zombie_extreme:rat_king",
+    "alexsmobs:platypus",
+    "thalassophobia:vertebrat",
+    "mutantmonsters:spider_pig",
+    "extinction:hunter",
+    "minecraft:cow",
+    "thalassophobia:ichthyosaurus",
+    "alexsmobs:rocky_roller",
+    "alexsmobs:soul_vulture",
+    "thalassophobia:xiphactinus",
+    "alexsmobs:blue_jay",
+    "alexsmobs:toucan",
+    "minecraft:salmon",
+    "extinction:parasite",
+    "thalassophobia:anglerfish",
+    "alexsmobs:anteater",
+    "thalassophobia:megapiranha",
+    "alexsmobs:rain_frog",
+    "extinction:stalker",
+    "minecraft:rabbit",
+    "minecraft:pillager",
+    "alexsmobs:murmur",
+    "minecraft:zoglin",
+    "alexsmobs:leafcutter_ant",
+    "mutantsbuff:explosion",
+    "zombie_extreme:night_hunter",
+    "alexsmobs:mungus",
+    "alexsmobs:caiman",
+    "alexsmobs:spectre",
+    "mutantsbuff:stable_explosion",
+    "alexsmobs:catfish",
+    "extinction:fallen_survivor",
+    "mutantmonsters:endersoul_clone",
+    "thalassophobia:mosasaur",
+    "minecraft:piglin",
+    "thalassophobia:hammerhead_shark",
+    "alexsmobs:skelewag",
+    "thalassophobia:zapfin",
+    "thalassophobia:crab_natural_spawn",
+    "extinction:infected_soldier",
+    "alexsmobs:elephant",
+    "alexsmobs:gazelle",
+    "minecraft:sniffer",
+    "thalassophobia:sea_bird_spawn",
+    "thalassophobia:gulper_eel",
+    "minecraft:zombie_horse",
+    "minecraft:camel",
+    "zombie_extreme:military",
+    "zombiesmore:crawler",
+    "thalassophobia:colossoteus",
+    "minecraft:ocelot",
+    "minecraft:wolf",
+    "thalassophobia:tusoteuthis",
+    "thalassophobia:shark",
+    "extinction:runner_ii"
+]
