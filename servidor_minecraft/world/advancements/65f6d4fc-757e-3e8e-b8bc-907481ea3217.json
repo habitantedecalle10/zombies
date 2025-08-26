@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-08-26 16:40:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-08-26 16:27:36 +0000"
@@ -35,6 +41,24 @@
     },
     "done": true
   },
+  "collectorsreap:recipes/food/prawn_noodles": {
+    "criteria": {
+      "has_cooked_prawn": "2025-08-26 16:40:41 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/leather_stick_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-26 16:40:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-26 16:46:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-08-26 16:31:05 +0000"
@@ -47,9 +71,33 @@
     },
     "done": true
   },
+  "collectorsreap:recipes/food/tiger_prawn_from_campfire_cooking": {
+    "criteria": {
+      "tiger_prawn": "2025-08-26 16:39:27 +0000"
+    },
+    "done": true
+  },
+  "ags_day_counter:firts_day_advancement": {
+    "criteria": {
+      "firts_day_advancement_0": "2025-08-26 16:42:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-08-26 16:27:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-26 16:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-08-26 16:40:35 +0000"
     },
     "done": true
   },
@@ -83,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-26 16:46:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-08-26 16:31:05 +0000"
@@ -95,9 +149,21 @@
     },
     "done": true
   },
+  "collectorsreap:recipes/food/cooked_tiger_prawn": {
+    "criteria": {
+      "tiger_prawn": "2025-08-26 16:39:27 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-08-26 16:22:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-26 16:46:19 +0000"
     },
     "done": true
   },
@@ -119,15 +185,45 @@
     },
     "done": true
   },
+  "collectorsreap:recipes/food/tiger_prawn_from_smoking": {
+    "criteria": {
+      "tiger_prawn": "2025-08-26 16:39:27 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/jungle_chest": {
     "criteria": {
       "has_jungle_plank": "2025-08-26 16:27:34 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-08-26 16:40:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-26 16:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-26 16:46:19 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/cupcake_display": {
     "criteria": {
       "has_stick": "2025-08-26 16:27:36 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/prawn_po_boy": {
+    "criteria": {
+      "has_cooked_prawn": "2025-08-26 16:40:41 +0000"
     },
     "done": true
   },
@@ -179,6 +275,24 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-08-26 16:40:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-26 16:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-08-26 16:46:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-08-26 16:31:05 +0000"
@@ -212,6 +326,18 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-08-26 16:33:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-08-26 16:40:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-26 16:46:19 +0000"
     },
     "done": true
   },
@@ -263,6 +389,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/leather_quiver_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-26 16:40:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-08-26 16:26:51 +0000"
@@ -293,6 +425,12 @@
     },
     "done": true
   },
+  "collectorsreap:recipes/food/prawn_stew": {
+    "criteria": {
+      "has_cooked_prawn": "2025-08-26 16:40:41 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/jungle_plank_spear_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-26 16:27:34 +0000"
@@ -305,9 +443,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-08-26 16:40:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-08-26 16:31:05 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/prawn_ceviche": {
+    "criteria": {
+      "has_cooked_prawn": "2025-08-26 16:40:41 +0000"
     },
     "done": true
   },
@@ -389,9 +539,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-08-26 16:40:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2025-08-26 16:33:23 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/leather_gauntlet_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-26 16:40:35 +0000"
     },
     "done": true
   },
@@ -419,6 +581,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-26 16:46:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-08-26 16:31:05 +0000"
@@ -434,6 +602,12 @@
   "legendary_monsters:end_root": {
     "criteria": {
       "custom_test_name": "2025-08-26 16:22:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-26 16:46:19 +0000"
     },
     "done": true
   },
@@ -461,9 +635,27 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-26 16:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-26 16:46:19 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/transformation_boat": {
     "criteria": {
       "in_water": "2025-08-26 16:26:51 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/woodworking_table": {
+    "criteria": {
+      "has_leaves": "2025-08-26 16:38:35 +0000"
     },
     "done": true
   },
@@ -521,9 +713,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-26 16:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-26 16:46:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-08-26 16:26:51 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/prawn_roll": {
+    "criteria": {
+      "has_raw_prawn": "2025-08-26 16:39:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-08-26 16:45:54 +0000"
     },
     "done": true
   },
@@ -563,6 +779,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-26 16:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-26 16:46:19 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/jungle_barrel": {
     "criteria": {
       "has_jungle_plank": "2025-08-26 16:27:34 +0000"
@@ -593,6 +821,18 @@
     },
     "done": true
   },
+  "collectorsreap:recipes/food/salmon_wrapped_prawn": {
+    "criteria": {
+      "has_cooked_prawn": "2025-08-26 16:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-08-26 16:45:54 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/dark_boat": {
     "criteria": {
       "in_water": "2025-08-26 16:26:51 +0000"
@@ -620,6 +860,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-08-26 16:32:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-08-26 16:40:35 +0000"
     },
     "done": true
   },
@@ -677,6 +923,46 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:blaze": "2025-08-26 16:45:20 +0000",
+      "minecraft:pillager": "2025-08-26 16:45:20 +0000",
+      "minecraft:skeleton": "2025-08-26 16:45:20 +0000",
+      "minecraft:elder_guardian": "2025-08-26 16:45:20 +0000",
+      "minecraft:zoglin": "2025-08-26 16:45:20 +0000",
+      "minecraft:ravager": "2025-08-26 16:45:20 +0000",
+      "minecraft:ghast": "2025-08-26 16:45:20 +0000",
+      "minecraft:hoglin": "2025-08-26 16:45:20 +0000",
+      "minecraft:guardian": "2025-08-26 16:45:20 +0000",
+      "minecraft:vindicator": "2025-08-26 16:45:20 +0000",
+      "minecraft:magma_cube": "2025-08-26 16:45:20 +0000",
+      "minecraft:piglin_brute": "2025-08-26 16:45:20 +0000",
+      "minecraft:spider": "2025-08-26 16:45:20 +0000",
+      "minecraft:creeper": "2025-08-26 16:45:20 +0000",
+      "minecraft:wither": "2025-08-26 16:45:20 +0000",
+      "minecraft:evoker": "2025-08-26 16:45:20 +0000",
+      "minecraft:slime": "2025-08-26 16:45:20 +0000",
+      "minecraft:phantom": "2025-08-26 16:45:20 +0000",
+      "minecraft:zombified_piglin": "2025-08-26 16:45:20 +0000",
+      "minecraft:witch": "2025-08-26 16:45:20 +0000",
+      "minecraft:wither_skeleton": "2025-08-26 16:45:20 +0000",
+      "minecraft:husk": "2025-08-26 16:45:20 +0000",
+      "minecraft:ender_dragon": "2025-08-26 16:45:20 +0000",
+      "minecraft:shulker": "2025-08-26 16:45:20 +0000",
+      "minecraft:cave_spider": "2025-08-26 16:45:20 +0000",
+      "minecraft:piglin": "2025-08-26 16:45:20 +0000",
+      "minecraft:enderman": "2025-08-26 16:45:20 +0000",
+      "minecraft:silverfish": "2025-08-26 16:45:20 +0000",
+      "minecraft:stray": "2025-08-26 16:45:20 +0000",
+      "minecraft:endermite": "2025-08-26 16:45:20 +0000",
+      "minecraft:vex": "2025-08-26 16:45:20 +0000",
+      "neapolitan:plantain_spider": "2025-08-26 16:45:20 +0000",
+      "minecraft:zombie": "2025-08-26 16:45:20 +0000",
+      "minecraft:drowned": "2025-08-26 16:45:20 +0000",
+      "minecraft:zombie_villager": "2025-08-26 16:45:20 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/jungle_plank_glaive_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-26 16:27:34 +0000"
@@ -689,7 +975,9 @@
       "minecraft:beach": "2025-08-26 16:22:52 +0000",
       "minecraft:sparse_jungle": "2025-08-26 16:30:48 +0000",
       "minecraft:river": "2025-08-26 16:30:43 +0000",
-      "minecraft:jungle": "2025-08-26 16:24:08 +0000"
+      "minecraft:forest": "2025-08-26 16:46:29 +0000",
+      "minecraft:jungle": "2025-08-26 16:24:08 +0000",
+      "minecraft:plains": "2025-08-26 16:45:50 +0000"
     },
     "done": false
   },
