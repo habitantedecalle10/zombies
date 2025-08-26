@@ -7822,3 +7822,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [26Aug2025 16:52:37.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Acquire Hardware]
 [26Aug2025 16:53:28.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Diamonds!]
 [26Aug2025 16:58:34.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Dark Metallurgy]
+[26Aug2025 17:01:07.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Mine? Mine? Mine?]
+[26Aug2025 17:01:34.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Sweet Dreams]
+[26Aug2025 17:04:05.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Isn't It Iron Pick]
+[26Aug2025 17:09:21.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Not Today, Thank You]
