@@ -13,7 +13,7 @@ crossbowVelocityBonus = 0.5
 enableFletchingTable = true
 
 [shieldProtectionConfig]
-EnableVanillaStyleShieldProtection = false
+EnableVanillaStyleShieldProtection = true
 EnableShieldBaseProtection = true
 shieldBaseProtectionType = "DURABILITY_PERCENTAGE"
 EnableShieldProtectionPercentage = true
