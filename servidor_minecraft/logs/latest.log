@@ -7819,3 +7819,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [26Aug2025 16:45:55.355] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
 [26Aug2025 16:46:23.879] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
 [26Aug2025 16:47:27.795] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2381ms or 47 ticks behind
+[26Aug2025 16:52:37.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Acquire Hardware]
+[26Aug2025 16:53:28.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Diamonds!]
+[26Aug2025 16:58:34.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Dark Metallurgy]
