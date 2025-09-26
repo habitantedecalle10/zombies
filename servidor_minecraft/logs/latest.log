@@ -4511,3 +4511,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [26Sep2025 16:57:59.122] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/32262, l='ServerLevel[world]', x=-3248.15, y=56.76, z=-2183.33]
 [26Sep2025 16:57:59.122] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/32263, l='ServerLevel[world]', x=-3248.15, y=56.76, z=-2183.33]
 [26Sep2025 17:02:53.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Ice Bucket Challenge]
+[26Sep2025 17:08:06.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Deceived Hopes]
+[26Sep2025 17:22:17.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Bony King]
