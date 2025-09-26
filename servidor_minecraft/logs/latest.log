@@ -4516,3 +4516,84 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [26Sep2025 17:28:13.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [26Sep2025 17:28:13.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xd<--[HERE]
 [26Sep2025 17:32:26.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Dark Creator]
+[26Sep2025 17:48:43.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
+[26Sep2025 17:50:29.442] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Myles'/47331, l='ServerLevel[world]', x=-2760.18, y=64.94, z=-2154.45] died, message: 'Myles was killed by magic'
+[26Sep2025 17:50:29.442] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Myles'/47331, l='ServerLevel[world]', x=-2760.18, y=64.94, z=-2154.45] died: Myles was killed by magic
+[26Sep2025 17:50:53.268] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Ola'/47316, l='ServerLevel[world]', x=-2772.33, y=66.00, z=-2156.38] died, message: 'Ola was killed by magic'
+[26Sep2025 17:50:53.269] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Ola'/47316, l='ServerLevel[world]', x=-2772.33, y=66.00, z=-2156.38] died: Ola was killed by magic
+[26Sep2025 17:51:09.118] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Vanessa'/47707, l='ServerLevel[world]', x=-2762.06, y=65.00, z=-2195.22] died, message: 'Vanessa was killed by magic'
+[26Sep2025 17:51:09.118] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Vanessa'/47707, l='ServerLevel[world]', x=-2762.06, y=65.00, z=-2195.22] died: Vanessa was killed by magic
+[26Sep2025 17:51:14.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
+[26Sep2025 17:52:48.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Vindicator
+[26Sep2025 17:52:48.764] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2770, 54, -2024) minecraft:overworld
+[26Sep2025 17:53:35.181] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[26Sep2025 17:53:35.181] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[26Sep2025 17:53:35.181] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[26Sep2025 17:53:35.181] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[26Sep2025 17:53:35.182] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[26Sep2025 17:53:35.182] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[26Sep2025 17:53:35.182] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[26Sep2025 17:53:35.182] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[26Sep2025 17:53:35.183] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[26Sep2025 17:53:35.183] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[26Sep2025 17:56:53.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Double Hungry]
+[26Sep2025 17:58:01.143] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Alvaro'/49749, l='ServerLevel[world]', x=-2706.48, y=64.00, z=-2207.85] died, message: 'Alvaro was fireballed by Igniter'
+[26Sep2025 17:58:01.144] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Alvaro'/49749, l='ServerLevel[world]', x=-2706.48, y=64.00, z=-2207.85] died: Alvaro was fireballed by Igniter
+[26Sep2025 17:58:21.974] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[26Sep2025 17:58:21.974] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[26Sep2025 17:58:21.975] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[26Sep2025 17:59:00.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Mine? Mine? Mine?]
+[26Sep2025 17:59:29.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
+[26Sep2025 17:59:29.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
+[26Sep2025 17:59:32.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Postmortal]
+[26Sep2025 17:59:34.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Wilted
+[26Sep2025 17:59:34.134] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2764, 71, -2036) minecraft:overworld
+[26Sep2025 18:00:26.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[26Sep2025 18:00:48.776] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6878ms or 137 ticks behind
+[26Sep2025 18:01:09.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5425ms or 108 ticks behind
+[26Sep2025 18:01:54.235] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/54497, l='ServerLevel[world]', x=-2737.60, y=63.00, z=-2270.49] died, message: 'Golem Healer went off with a bang'
+[26Sep2025 18:01:54.235] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/54497, l='ServerLevel[world]', x=-2737.60, y=63.00, z=-2270.49] died: Golem Healer went off with a bang
+[26Sep2025 18:02:09.580] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[26Sep2025 18:03:11.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Wilted
+[26Sep2025 18:03:19.639] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Genny'/56479, l='ServerLevel[world]', x=-2757.74, y=64.44, z=-2203.20] died, message: 'Genny went up in flames'
+[26Sep2025 18:03:19.640] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Genny'/56479, l='ServerLevel[world]', x=-2757.74, y=64.44, z=-2203.20] died: Genny went up in flames
+[26Sep2025 18:03:32.239] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Otto'/56486, l='ServerLevel[world]', x=-2777.52, y=64.00, z=-2208.31] died, message: 'Otto was fireballed by Igniter'
+[26Sep2025 18:03:32.241] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Otto'/56486, l='ServerLevel[world]', x=-2777.52, y=64.00, z=-2208.31] died: Otto was fireballed by Igniter
+[26Sep2025 18:04:49.186] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[26Sep2025 18:04:49.186] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[26Sep2025 18:04:49.186] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[26Sep2025 18:04:49.187] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[26Sep2025 18:04:49.187] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[26Sep2025 18:04:49.187] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[26Sep2025 18:04:49.187] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[26Sep2025 18:04:49.187] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[26Sep2025 18:04:49.187] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[26Sep2025 18:04:49.188] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[26Sep2025 18:05:52.425] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/56398, l='ServerLevel[world]', x=-2771.47, y=66.00, z=-2167.54] died, message: 'Golem Healer was slain by Cleric'
+[26Sep2025 18:05:52.425] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/56398, l='ServerLevel[world]', x=-2771.47, y=66.00, z=-2167.54] died: Golem Healer was slain by Cleric
+[26Sep2025 18:06:06.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Wilted
+[26Sep2025 18:06:06.462] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2794, 63, -2089) minecraft:overworld
+[26Sep2025 18:06:24.389] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[26Sep2025 18:06:24.390] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[26Sep2025 18:06:24.390] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[26Sep2025 18:06:24.390] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[26Sep2025 18:06:24.390] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[26Sep2025 18:06:24.390] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[26Sep2025 18:06:24.390] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[26Sep2025 18:06:24.391] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[26Sep2025 18:06:24.391] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[26Sep2025 18:06:24.391] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[26Sep2025 18:06:50.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Wilted
+[26Sep2025 18:06:50.066] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-2783, 64, -2081) minecraft:overworld
+[26Sep2025 18:07:11.936] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shaunte'/59825, l='ServerLevel[world]', x=-2755.00, y=64.36, z=-2205.24] died, message: 'Shaunte was shot by Chagrin Sentry'
+[26Sep2025 18:07:11.936] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Shaunte'/59825, l='ServerLevel[world]', x=-2755.00, y=64.36, z=-2205.24] died: Shaunte was shot by Chagrin Sentry
+[26Sep2025 18:07:16.996] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[26Sep2025 18:07:16.996] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[26Sep2025 18:07:16.996] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[26Sep2025 18:07:16.996] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[26Sep2025 18:07:16.996] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[26Sep2025 18:07:16.997] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[26Sep2025 18:07:16.997] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[26Sep2025 18:07:16.997] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[26Sep2025 18:07:16.997] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[26Sep2025 18:07:16.997] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack

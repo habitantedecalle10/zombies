@@ -222,8 +222,10 @@
       "minecraft:vindicator": "2025-09-26 04:34:52 +0000",
       "minecraft:spider": "2025-09-26 06:25:52 +0000",
       "minecraft:creeper": "2025-09-26 07:05:09 +0000",
+      "minecraft:evoker": "2025-09-26 17:57:46 +0000",
       "minecraft:witch": "2025-09-26 04:34:48 +0000",
       "minecraft:husk": "2025-09-26 06:16:13 +0000",
+      "minecraft:vex": "2025-09-26 17:57:54 +0000",
       "minecraft:zombie": "2025-09-26 04:36:54 +0000",
       "minecraft:zombie_villager": "2025-09-26 07:25:41 +0000"
     },
@@ -5097,6 +5099,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-09-26 17:44:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-09-26 17:29:21 +0000"
@@ -5253,6 +5261,12 @@
     },
     "done": true
   },
+  "bakery:recipes/oat_seeds": {
+    "criteria": {
+      "has_wheat_seeds": "2025-09-26 17:52:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-09-26 17:00:15 +0000"
@@ -5270,6 +5284,12 @@
       "has_silver_ingot": "2025-09-26 17:04:58 +0000"
     },
     "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_evoker": "2025-09-26 17:57:46 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
@@ -5298,6 +5318,24 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-09-26 17:25:17 +0000"
+    },
+    "done": true
+  },
+  "some_assembly_required:consume_double_decker_sandwich": {
+    "criteria": {
+      "consume_double_decker_sandwich": "2025-09-26 17:56:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-09-26 17:59:32 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-09-26 17:59:00 +0000"
     },
     "done": true
   },
@@ -5337,6 +5375,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-09-26 17:44:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-09-26 17:02:53 +0000"
@@ -5358,6 +5402,18 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-09-26 17:24:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-09-26 17:44:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-09-26 17:44:41 +0000"
     },
     "done": true
   },
