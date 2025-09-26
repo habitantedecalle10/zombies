@@ -1913,6 +1913,7 @@
     "criteria": {
       "cooked_beef": "2025-09-26 16:22:16 +0000",
       "suspicious_stew": "2025-09-26 15:51:40 +0000",
+      "cooked_chicken": "2025-09-26 16:45:40 +0000",
       "cooked_cod": "2025-09-26 04:21:32 +0000",
       "bread": "2025-09-26 06:01:13 +0000"
     },
@@ -4578,177 +4579,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-09-26 16:14:54 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:locate_ruined_pyramid": {
-    "criteria": {
-      "ruined_pyramid": "2025-09-26 15:42:58 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
-    "criteria": {
-      "has_pumpkin": "2025-09-26 15:54:14 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/fletched_sticks_conditional_fletching": {
-    "criteria": {
-      "has_item": "2025-09-26 16:05:00 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/tools/lead_from_straw": {
-    "criteria": {
-      "has_straw": "2025-09-26 16:13:48 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roast_chicken_block": {
-    "criteria": {
-      "has_cooked_chicken": "2025-09-26 16:15:54 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
-    "criteria": {
-      "beef_patty": "2025-09-26 16:19:13 +0000"
-    },
-    "done": true
-  },
-  "some_assembly_required:recipes/food/smoking/toasted_bread_slice": {
-    "criteria": {
-      "has_bread": "2025-09-26 16:37:06 +0000"
-    },
-    "done": true
-  },
-  "some_assembly_required:obtain_toasted_bread_slice": {
-    "criteria": {
-      "obtain_toasted_bread_slice": "2025-09-26 16:37:37 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/carrot_from_crate": {
-    "criteria": {
-      "has_carrot_crate": "2025-09-26 16:17:05 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_deathworm": {
-    "criteria": {
-      "killed_fire_dragon": "2025-09-26 15:44:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/bacon_sandwich": {
-    "criteria": {
-      "has_bacon": "2025-09-26 16:32:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-09-26 15:41:27 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/squid_ink_pasta": {
-    "criteria": {
-      "has_any_ingredient": "2025-09-26 16:13:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/pumpkin_pie": {
-    "criteria": {
-      "has_pumpkin": "2025-09-26 15:54:14 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/hamburger": {
-    "criteria": {
-      "has_beef_patty": "2025-09-26 16:19:45 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
-    "criteria": {
-      "cooked_bacon": "2025-09-26 16:20:11 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_red_leggings": {
-    "criteria": {
-      "has_item": "2025-09-26 16:00:10 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
-    "criteria": {
-      "cooked_bacon": "2025-09-26 16:20:11 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_chicken_cuts_from_campfire_cooking": {
-    "criteria": {
-      "cooked_chicken_cuts": "2025-09-26 16:14:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-09-26 16:15:13 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/tomato_crate": {
-    "criteria": {
-      "has_tomato": "2025-09-26 16:13:07 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_red_helmet": {
-    "criteria": {
-      "has_item": "2025-09-26 16:00:10 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beef_patty": {
-    "criteria": {
-      "beef_patty": "2025-09-26 16:19:13 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_ham": {
-    "criteria": {
-      "ham": "2025-09-26 16:15:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_chicken_cuts": {
-    "criteria": {
-      "cooked_chicken_cuts": "2025-09-26 16:14:53 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
-    "criteria": {
-      "cooked_mutton_chops": "2025-09-26 16:19:07 +0000"
-    },
-    "done": true
-  },
-  "armoroftheages:recipes/combat/japanese_light_armor_feet": {
-    "criteria": {
-      "has_base_armor": "2025-09-26 15:48:33 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beetroot_from_crate": {
-    "criteria": {
-      "has_beetroot_crate": "2025-09-26 16:15:47 +0000"
     },
     "done": true
   },
@@ -4758,123 +4591,21 @@
     },
     "done": true
   },
-  "farmersdelight:main/craft_knife": {
+  "legendary_monsters:locate_ruined_pyramid": {
     "criteria": {
-      "iron_knife": "2025-09-26 16:19:02 +0000"
+      "ruined_pyramid": "2025-09-26 15:42:58 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/potato_from_crate": {
+  "iceandfire:iceandfire/kill_deathworm": {
     "criteria": {
-      "has_potato_crate": "2025-09-26 16:15:34 +0000"
+      "killed_fire_dragon": "2025-09-26 15:44:38 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/rope": {
+  "armoroftheages:recipes/combat/japanese_light_armor_feet": {
     "criteria": {
-      "has_straw": "2025-09-26 16:13:48 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/organic_compost_from_tree_bark": {
-    "criteria": {
-      "has_straw": "2025-09-26 16:13:48 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/rice_from_bag": {
-    "criteria": {
-      "has_rice_bag": "2025-09-26 16:17:37 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/onion": {
-    "criteria": {
-      "has_onion_crate": "2025-09-26 16:15:33 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_bacon": {
-    "criteria": {
-      "cooked_bacon": "2025-09-26 16:20:11 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_chicken_cuts_from_smoking": {
-    "criteria": {
-      "cooked_chicken_cuts": "2025-09-26 16:14:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2025-09-26 15:52:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_cooking_pot": {
-    "criteria": {
-      "cooking_pot": "2025-09-26 16:18:12 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
-    "criteria": {
-      "has_iron_knife": "2025-09-26 16:19:02 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/smoked_ham": {
-    "criteria": {
-      "has_ham": "2025-09-26 16:15:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/straw_bale": {
-    "criteria": {
-      "has_straw": "2025-09-26 16:13:48 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/black_eye": {
-    "criteria": {
-      "black_eye": "2025-09-26 15:53:41 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
-    "criteria": {
-      "has_iron_knife": "2025-09-26 16:19:02 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_mutton_chops": {
-    "criteria": {
-      "cooked_mutton_chops": "2025-09-26 16:19:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2025-09-26 16:14:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-09-26 15:54:14 +0000"
-    },
-    "done": true
-  },
-  "some_assembly_required:recipes/food/campfire_cooking/toasted_bread_slice": {
-    "criteria": {
-      "has_bread": "2025-09-26 16:37:06 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_red_chestplate": {
-    "criteria": {
-      "has_item": "2025-09-26 16:00:10 +0000"
+      "has_base_armor": "2025-09-26 15:48:33 +0000"
     },
     "done": true
   },
@@ -4884,39 +4615,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/green_dye": {
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
-      "has_cactus": "2025-09-26 16:03:06 +0000"
+      "has_iron_nugget": "2025-09-26 15:52:36 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/canvas": {
+  "endrem:main/black_eye": {
     "criteria": {
-      "has_straw": "2025-09-26 16:13:48 +0000"
+      "black_eye": "2025-09-26 15:53:41 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
     "criteria": {
-      "cooked_mutton_chops": "2025-09-26 16:19:07 +0000"
+      "has_pumpkin": "2025-09-26 15:54:14 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/cooked_rice": {
+  "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
-      "has_rice": "2025-09-26 16:14:54 +0000"
+      "has_pumpkin": "2025-09-26 15:54:14 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/deathworm_red_boots": {
+  "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
-      "has_item": "2025-09-26 16:00:10 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:bypassingthe_expiration_date": {
-    "criteria": {
-      "bypassingthe_expiration_date_0": "2025-09-26 16:40:16 +0000"
+      "has_pumpkin": "2025-09-26 15:54:14 +0000"
     },
     "done": true
   },
@@ -4927,27 +4652,51 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+  "iceandfire:recipes/combat/deathworm_red_leggings": {
     "criteria": {
-      "beef_patty": "2025-09-26 16:19:13 +0000"
+      "has_item": "2025-09-26 16:00:10 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cabbage": {
+  "iceandfire:recipes/combat/deathworm_red_helmet": {
     "criteria": {
-      "has_cabbage_crate": "2025-09-26 16:15:39 +0000"
+      "has_item": "2025-09-26 16:00:10 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
+  "iceandfire:recipes/combat/deathworm_red_chestplate": {
     "criteria": {
-      "has_straw": "2025-09-26 16:13:48 +0000"
+      "has_item": "2025-09-26 16:00:10 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/harvest_straw": {
+  "iceandfire:recipes/combat/deathworm_red_boots": {
     "criteria": {
-      "harvest_straw": "2025-09-26 16:13:48 +0000"
+      "has_item": "2025-09-26 16:00:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-09-26 16:03:06 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/fletched_sticks_conditional_fletching": {
+    "criteria": {
+      "has_item": "2025-09-26 16:05:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-26 16:13:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-09-26 16:13:07 +0000"
     },
     "done": true
   },
@@ -4963,15 +4712,141 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/tomato": {
+    "criteria": {
+      "has_tomato_crate": "2025-09-26 16:13:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/tools/lead_from_straw": {
+    "criteria": {
+      "has_straw": "2025-09-26 16:13:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/rope": {
+    "criteria": {
+      "has_straw": "2025-09-26 16:13:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_tree_bark": {
+    "criteria": {
+      "has_straw": "2025-09-26 16:13:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/straw_bale": {
+    "criteria": {
+      "has_straw": "2025-09-26 16:13:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/canvas": {
+    "criteria": {
+      "has_straw": "2025-09-26 16:13:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
+    "criteria": {
+      "has_straw": "2025-09-26 16:13:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2025-09-26 16:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-09-26 16:14:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_campfire_cooking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-09-26 16:14:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-09-26 16:14:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_smoking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-09-26 16:14:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-26 16:14:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-09-26 16:14:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/rice_bag": {
     "criteria": {
       "has_rice": "2025-09-26 16:14:54 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/tomato": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "has_tomato_crate": "2025-09-26 16:13:40 +0000"
+      "tamed_animal": "2025-09-26 16:15:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/onion": {
+    "criteria": {
+      "has_onion_crate": "2025-09-26 16:15:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/potato_from_crate": {
+    "criteria": {
+      "has_potato_crate": "2025-09-26 16:15:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cabbage": {
+    "criteria": {
+      "has_cabbage_crate": "2025-09-26 16:15:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beetroot_from_crate": {
+    "criteria": {
+      "has_beetroot_crate": "2025-09-26 16:15:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-09-26 16:15:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/smoked_ham": {
+    "criteria": {
+      "has_ham": "2025-09-26 16:15:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-09-26 16:15:54 +0000"
     },
     "done": true
   },
@@ -4981,9 +4856,105 @@
     },
     "done": true
   },
-  "some_assembly_required:obtain_bread_slice": {
+  "farmersdelight:recipes/food/carrot_from_crate": {
     "criteria": {
-      "obtain_bread_slice": "2025-09-26 16:37:06 +0000"
+      "has_carrot_crate": "2025-09-26 16:17:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/rice_from_bag": {
+    "criteria": {
+      "has_rice_bag": "2025-09-26 16:17:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-09-26 16:18:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-09-26 16:19:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-09-26 16:19:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-09-26 16:19:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-09-26 16:19:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-09-26 16:19:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-09-26 16:19:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2025-09-26 16:19:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2025-09-26 16:19:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2025-09-26 16:19:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2025-09-26 16:19:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2025-09-26 16:20:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2025-09-26 16:20:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2025-09-26 16:20:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bacon_sandwich": {
+    "criteria": {
+      "has_bacon": "2025-09-26 16:32:31 +0000"
     },
     "done": true
   },
@@ -4993,9 +4964,123 @@
     },
     "done": true
   },
+  "some_assembly_required:recipes/food/smoking/toasted_bread_slice": {
+    "criteria": {
+      "has_bread": "2025-09-26 16:37:06 +0000"
+    },
+    "done": true
+  },
+  "some_assembly_required:recipes/food/campfire_cooking/toasted_bread_slice": {
+    "criteria": {
+      "has_bread": "2025-09-26 16:37:06 +0000"
+    },
+    "done": true
+  },
+  "some_assembly_required:obtain_bread_slice": {
+    "criteria": {
+      "obtain_bread_slice": "2025-09-26 16:37:06 +0000"
+    },
+    "done": true
+  },
   "some_assembly_required:recipes/food/smelting/toasted_bread_slice": {
     "criteria": {
       "has_bread": "2025-09-26 16:37:06 +0000"
+    },
+    "done": true
+  },
+  "some_assembly_required:obtain_toasted_bread_slice": {
+    "criteria": {
+      "obtain_toasted_bread_slice": "2025-09-26 16:37:37 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2025-09-26 16:40:16 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/diving_armor": {
+    "criteria": {
+      "helmet": "2025-09-26 16:46:42 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/bioluminesscence": {
+    "criteria": {
+      "bioluminesscence": "2025-09-26 16:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-26 16:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-26 16:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-26 16:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-26 16:48:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/pearl": {
+    "criteria": {
+      "pearl": "2025-09-26 16:49:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-09-26 16:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-09-26 16:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-09-26 16:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-09-26 16:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-09-26 16:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-09-26 16:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-09-26 16:50:12 +0000"
     },
     "done": true
   },
