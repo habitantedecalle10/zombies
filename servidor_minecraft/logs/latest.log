@@ -3954,3 +3954,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [27Sep2025 23:37:11.421] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
 [27Sep2025 23:37:11.421] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
 [27Sep2025 23:39:45.288] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Jona'/36485, l='ServerLevel[world]', x=-560.45, y=67.00, z=-1577.53] died: Jona was slain by nasusperro
+[27Sep2025 23:43:43.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
+[27Sep2025 23:44:17.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
+[27Sep2025 23:50:23.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Hot Stuff]
+[27Sep2025 23:51:08.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
