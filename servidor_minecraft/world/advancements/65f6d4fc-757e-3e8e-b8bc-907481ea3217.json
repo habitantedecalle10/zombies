@@ -1918,6 +1918,7 @@
       "cooked_beef": "2025-09-26 16:22:16 +0000",
       "suspicious_stew": "2025-09-26 15:51:40 +0000",
       "cooked_chicken": "2025-09-26 16:45:40 +0000",
+      "mushroom_stew": "2025-09-27 23:32:49 +0000",
       "cooked_cod": "2025-09-26 04:21:32 +0000",
       "pumpkin_pie": "2025-09-26 18:26:42 +0000",
       "bread": "2025-09-26 06:01:13 +0000",
@@ -3439,9 +3440,14 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "cartographytable": "2025-09-27 23:31:14 +0000",
+      "fletchingtable": "2025-09-27 23:17:53 +0000",
+      "brewingstand": "2025-09-27 23:31:51 +0000",
       "smoker": "2025-09-26 05:56:07 +0000",
       "blastfurnace": "2025-09-26 05:28:07 +0000",
-      "lectern": "2025-09-26 06:38:32 +0000"
+      "loom": "2025-09-27 23:18:33 +0000",
+      "lectern": "2025-09-26 06:38:32 +0000",
+      "cauldron": "2025-09-27 23:18:07 +0000"
     },
     "done": false
   },
@@ -3639,6 +3645,7 @@
   },
   "morevillagers:all_professions_traded": {
     "criteria": {
+      "fletcher": "2025-09-27 23:22:35 +0000",
       "librarian": "2025-09-26 05:40:23 +0000"
     },
     "done": false
@@ -5612,6 +5619,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-09-27 23:31:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2025-09-27 22:02:50 +0000"
@@ -5672,6 +5685,16 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "onion": "2025-09-27 23:11:51 +0000",
+      "tomato": "2025-09-27 23:12:09 +0000",
+      "potato": "2025-09-27 23:11:18 +0000",
+      "wheat": "2025-09-27 23:15:52 +0000",
+      "carrot": "2025-09-27 23:11:28 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/combat/myrmex_jungle_boots": {
     "criteria": {
       "has_item": "2025-09-27 22:58:56 +0000"
@@ -5684,15 +5707,33 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/jungle_banister": {
+    "criteria": {
+      "has_item": "2025-09-27 23:10:42 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/hot_cocoa": {
     "criteria": {
       "has_any_ingredient": "2025-09-27 22:02:50 +0000"
     },
     "done": true
   },
+  "rusticdelight:recipes/food/roasted_bell_pepper_red_from_smoking": {
+    "criteria": {
+      "has_bell_pepper_red": "2025-09-27 23:15:00 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/myrmex_jungle_helmet": {
     "criteria": {
       "has_item": "2025-09-27 22:58:56 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/bell_pepper_soup": {
+    "criteria": {
+      "has_bell_pepper_red": "2025-09-27 23:15:00 +0000"
     },
     "done": true
   },
@@ -5705,6 +5746,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2025-09-27 22:47:18 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/roasted_bell_pepper_red_from_campfire_cooking": {
+    "criteria": {
+      "has_bell_pepper_red": "2025-09-27 23:15:00 +0000"
     },
     "done": true
   },
@@ -5768,9 +5815,21 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/misc/red_dye_from_bell_pepper_red": {
+    "criteria": {
+      "has_bell_pepper_red": "2025-09-27 23:15:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-09-27 22:23:21 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/cooking/bell_pepper_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-27 23:15:00 +0000"
     },
     "done": true
   },
@@ -5792,6 +5851,12 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/misc/bell_pepper_seeds_bag_from_bell_pepper_seeds": {
+    "criteria": {
+      "has_bell_pepper_seeds": "2025-09-27 23:15:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2025-09-27 22:47:18 +0000"
@@ -5801,6 +5866,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-09-27 22:23:21 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/cooking/stuffed_bell_pepper_red": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-27 23:15:00 +0000"
     },
     "done": true
   },
@@ -5816,6 +5887,18 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/cooking/bell_pepper_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-27 23:15:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-09-27 23:15:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-09-27 22:47:18 +0000"
@@ -5828,9 +5911,27 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/misc/bell_pepper_red_crate_from_bell_pepper_red": {
+    "criteria": {
+      "has_bell_pepper_red": "2025-09-27 23:15:00 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/roasted_bell_pepper_red": {
+    "criteria": {
+      "has_bell_pepper_red": "2025-09-27 23:15:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2025-09-27 22:14:46 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/bell_pepper_roll_red": {
+    "criteria": {
+      "has_bell_pepper_red": "2025-09-27 23:15:00 +0000"
     },
     "done": true
   },
