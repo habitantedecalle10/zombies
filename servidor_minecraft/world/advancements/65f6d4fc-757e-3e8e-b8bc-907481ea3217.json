@@ -6599,11 +6599,29 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:cultural_attribute": {
+    "criteria": {
+      "cultural_attribute_0": "2025-09-28 07:36:23 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/spruce_plank_dancer_s_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-28 05:11:27 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-09-28 07:38:22 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:hatman": {
+    "criteria": {
+      "hatman_2": "2025-09-28 07:36:23 +0000"
+    },
+    "done": false
   },
   "expanded_combat:recipes/combat/acacia_plank_sickle_conditional_shaped": {
     "criteria": {
@@ -6710,6 +6728,12 @@
   "minecraft:recipes/decorations/green_bed": {
     "criteria": {
       "has_green_wool": "2025-09-28 05:38:14 +0000"
+    },
+    "done": true
+  },
+  "gnumus:business_approach": {
+    "criteria": {
+      "business_approach": "2025-09-28 07:34:26 +0000"
     },
     "done": true
   },
@@ -6929,6 +6953,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2025-09-28 07:32:15 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/time_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-28 05:49:13 +0000"
@@ -6944,6 +6974,18 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-28 05:57:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-09-28 07:32:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-09-28 07:32:15 +0000"
     },
     "done": true
   },
@@ -7010,6 +7052,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-09-28 05:11:27 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:guidetothenextworld": {
+    "criteria": {
+      "guidetothenextworld_0": "2025-09-28 07:36:21 +0000"
     },
     "done": true
   },
@@ -7169,9 +7217,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-28 07:32:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-09-28 05:11:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-09-28 07:32:15 +0000"
     },
     "done": true
   },

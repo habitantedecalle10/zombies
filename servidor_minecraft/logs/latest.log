@@ -11695,3 +11695,52 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [28Sep2025 07:31:36.004] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
 [28Sep2025 07:31:36.004] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
 [28Sep2025 07:31:36.004] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 07:34:26.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Business Approach]
+[28Sep2025 07:36:21.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [The day of the Dead]
+[28Sep2025 07:36:23.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Cultural Attribute]
+[28Sep2025 07:37:01.143] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/166079, l='ServerLevel[world]', x=-1483.59, y=95.00, z=-1217.05] died, message: 'Golem Healer was slain by Zombie'
+[28Sep2025 07:37:01.143] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/166079, l='ServerLevel[world]', x=-1483.59, y=95.00, z=-1217.05] died: Golem Healer was slain by Zombie
+[28Sep2025 07:39:24.747] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Golem Healer'/167454, l='ServerLevel[world]', x=-1483.59, y=95.00, z=-1217.05] died: Golem Healer cooked in nasusperro's fiery field
+[28Sep2025 07:39:29.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Nightmare Stalker
+[28Sep2025 07:39:29.408] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1486, 101, -1237) minecraft:overworld
+[28Sep2025 07:39:52.820] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 07:39:52.820] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 07:39:52.820] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 fire_echo
+[28Sep2025 07:39:52.820] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[28Sep2025 07:39:52.821] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 lightning_echo
+[28Sep2025 07:39:52.821] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 1 lightning_echo
+[28Sep2025 07:39:52.821] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 2 result 0 air
+[28Sep2025 07:39:52.821] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 07:39:52.821] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 silver_ring
+[28Sep2025 07:39:52.821] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[28Sep2025 07:39:52.821] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 07:39:52.821] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 07:39:52.822] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 07:39:52.822] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 07:39:52.822] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 07:39:52.822] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 07:39:52.822] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 07:40:34.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved too quickly! 9.31329474826589,0.0,-6.79839209228885
+[28Sep2025 07:40:37.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Rhinoceros
+[28Sep2025 07:40:37.638] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1473, 92, -1186) minecraft:overworld
+[28Sep2025 07:40:54.318] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 07:40:54.318] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 07:40:54.318] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 fire_echo
+[28Sep2025 07:40:54.318] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[28Sep2025 07:40:54.318] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 fire_echo
+[28Sep2025 07:40:54.318] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 1 fire_echo
+[28Sep2025 07:40:54.318] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 2 result 0 air
+[28Sep2025 07:40:54.318] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 07:40:54.318] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 poisonward_ring
+[28Sep2025 07:40:54.319] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[28Sep2025 07:40:54.319] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 07:40:54.319] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 07:40:54.319] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 07:40:54.319] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 07:40:54.319] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 07:40:54.319] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 07:40:54.319] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 07:42:00.309] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/169043, l='ServerLevel[world]', x=-1491.57, y=85.77, z=-1190.73] died, message: 'Golem Healer was slain by nasusperro'
+[28Sep2025 07:42:00.310] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/169043, l='ServerLevel[world]', x=-1491.57, y=85.77, z=-1190.73] died: Golem Healer was slain by nasusperro
+[28Sep2025 07:42:11.452] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro lost connection: Disconnected
+[28Sep2025 07:42:11.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro left the game

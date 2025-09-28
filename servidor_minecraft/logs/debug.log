@@ -23670,3 +23670,62 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [28Sep2025 07:31:36.004] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
 [28Sep2025 07:31:55.005] [Server thread/DEBUG] [de.cadentem.pufferfish_unofficial_additions.PUA/]: Spell experience source data: [Data{caster=ServerPlayer['nasusperro'/60198, l='ServerLevel[world]', x=-1431.23, y=91.00, z=-1224.98], mainHand=1 soulpyre, spellbook=1 iron_spell_book, school=irons_spellbooks:holy, spell=irons_spellbooks:sunbeam, rarity=RARE, level=4.0, minLevelRarity=4.0, manaCost=70.0, manaCostPerSecond=0.0, castDuration=0.0, castChargeTime=0.0, cooldown=20.0, expectedTicks=1.0}]
 [28Sep2025 07:31:55.005] [Server thread/DEBUG] [de.cadentem.pufferfish_unofficial_additions.PUA/]: Spell experience source data: [Data{caster=ServerPlayer['nasusperro'/60198, l='ServerLevel[world]', x=-1431.23, y=91.00, z=-1224.98], mainHand=1 soulpyre, spellbook=1 iron_spell_book, school=irons_spellbooks:holy, spell=irons_spellbooks:sunbeam, rarity=RARE, level=4.0, minLevelRarity=4.0, manaCost=70.0, manaCostPerSecond=0.0, castDuration=0.0, castChargeTime=0.0, cooldown=20.0, expectedTicks=1.0}]
+[28Sep2025 07:34:26.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Business Approach]
+[28Sep2025 07:35:47.630] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Sep2025 07:35:47.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Sep2025 07:36:21.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [The day of the Dead]
+[28Sep2025 07:36:23.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Cultural Attribute]
+[28Sep2025 07:37:01.143] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/166079, l='ServerLevel[world]', x=-1483.59, y=95.00, z=-1217.05] died, message: 'Golem Healer was slain by Zombie'
+[28Sep2025 07:37:01.143] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/166079, l='ServerLevel[world]', x=-1483.59, y=95.00, z=-1217.05] died: Golem Healer was slain by Zombie
+[28Sep2025 07:39:21.049] [Server thread/DEBUG] [de.cadentem.pufferfish_unofficial_additions.PUA/]: Spell experience source data: [Data{caster=ServerPlayer['nasusperro'/60198, l='ServerLevel[world]', x=-1489.10, y=98.00, z=-1225.28], mainHand=0 air, spellbook=1 iron_spell_book, school=irons_spellbooks:fire, spell=irons_spellbooks:magma_bomb, rarity=UNCOMMON, level=2.0, minLevelRarity=1.0, manaCost=35.0, manaCostPerSecond=0.0, castDuration=0.0, castChargeTime=1.0, cooldown=12.0, expectedTicks=1.0}]
+[28Sep2025 07:39:21.049] [Server thread/DEBUG] [de.cadentem.pufferfish_unofficial_additions.PUA/]: Spell experience source data: [Data{caster=ServerPlayer['nasusperro'/60198, l='ServerLevel[world]', x=-1489.10, y=98.00, z=-1225.28], mainHand=0 air, spellbook=1 iron_spell_book, school=irons_spellbooks:fire, spell=irons_spellbooks:magma_bomb, rarity=UNCOMMON, level=2.0, minLevelRarity=1.0, manaCost=35.0, manaCostPerSecond=0.0, castDuration=0.0, castChargeTime=1.0, cooldown=12.0, expectedTicks=1.0}]
+[28Sep2025 07:39:24.747] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Golem Healer'/167454, l='ServerLevel[world]', x=-1483.59, y=95.00, z=-1217.05] died: Golem Healer cooked in nasusperro's fiery field
+[28Sep2025 07:39:29.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Nightmare Stalker
+[28Sep2025 07:39:29.408] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1486, 101, -1237) minecraft:overworld
+[28Sep2025 07:39:30.987] [Server thread/DEBUG] [twilightforest/]: Player nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217) respawned and received items held in storage
+[28Sep2025 07:39:52.820] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 07:39:52.820] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 07:39:52.820] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 fire_echo
+[28Sep2025 07:39:52.820] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[28Sep2025 07:39:52.821] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 lightning_echo
+[28Sep2025 07:39:52.821] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 1 lightning_echo
+[28Sep2025 07:39:52.821] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 2 result 0 air
+[28Sep2025 07:39:52.821] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 07:39:52.821] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 silver_ring
+[28Sep2025 07:39:52.821] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[28Sep2025 07:39:52.821] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 07:39:52.821] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 07:39:52.822] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 07:39:52.822] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 07:39:52.822] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 07:39:52.822] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 07:39:52.822] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 07:40:33.549] [Server thread/DEBUG] [de.cadentem.pufferfish_unofficial_additions.PUA/]: Spell experience source data: [Data{caster=ServerPlayer['nasusperro'/60198, l='ServerLevel[world]', x=-1485.05, y=93.00, z=-1175.30], mainHand=1 soulpyre, spellbook=1 iron_spell_book, school=irons_spellbooks:fire, spell=irons_spellbooks:magma_bomb, rarity=UNCOMMON, level=2.0, minLevelRarity=1.0, manaCost=35.0, manaCostPerSecond=0.0, castDuration=0.0, castChargeTime=1.0, cooldown=12.0, expectedTicks=1.0}]
+[28Sep2025 07:40:33.549] [Server thread/DEBUG] [de.cadentem.pufferfish_unofficial_additions.PUA/]: Spell experience source data: [Data{caster=ServerPlayer['nasusperro'/60198, l='ServerLevel[world]', x=-1485.05, y=93.00, z=-1175.30], mainHand=1 soulpyre, spellbook=1 iron_spell_book, school=irons_spellbooks:fire, spell=irons_spellbooks:magma_bomb, rarity=UNCOMMON, level=2.0, minLevelRarity=1.0, manaCost=35.0, manaCostPerSecond=0.0, castDuration=0.0, castChargeTime=1.0, cooldown=12.0, expectedTicks=1.0}]
+[28Sep2025 07:40:34.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved too quickly! 9.31329474826589,0.0,-6.79839209228885
+[28Sep2025 07:40:37.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Rhinoceros
+[28Sep2025 07:40:37.638] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1473, 92, -1186) minecraft:overworld
+[28Sep2025 07:40:39.915] [Server thread/DEBUG] [twilightforest/]: Player nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217) respawned and received items held in storage
+[28Sep2025 07:40:47.635] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Sep2025 07:40:47.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Sep2025 07:40:54.318] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 07:40:54.318] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 07:40:54.318] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 fire_echo
+[28Sep2025 07:40:54.318] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[28Sep2025 07:40:54.318] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 fire_echo
+[28Sep2025 07:40:54.318] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 1 fire_echo
+[28Sep2025 07:40:54.318] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 2 result 0 air
+[28Sep2025 07:40:54.318] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 07:40:54.318] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 poisonward_ring
+[28Sep2025 07:40:54.319] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[28Sep2025 07:40:54.319] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 07:40:54.319] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 07:40:54.319] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 07:40:54.319] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 07:40:54.319] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 07:40:54.319] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 07:40:54.319] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 07:42:00.309] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/169043, l='ServerLevel[world]', x=-1491.57, y=85.77, z=-1190.73] died, message: 'Golem Healer was slain by nasusperro'
+[28Sep2025 07:42:00.310] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/169043, l='ServerLevel[world]', x=-1491.57, y=85.77, z=-1190.73] died: Golem Healer was slain by nasusperro
+[28Sep2025 07:42:11.452] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro lost connection: Disconnected
+[28Sep2025 07:42:11.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro left the game
