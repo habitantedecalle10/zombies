@@ -4014,3 +4014,47 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [28Sep2025 03:47:06.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has made the advancement [Stone Age]
 [28Sep2025 03:47:19.850] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/27351, l='ServerLevel[world]', x=-580.71, y=20.00, z=-1603.32]
 [28Sep2025 03:47:45.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has made the advancement [Deceived Hopes]
+[28Sep2025 03:49:36.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has completed the challenge [It's Purple!]
+[28Sep2025 03:52:07.117] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-577, y=41, z=-1589} BlockPos{x=-577, y=40, z=-1588}
+[28Sep2025 03:53:47.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has made the advancement [Rotten King]
+[28Sep2025 03:54:28.337] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Marjory'/27422, l='ServerLevel[world]', x=-607.58, y=113.00, z=-1504.31] died, message: 'Marjory was burnt to a crisp whilst fighting Zombie'
+[28Sep2025 03:54:28.338] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Marjory'/27422, l='ServerLevel[world]', x=-607.58, y=113.00, z=-1504.31] died: Marjory was burnt to a crisp whilst fighting Zombie
+[28Sep2025 03:55:04.136] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[28Sep2025 03:55:32.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ultramegas moved wrongly!
+[28Sep2025 03:55:37.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ultramegas moved wrongly!
+[28Sep2025 03:55:45.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ultramegas moved wrongly!
+[28Sep2025 03:56:17.578] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/27351, l='ServerLevel[world]', x=-549.54, y=67.00, z=-1563.57]
+[28Sep2025 03:56:39.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.6211976047090957
+[28Sep2025 03:56:39.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.4942202886579707
+[28Sep2025 03:56:40.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 2.3608803772365263
+[28Sep2025 03:56:46.166] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.43015243803495196
+[28Sep2025 03:56:46.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.321020331716535
+[28Sep2025 03:56:46.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.5132445740487128
+[28Sep2025 03:56:46.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.4143647344941428
+[28Sep2025 03:56:46.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.4756417492570222
+[28Sep2025 03:56:46.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.8026248476007822
+[28Sep2025 03:56:53.892] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[28Sep2025 03:56:53.892] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[28Sep2025 03:56:53.892] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[28Sep2025 03:56:53.893] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[28Sep2025 03:56:53.894] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[28Sep2025 03:56:53.895] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[28Sep2025 03:56:53.895] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[28Sep2025 03:57:34.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has made the advancement [First Village]
+[28Sep2025 03:57:35.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ultramegas moved wrongly!
+[28Sep2025 03:58:08.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.5976614453768434
+[28Sep2025 03:58:08.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.4385416146142234
+[28Sep2025 03:58:08.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.2909102404400983
+[28Sep2025 03:58:09.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.2840628322117311
+[28Sep2025 03:58:09.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.8313136071962333
+[28Sep2025 03:58:09.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.2531948659824508
+[28Sep2025 03:58:13.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [First Village]
+[28Sep2025 04:00:56.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[28Sep2025 04:01:20.531] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Horacio'/35418, l='ServerLevel[world]', x=69.10, y=63.04, z=-1526.51] died, message: 'Horacio was slain by Crocodile'
+[28Sep2025 04:01:20.532] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Horacio'/35418, l='ServerLevel[world]', x=69.10, y=63.04, z=-1526.51] died: Horacio was slain by Crocodile
+[28Sep2025 04:01:31.010] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Juli'/35310, l='ServerLevel[world]', x=59.48, y=62.15, z=-1521.91] died, message: 'Juli was slain by Crocodile'
+[28Sep2025 04:01:31.011] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Juli'/35310, l='ServerLevel[world]', x=59.48, y=62.15, z=-1521.91] died: Juli was slain by Crocodile
+[28Sep2025 04:03:41.910] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8589ms or 171 ticks behind
+[28Sep2025 04:03:45.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved too quickly! -2.1420017241923404,0.05879684053919476,-9.905937931139533
+[28Sep2025 04:03:59.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2247ms or 44 ticks behind
+[28Sep2025 04:04:03.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nasusperro> ¿me escucha?
