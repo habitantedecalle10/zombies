@@ -3960,3 +3960,57 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [28Sep2025 03:16:23.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
 [28Sep2025 03:16:49.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
 [28Sep2025 03:17:35.072] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[28Sep2025 03:18:11.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.2875173166614786
+[28Sep2025 03:18:11.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.0980244185791435
+[28Sep2025 03:18:11.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.9340369662750163
+[28Sep2025 03:18:14.489] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[28Sep2025 03:18:37.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.30711487252051484
+[28Sep2025 03:18:37.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.568084034118101
+[28Sep2025 03:18:37.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.6229166649281979
+[28Sep2025 03:18:40.744] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Meg'/16268, l='ServerLevel[world]', x=-672.70, y=71.05, z=-1414.95] died, message: 'Meg tried to swim in lava'
+[28Sep2025 03:18:40.744] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Meg'/16268, l='ServerLevel[world]', x=-672.70, y=71.05, z=-1414.95] died: Meg tried to swim in lava
+[28Sep2025 03:19:21.264] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[28Sep2025 03:19:21.264] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[28Sep2025 03:19:21.264] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[28Sep2025 03:19:21.264] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[28Sep2025 03:23:13.061] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-733, y=95, z=-1339} BlockPos{x=-733, y=94, z=-1339}
+[28Sep2025 03:23:13.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-732, y=93, z=-1339} BlockPos{x=-733, y=96, z=-1339}
+[28Sep2025 03:24:54.161] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ultramegas lost connection: Disconnected
+[28Sep2025 03:24:54.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas left the game
+[28Sep2025 03:25:00.661] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro lost connection: Disconnected
+[28Sep2025 03:25:00.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro left the game
+[28Sep2025 03:25:00.693] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Sep2025 03:25:01.901] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nasusperro[/127.57.61.248:60269] logged in with entity id 23703 at (-722.1711052055698, 92.0, -1335.5783850356775)
+[28Sep2025 03:25:01.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro joined the game
+[28Sep2025 03:25:01.932] [Server thread/INFO] [Jade/]: Syncing config to nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217)
+[28Sep2025 03:25:04.223] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ultramegas[/127.234.104.87:34145] logged in with entity id 23962 at (-724.3292821846921, 97.0, -1339.479321457956)
+[28Sep2025 03:25:04.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas joined the game
+[28Sep2025 03:25:04.288] [Server thread/INFO] [Jade/]: Syncing config to ultramegas (2f29a3fb-37eb-3b22-bbed-ea5cc7b76493)
+[28Sep2025 03:32:51.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was doomed to fall by Pillager
+[28Sep2025 03:32:51.510] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-719, 69, -1325) minecraft:overworld
+[28Sep2025 03:33:21.957] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 03:33:21.957] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 03:33:21.957] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 03:33:21.957] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 poisonward_ring
+[28Sep2025 03:33:21.958] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[28Sep2025 03:33:21.958] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 03:33:21.958] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 03:33:21.958] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 03:33:21.959] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 03:33:21.959] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 03:33:21.959] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 03:33:21.959] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 03:35:44.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has made the advancement [The Only Good Bug...]
+[28Sep2025 03:40:24.064] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ultramegas lost connection: Disconnected
+[28Sep2025 03:40:24.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas left the game
+[28Sep2025 03:40:35.416] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ultramegas[/127.234.104.87:53971] logged in with entity id 27225 at (-675.2213269423555, 71.0, -1288.6803476136993)
+[28Sep2025 03:40:35.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas joined the game
+[28Sep2025 03:40:35.480] [Server thread/INFO] [Jade/]: Syncing config to ultramegas (2f29a3fb-37eb-3b22-bbed-ea5cc7b76493)
+[28Sep2025 03:41:17.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.4417688852604442
+[28Sep2025 03:41:17.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.2539483995822138
+[28Sep2025 03:41:17.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.9997018085744003
+[28Sep2025 03:42:02.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ultramegas moved wrongly!
+[28Sep2025 03:45:11.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has made the advancement [Fatty Demon]
+[28Sep2025 03:47:06.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has made the advancement [Stone Age]
+[28Sep2025 03:47:19.850] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/27351, l='ServerLevel[world]', x=-580.71, y=20.00, z=-1603.32]
+[28Sep2025 03:47:45.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has made the advancement [Deceived Hopes]

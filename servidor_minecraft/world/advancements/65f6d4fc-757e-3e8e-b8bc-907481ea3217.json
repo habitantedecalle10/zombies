@@ -6063,5 +6063,17 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-09-28 03:15:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-09-28 03:15:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
