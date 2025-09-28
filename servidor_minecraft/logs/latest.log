@@ -3813,3 +3813,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [28Sep2025 18:11:46.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.0
 [28Sep2025 18:11:46.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.3615914902072745
 [28Sep2025 18:12:49.704] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class com.pikachu.mod.illager_more.CombatEvent
+[28Sep2025 18:25:22.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Cover Me In Emeralds]
