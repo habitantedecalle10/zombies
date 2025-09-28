@@ -3859,3 +3859,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [28Sep2025 19:21:08.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.4412715195815053
 [28Sep2025 19:21:47.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
 [28Sep2025 19:32:52.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [The Parrots and the Bats]
+[28Sep2025 19:45:33.275] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Kareem'/52177, l='ServerLevel[world]', x=-545.37, y=82.94, z=-1533.41] died, message: 'Kareem was slain by nasusperro'
+[28Sep2025 19:45:33.278] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Kareem'/52177, l='ServerLevel[world]', x=-545.37, y=82.94, z=-1533.41] died: Kareem was slain by nasusperro
+[28Sep2025 19:47:32.256] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/52348, l='ServerLevel[world]', x=-488.51, y=72.00, z=-1460.56] died, message: 'Golem Healer was slain by Foliaath'
+[28Sep2025 19:47:32.257] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/52348, l='ServerLevel[world]', x=-488.51, y=72.00, z=-1460.56] died: Golem Healer was slain by Foliaath
