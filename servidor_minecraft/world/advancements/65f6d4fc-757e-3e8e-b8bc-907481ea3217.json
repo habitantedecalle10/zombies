@@ -5884,6 +5884,7 @@
       "onion": "2025-09-27 23:11:51 +0000",
       "sweet_berries": "2025-09-28 05:14:33 +0000",
       "tomato": "2025-09-27 23:12:09 +0000",
+      "beetroot": "2025-09-28 19:09:47 +0000",
       "sugar_cane": "2025-09-27 23:40:45 +0000",
       "potato": "2025-09-27 23:11:18 +0000",
       "wheat": "2025-09-27 23:15:52 +0000",
@@ -7265,6 +7266,18 @@
     },
     "done": true
   },
+  "armoroftheages:recipes/combat/pharaoh_armor_chest": {
+    "criteria": {
+      "has_base_armor": "2025-09-28 18:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-09-28 19:07:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-09-28 18:26:47 +0000"
@@ -7289,6 +7302,12 @@
     },
     "done": true
   },
+  "bakery:recipes/sweet_dough": {
+    "criteria": {
+      "has_sugar": "2025-09-28 18:48:07 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-09-28 18:21:44 +0000"
@@ -7310,6 +7329,12 @@
   "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-28 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-09-28 19:07:01 +0000"
     },
     "done": true
   },
@@ -7352,6 +7377,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-09-28 18:31:35 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/cake_dough": {
+    "criteria": {
+      "has_sugar": "2025-09-28 18:48:07 +0000"
     },
     "done": true
   },
@@ -7457,6 +7488,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-09-28 19:07:01 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:catacumbs_lugubrious": {
+    "criteria": {
+      "catacumbs_lugubrious_0": "2025-09-28 18:58:37 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-28 18:21:44 +0000"
@@ -7466,6 +7509,12 @@
   "sophisticatedbackpacks:recipes/misc/alchemy_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-28 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/dough": {
+    "criteria": {
+      "has_sugar": "2025-09-28 18:48:07 +0000"
     },
     "done": true
   },
@@ -7508,6 +7557,12 @@
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-09-28 18:22:55 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:the_cursed_soul": {
+    "criteria": {
+      "the_cursed_soul_0": "2025-09-28 18:54:23 +0000"
     },
     "done": true
   },

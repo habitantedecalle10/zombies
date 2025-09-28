@@ -3845,3 +3845,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [28Sep2025 18:31:21.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.53769176411015
 [28Sep2025 18:31:21.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.3211826772716222
 [28Sep2025 18:44:02.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3319ms or 66 ticks behind
+[28Sep2025 18:54:23.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [The Cursed Soul]
+[28Sep2025 18:58:37.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Spooky Scary Skeletons]
+[28Sep2025 19:08:33.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.2890605478173711
+[28Sep2025 19:08:33.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.845917223241031
+[28Sep2025 19:08:33.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.358314908030934
