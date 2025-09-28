@@ -6419,6 +6419,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-09-28 07:10:55 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/acacia_banister": {
     "criteria": {
       "has_item": "2025-09-28 05:07:58 +0000"
@@ -6452,6 +6458,12 @@
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-28 05:57:05 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-09-28 07:13:17 +0000"
     },
     "done": true
   },
