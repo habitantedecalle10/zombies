@@ -5707,6 +5707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-09-28 00:32:00 +0000"
+    },
+    "done": true
+  },
   "rusticdelight:recipes/food/roasted_bell_pepper_yellow_from_smoking": {
     "criteria": {
       "has_bell_pepper_yellow": "2025-09-27 23:40:09 +0000"
@@ -5853,6 +5859,12 @@
   "rusticdelight:recipes/misc/bell_pepper_yellow_crate_from_bell_pepper_yellow": {
     "criteria": {
       "has_bell_pepper_yellow": "2025-09-27 23:40:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/jungle_cabinet": {
+    "criteria": {
+      "has_jungle_trapdoor": "2025-09-28 00:32:10 +0000"
     },
     "done": true
   },

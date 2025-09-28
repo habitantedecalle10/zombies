@@ -4,3 +4,9 @@
 [28Sep2025 00:13:25.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
 [28Sep2025 00:13:32.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
 [28Sep2025 00:13:49.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
+[28Sep2025 00:34:43.724] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Johnathan'/11, l='ServerLevel[world]', x=4.30, y=65.00, z=13.29] died, message: 'Johnathan hit the ground too hard'
+[28Sep2025 00:34:43.724] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Johnathan'/11, l='ServerLevel[world]', x=4.30, y=65.00, z=13.29] died: Johnathan fell from a high place
+[28Sep2025 00:34:43.774] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Adriana'/10, l='ServerLevel[world]', x=6.01, y=65.00, z=11.92] died, message: 'Adriana hit the ground too hard'
+[28Sep2025 00:34:43.774] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Adriana'/10, l='ServerLevel[world]', x=6.01, y=65.00, z=11.92] died: Adriana fell from a high place
+[28Sep2025 00:34:43.974] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Stacy'/12, l='ServerLevel[world]', x=5.60, y=65.00, z=10.30] died, message: 'Stacy hit the ground too hard'
+[28Sep2025 00:34:43.974] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Stacy'/12, l='ServerLevel[world]', x=5.60, y=65.00, z=10.30] died: Stacy fell from a high place
