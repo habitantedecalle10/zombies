@@ -3814,3 +3814,34 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [28Sep2025 18:11:46.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.3615914902072745
 [28Sep2025 18:12:49.704] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class com.pikachu.mod.illager_more.CombatEvent
 [28Sep2025 18:25:22.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Cover Me In Emeralds]
+[28Sep2025 18:30:22.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.25836753225553366
+[28Sep2025 18:30:22.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.42186430908691364
+[28Sep2025 18:30:22.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.216610202515085
+[28Sep2025 18:30:22.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.8727744350440207
+[28Sep2025 18:30:23.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.47493837896286095
+[28Sep2025 18:30:23.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.3134303391507274
+[28Sep2025 18:30:23.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.3291954586859447
+[28Sep2025 18:30:23.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.8541744025010303
+[28Sep2025 18:30:23.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.49703234949902253
+[28Sep2025 18:30:23.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.5935703877883043
+[28Sep2025 18:30:23.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.4341672324899187
+[28Sep2025 18:30:23.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.4527070475030572
+[28Sep2025 18:30:26.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.34576353821694283
+[28Sep2025 18:30:26.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.0
+[28Sep2025 18:30:26.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.0
+[28Sep2025 18:30:26.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.28407668417162313
+[28Sep2025 18:30:26.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.3104852410986041
+[28Sep2025 18:30:26.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.4087546346545423
+[28Sep2025 18:30:27.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.5557900952144337
+[28Sep2025 18:30:27.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.4018752752033379
+[28Sep2025 18:30:27.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.4246426378238084
+[28Sep2025 18:31:13.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.5744784498194804
+[28Sep2025 18:31:13.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.4558238511567652
+[28Sep2025 18:31:19.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.5610497018808474
+[28Sep2025 18:31:19.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.0
+[28Sep2025 18:31:20.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.30108015196958604
+[28Sep2025 18:31:20.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.8341660231622625
+[28Sep2025 18:31:21.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.3586942735391858
+[28Sep2025 18:31:21.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.53769176411015
+[28Sep2025 18:31:21.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.3211826772716222
+[28Sep2025 18:44:02.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3319ms or 66 ticks behind
