@@ -3863,3 +3863,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [28Sep2025 19:45:33.278] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Kareem'/52177, l='ServerLevel[world]', x=-545.37, y=82.94, z=-1533.41] died: Kareem was slain by nasusperro
 [28Sep2025 19:47:32.256] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/52348, l='ServerLevel[world]', x=-488.51, y=72.00, z=-1460.56] died, message: 'Golem Healer was slain by Foliaath'
 [28Sep2025 19:47:32.257] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/52348, l='ServerLevel[world]', x=-488.51, y=72.00, z=-1460.56] died: Golem Healer was slain by Foliaath
+[28Sep2025 20:12:44.628] [Worker-Main-86/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fishing_rod",tag:{Damage:0,Inventory:{Items:[{Count:1b,Slot:1,id:"aquaculture:worm",tag:{Damage:0}},{Count:1b,Slot:2,id:"aquaculture:fishing_line"},{Count:1b,Slot:3,id:"aquaculture:bobber"}],Size:4}}}
+[28Sep2025 20:12:44.629] [Worker-Main-86/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:oak_fish_mount
+[28Sep2025 20:12:44.629] [Worker-Main-86/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[28Sep2025 20:12:44.629] [Worker-Main-86/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:fish_fillet_raw"}
+[28Sep2025 20:12:44.629] [Worker-Main-86/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[28Sep2025 20:12:44.630] [Worker-Main-86/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
