@@ -6572,3 +6572,55 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [28Sep2025 05:18:53.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
 [28Sep2025 05:19:20.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has made the advancement [Who is Cutting Onions?]
 [28Sep2025 05:19:45.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has made the advancement [Ice Bucket Challenge]
+[28Sep2025 05:20:13.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Fire Dragon
+[28Sep2025 05:20:13.240] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-791, 65, -541) minecraft:overworld
+[28Sep2025 05:20:55.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas was turned into KFC by Fire Dragon
+[28Sep2025 05:20:55.991] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-902, 71, -587) minecraft:overworld
+[28Sep2025 05:21:40.075] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[28Sep2025 05:21:58.474] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3403ms or 68 ticks behind
+[28Sep2025 05:22:16.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3403ms or 68 ticks behind
+[28Sep2025 05:22:33.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[28Sep2025 05:24:12.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas was turned into KFC by Fire Dragon
+[28Sep2025 05:25:00.276] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Lorilee'/88485, l='ServerLevel[world]', x=-1073.61, y=140.00, z=-1068.84] died, message: 'Lorilee hit the ground too hard'
+[28Sep2025 05:25:00.277] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Lorilee'/88485, l='ServerLevel[world]', x=-1073.61, y=140.00, z=-1068.84] died: Lorilee fell from a high place
+[28Sep2025 05:25:01.807] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[28Sep2025 05:25:23.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[28Sep2025 05:25:38.995] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ultramegas lost connection: Disconnected
+[28Sep2025 05:25:38.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas left the game
+[28Sep2025 05:25:50.506] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ultramegas[/127.234.104.87:53131] logged in with entity id 89497 at (-1105.8583969992494, 139.0, -1103.3832031929526)
+[28Sep2025 05:25:50.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas joined the game
+[28Sep2025 05:25:50.522] [Server thread/INFO] [Jade/]: Syncing config to ultramegas (2f29a3fb-37eb-3b22-bbed-ea5cc7b76493)
+[28Sep2025 05:26:25.574] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[28Sep2025 05:26:44.727] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[28Sep2025 05:28:39.710] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 05:28:39.710] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 05:28:39.710] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 ice_echo
+[28Sep2025 05:28:39.710] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[28Sep2025 05:28:39.710] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 ender_echo
+[28Sep2025 05:28:39.710] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 1 ender_echo
+[28Sep2025 05:28:39.710] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 2 result 0 air
+[28Sep2025 05:28:39.710] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 05:28:39.710] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 weakward_ring
+[28Sep2025 05:28:39.711] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[28Sep2025 05:28:39.711] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 05:28:39.711] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 05:28:39.711] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[28Sep2025 05:28:39.711] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[28Sep2025 05:28:39.711] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[28Sep2025 05:28:39.711] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[28Sep2025 05:30:51.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was impaled by Marauder
+[28Sep2025 05:30:51.898] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-773, 63, -529) minecraft:overworld
+[28Sep2025 05:31:11.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was impaled by Marauder
+[28Sep2025 05:31:11.833] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-778, 64, -553) minecraft:overworld
+[28Sep2025 05:35:01.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas was burnt to a crisp whilst fighting Zombified Piglin
+[28Sep2025 05:35:01.695] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-768, 64, -535) minecraft:overworld
+[28Sep2025 05:35:01.736] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[28Sep2025 05:35:01.736] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[28Sep2025 05:35:01.736] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[28Sep2025 05:35:01.737] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[28Sep2025 05:35:01.737] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[28Sep2025 05:35:13.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Fire Dragon
+[28Sep2025 05:35:13.088] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-782, 65, -564) minecraft:overworld
+[28Sep2025 05:35:27.891] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ultramegas lost connection: Disconnected
+[28Sep2025 05:35:27.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas left the game
+[28Sep2025 05:40:00.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!

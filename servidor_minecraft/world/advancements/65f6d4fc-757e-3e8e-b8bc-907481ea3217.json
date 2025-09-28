@@ -104,6 +104,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-09-28 05:11:00 +0000",
+      "minecraft:birch_forest": "2025-09-28 05:23:13 +0000",
       "minecraft:bamboo_jungle": "2025-09-26 05:38:12 +0000",
       "minecraft:wooded_badlands": "2025-09-26 05:49:56 +0000",
       "minecraft:beach": "2025-09-26 16:41:56 +0000",
@@ -115,6 +116,7 @@
       "minecraft:desert": "2025-09-26 05:48:38 +0000",
       "minecraft:jungle": "2025-09-26 04:57:47 +0000",
       "minecraft:warm_ocean": "2025-09-26 06:01:23 +0000",
+      "minecraft:old_growth_birch_forest": "2025-09-28 05:22:25 +0000",
       "minecraft:meadow": "2025-09-26 04:20:33 +0000",
       "minecraft:savanna": "2025-09-26 04:22:24 +0000",
       "minecraft:plains": "2025-09-26 04:18:17 +0000"
@@ -1923,6 +1925,7 @@
       "suspicious_stew": "2025-09-26 15:51:40 +0000",
       "cooked_chicken": "2025-09-26 16:45:40 +0000",
       "mushroom_stew": "2025-09-27 23:32:49 +0000",
+      "chicken": "2025-09-28 05:25:58 +0000",
       "sweet_berries": "2025-09-28 05:14:40 +0000",
       "cooked_cod": "2025-09-26 04:21:32 +0000",
       "pumpkin_pie": "2025-09-26 18:26:42 +0000",
@@ -6398,6 +6401,12 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/misc/cotton_seeds_bag_from_cotton_seeds": {
+    "criteria": {
+      "has_cotton_seeds": "2025-09-28 05:23:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
       "has_white_terracotta": "2025-09-28 05:01:18 +0000"
@@ -6425,6 +6434,12 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-09-28 05:11:27 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/misc/cotton_boll_crate_from_cotton_boll": {
+    "criteria": {
+      "has_cotton_boll": "2025-09-28 05:23:19 +0000"
     },
     "done": true
   },
@@ -6512,9 +6527,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-09-28 05:26:13 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/spruce_plank_cutlass_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-28 05:11:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-09-28 05:26:13 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/misc/string_from_cotton_boll": {
+    "criteria": {
+      "has_cotton_boll": "2025-09-28 05:23:19 +0000"
     },
     "done": true
   },
@@ -6527,6 +6560,12 @@
   "sophisticatedstorage:recipes/misc/spruce_chest": {
     "criteria": {
       "has_spruce_plank": "2025-09-28 05:11:27 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/misc/paper_from_cotton_boll": {
+    "criteria": {
+      "has_cotton_boll": "2025-09-28 05:23:19 +0000"
     },
     "done": true
   },
@@ -6569,6 +6608,18 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-09-28 05:11:24 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/misc/canvas_from_cotton_boll": {
+    "criteria": {
+      "has_cotton_boll": "2025-09-28 05:23:19 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/cooking/cooking_oil": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-28 05:23:15 +0000"
     },
     "done": true
   },
