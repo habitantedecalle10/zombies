@@ -4058,3 +4058,107 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [28Sep2025 04:03:45.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved too quickly! -2.1420017241923404,0.05879684053919476,-9.905937931139533
 [28Sep2025 04:03:59.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2247ms or 44 ticks behind
 [28Sep2025 04:04:03.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nasusperro> ¿me escucha?
+[28Sep2025 04:13:15.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has made the advancement [Tunnel Treasures]
+[28Sep2025 04:14:07.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has made the advancement [Barrel Booty]
+[28Sep2025 04:15:05.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Tunnel Treasures]
+[28Sep2025 04:17:26.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.603232850174436
+[28Sep2025 04:17:26.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.4707334582319618
+[28Sep2025 04:17:26.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.34629206137447
+[28Sep2025 04:17:37.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.2804192733851778
+[28Sep2025 04:17:37.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.991700492571681
+[28Sep2025 04:18:15.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Chompy]
+[28Sep2025 04:18:27.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has made the advancement [Chompy]
+[28Sep2025 04:18:29.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Crocodile
+[28Sep2025 04:18:29.299] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(107, 62, -1529) minecraft:overworld
+[28Sep2025 04:18:44.204] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 04:18:44.204] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 04:18:44.205] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 04:18:44.205] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 silver_ring
+[28Sep2025 04:18:44.205] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[28Sep2025 04:18:44.205] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 04:18:44.205] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 04:18:44.205] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 04:18:44.206] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 04:18:44.206] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 04:18:44.206] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 04:18:44.206] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 04:20:10.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.3621141457847443
+[28Sep2025 04:20:10.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.9179883512017142
+[28Sep2025 04:20:37.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro fell from a high place
+[28Sep2025 04:20:37.859] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(149, 50, -1401) minecraft:overworld
+[28Sep2025 04:21:39.652] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 04:21:39.652] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 04:21:39.652] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 04:21:39.653] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 poisonward_ring
+[28Sep2025 04:21:39.653] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[28Sep2025 04:21:39.653] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 04:21:39.653] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 04:21:39.653] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 04:21:39.654] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 04:21:39.654] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 04:21:39.654] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 04:21:39.654] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 04:22:12.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.4391189812336904
+[28Sep2025 04:22:14.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.5805349432028208
+[28Sep2025 04:22:14.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.45090379819214377
+[28Sep2025 04:22:14.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.33631984492657807
+[28Sep2025 04:22:50.982] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[28Sep2025 04:25:36.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro fell from a high place
+[28Sep2025 04:25:36.805] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(194, -29, -1299) minecraft:overworld
+[28Sep2025 04:25:52.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
+[28Sep2025 04:27:21.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
+[28Sep2025 04:27:47.350] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 04:27:47.350] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 04:27:47.350] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 04:27:47.350] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 silver_ring
+[28Sep2025 04:27:47.350] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[28Sep2025 04:27:47.351] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 04:27:47.351] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 04:27:47.351] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 04:27:47.351] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 04:27:47.351] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 04:27:47.352] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 04:27:47.352] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 04:27:57.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Double Trouble]
+[28Sep2025 04:28:08.503] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[28Sep2025 04:28:08.503] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[28Sep2025 04:28:08.503] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[28Sep2025 04:29:02.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Wilted
+[28Sep2025 04:29:02.447] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(206, -31, -1285) minecraft:overworld
+[28Sep2025 04:29:18.597] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro lost connection: Disconnected
+[28Sep2025 04:29:18.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro left the game
+[28Sep2025 04:29:42.513] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nasusperro[/127.57.61.248:38359] logged in with entity id 48917 at (183.6087826577274, 70.0, -1320.2953120252737)
+[28Sep2025 04:29:42.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro joined the game
+[28Sep2025 04:29:42.568] [Server thread/INFO] [Jade/]: Syncing config to nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217)
+[28Sep2025 04:32:12.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was shot by Mutant Skeleton
+[28Sep2025 04:32:12.285] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(206, -32, -1286) minecraft:overworld
+[28Sep2025 04:32:46.308] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 04:32:46.309] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 04:32:46.309] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 04:32:46.309] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 poisonward_ring
+[28Sep2025 04:32:46.309] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[28Sep2025 04:32:46.309] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 04:32:46.310] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 04:32:46.310] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 04:32:46.310] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 04:32:46.310] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 04:32:46.310] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 04:32:46.310] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 04:36:42.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas was caught by Archevoker's fangs
+[28Sep2025 04:36:42.051] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(200, 96, -1305) minecraft:overworld
+[28Sep2025 04:37:20.054] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 04:37:20.054] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 04:37:20.055] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 ice_echo
+[28Sep2025 04:37:20.055] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[28Sep2025 04:37:20.055] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 04:37:20.055] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 weakward_ring
+[28Sep2025 04:37:20.055] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[28Sep2025 04:37:20.056] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 04:37:20.056] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 04:37:20.056] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 totem_of_undying
+[28Sep2025 04:37:20.056] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 1 totem_of_undying
+[28Sep2025 04:37:20.056] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 2 result 0 air
+[28Sep2025 04:37:20.057] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[28Sep2025 04:37:20.057] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[28Sep2025 04:37:20.057] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[28Sep2025 04:37:20.057] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
