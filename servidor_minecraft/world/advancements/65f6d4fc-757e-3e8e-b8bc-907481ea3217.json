@@ -6371,5 +6371,11 @@
     },
     "done": true
   },
+  "collectorsreap:recipes/food/strawberry_jam_bun": {
+    "criteria": {
+      "has_strawberries": "2025-09-28 04:47:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
