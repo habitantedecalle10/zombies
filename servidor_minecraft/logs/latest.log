@@ -10,3 +10,25 @@
 [28Sep2025 00:34:43.774] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Adriana'/10, l='ServerLevel[world]', x=6.01, y=65.00, z=11.92] died: Adriana fell from a high place
 [28Sep2025 00:34:43.974] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Stacy'/12, l='ServerLevel[world]', x=5.60, y=65.00, z=10.30] died, message: 'Stacy hit the ground too hard'
 [28Sep2025 00:34:43.974] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Stacy'/12, l='ServerLevel[world]', x=5.60, y=65.00, z=10.30] died: Stacy fell from a high place
+[28Sep2025 00:47:23.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
+[28Sep2025 00:47:51.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
+[28Sep2025 00:55:37.560] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro lost connection: Disconnected
+[28Sep2025 00:55:37.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro left the game
+[28Sep2025 00:55:43.600] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nasusperro[/127.57.61.248:33291] logged in with entity id 58031 at (-532.0764496854024, 68.0, -1533.795702846381)
+[28Sep2025 00:55:43.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro joined the game
+[28Sep2025 00:55:43.643] [Server thread/INFO] [Jade/]: Syncing config to nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217)
+[28Sep2025 00:58:19.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro fell from a high place
+[28Sep2025 00:58:19.404] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-562, 66, -1569) minecraft:overworld
+[28Sep2025 00:58:35.552] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 00:58:35.553] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 00:58:35.553] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 00:58:35.553] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 00:58:35.553] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 00:58:35.553] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[28Sep2025 00:58:35.553] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 00:58:35.554] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 00:58:35.554] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 00:58:35.554] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 00:58:35.554] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 01:02:09.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
+[28Sep2025 01:02:43.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
