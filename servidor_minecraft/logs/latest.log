@@ -3850,3 +3850,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [28Sep2025 19:08:33.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.2890605478173711
 [28Sep2025 19:08:33.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.845917223241031
 [28Sep2025 19:08:33.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.358314908030934
+[28Sep2025 19:19:26.038] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Chandra'/18, l='ServerLevel[world]', x=7.77, y=80.00, z=20.31] died, message: 'Chandra hit the ground too hard'
+[28Sep2025 19:19:26.039] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Chandra'/18, l='ServerLevel[world]', x=7.77, y=80.00, z=20.31] died: Chandra fell from a high place
+[28Sep2025 19:20:48.963] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[28Sep2025 19:20:48.963] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[28Sep2025 19:20:48.964] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[28Sep2025 19:21:08.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.6324366321609887
+[28Sep2025 19:21:08.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.4412715195815053
+[28Sep2025 19:21:47.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
