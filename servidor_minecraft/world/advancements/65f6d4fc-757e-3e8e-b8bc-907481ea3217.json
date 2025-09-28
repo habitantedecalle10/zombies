@@ -3440,6 +3440,7 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "barrel": "2025-09-27 23:56:58 +0000",
       "cartographytable": "2025-09-27 23:31:14 +0000",
       "fletchingtable": "2025-09-27 23:17:53 +0000",
       "brewingstand": "2025-09-27 23:31:51 +0000",
@@ -3448,7 +3449,8 @@
       "blastfurnace": "2025-09-26 05:28:07 +0000",
       "loom": "2025-09-27 23:18:33 +0000",
       "lectern": "2025-09-26 06:38:32 +0000",
-      "cauldron": "2025-09-27 23:18:07 +0000"
+      "cauldron": "2025-09-27 23:18:07 +0000",
+      "composter": "2025-09-28 00:00:53 +0000"
     },
     "done": false
   },
@@ -3646,6 +3648,7 @@
   },
   "morevillagers:all_professions_traded": {
     "criteria": {
+      "cleric": "2025-09-27 23:57:15 +0000",
       "fletcher": "2025-09-27 23:22:35 +0000",
       "librarian": "2025-09-26 05:40:23 +0000"
     },
@@ -5680,6 +5683,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/cooking/hotcream": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-27 23:50:23 +0000"
+    },
+    "done": true
+  },
   "rusticdelight:recipes/food/bell_pepper_roll_yellow": {
     "criteria": {
       "has_bell_pepper_yellow": "2025-09-27 23:40:09 +0000"
@@ -5739,9 +5748,27 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-09-27 23:50:23 +0000"
+    },
+    "done": true
+  },
   "rusticdelight:recipes/food/roasted_bell_pepper_red_from_smoking": {
     "criteria": {
       "has_bell_pepper_red": "2025-09-27 23:15:00 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_barrel_from_vanilla_barrel": {
+    "criteria": {
+      "has_vanilla_barrel": "2025-09-27 23:56:58 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/oat_block": {
+    "criteria": {
+      "has_oat": "2025-09-27 23:51:59 +0000"
     },
     "done": true
   },
@@ -5772,6 +5799,12 @@
   "rusticdelight:recipes/food/roasted_bell_pepper_yellow_from_campfire_cooking": {
     "criteria": {
       "has_bell_pepper_yellow": "2025-09-27 23:40:09 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/oat_crate": {
+    "criteria": {
+      "has_oat": "2025-09-27 23:51:59 +0000"
     },
     "done": true
   },
@@ -5844,6 +5877,12 @@
   "iceandfire:recipes/combat/myrmex_jungle_chestplate": {
     "criteria": {
       "has_item": "2025-09-27 22:58:56 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/oceanography_table": {
+    "criteria": {
+      "has_barrel": "2025-09-27 23:56:58 +0000"
     },
     "done": true
   },
