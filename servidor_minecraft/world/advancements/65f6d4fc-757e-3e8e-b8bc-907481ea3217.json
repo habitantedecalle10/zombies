@@ -6551,6 +6551,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-09-28 07:22:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-09-28 06:19:32 +0000"
@@ -7076,6 +7082,12 @@
   "rusticdelight:recipes/cooking/cooking_oil": {
     "criteria": {
       "has_any_ingredient": "2025-09-28 05:23:15 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-09-28 07:23:33 +0000"
     },
     "done": true
   },
