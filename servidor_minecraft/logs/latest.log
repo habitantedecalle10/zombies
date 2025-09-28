@@ -6624,3 +6624,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [28Sep2025 05:35:27.891] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ultramegas lost connection: Disconnected
 [28Sep2025 05:35:27.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas left the game
 [28Sep2025 05:40:00.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
+[28Sep2025 05:45:29.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Bonfire Lit]
+[28Sep2025 05:50:25.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was turned into KFC by Fire Dragon
+[28Sep2025 05:50:25.338] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-977, 55, -671) minecraft:overworld

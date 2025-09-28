@@ -104,6 +104,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-09-28 05:11:00 +0000",
+      "minecraft:sunflower_plains": "2025-09-28 05:49:56 +0000",
       "minecraft:birch_forest": "2025-09-28 05:23:13 +0000",
       "minecraft:bamboo_jungle": "2025-09-26 05:38:12 +0000",
       "minecraft:wooded_badlands": "2025-09-26 05:49:56 +0000",
@@ -6401,6 +6402,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-28 05:49:13 +0000"
+    },
+    "done": true
+  },
   "rusticdelight:recipes/misc/cotton_seeds_bag_from_cotton_seeds": {
     "criteria": {
       "has_cotton_seeds": "2025-09-28 05:23:15 +0000"
@@ -6410,6 +6417,24 @@
   "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
       "has_white_terracotta": "2025-09-28 05:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-28 05:49:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-09-28 05:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-28 05:49:13 +0000"
     },
     "done": true
   },
@@ -6428,6 +6453,36 @@
   "expanded_combat:recipes/combat/spruce_plank_broad_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-28 05:11:27 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/combat/iron_plate_armor_chest": {
+    "criteria": {
+      "has_base_armor": "2025-09-28 05:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-28 05:49:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2025-09-28 05:38:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-28 05:49:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-28 05:49:13 +0000"
     },
     "done": true
   },
@@ -6503,9 +6558,27 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-28 05:49:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-09-28 05:49:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-09-28 05:11:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2025-09-28 05:38:14 +0000"
     },
     "done": true
   },
@@ -6518,6 +6591,18 @@
   "expanded_combat:recipes/combat/spruce_plank_glaive_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-28 05:11:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-28 05:49:13 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/combat/iron_plate_armor_head": {
+    "criteria": {
+      "has_base_armor": "2025-09-28 05:47:20 +0000"
     },
     "done": true
   },
@@ -6557,9 +6642,27 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-28 05:49:13 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/spruce_chest": {
     "criteria": {
       "has_spruce_plank": "2025-09-28 05:11:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-28 05:49:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2025-09-28 05:38:14 +0000"
     },
     "done": true
   },
@@ -6575,6 +6678,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-28 05:49:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-28 05:49:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-09-28 05:11:24 +0000"
@@ -6584,6 +6699,18 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-09-28 05:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-28 05:49:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-28 05:49:13 +0000"
     },
     "done": true
   },
@@ -6608,6 +6735,18 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-09-28 05:11:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-28 05:49:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-28 05:49:13 +0000"
     },
     "done": true
   },
