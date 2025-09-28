@@ -32,3 +32,41 @@
 [28Sep2025 00:58:35.554] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
 [28Sep2025 01:02:09.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
 [28Sep2025 01:02:43.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
+[28Sep2025 01:03:21.103] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Kassie'/59225, l='ServerLevel[world]', x=-582.54, y=70.77, z=-1535.86] died: Kassie was slain by nasusperro
+[28Sep2025 01:04:08.600] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Yetta'/59200, l='ServerLevel[world]', x=-586.01, y=74.00, z=-1534.94] died, message: 'Yetta was slain by nasusperro'
+[28Sep2025 01:04:08.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Bad Deal]
+[28Sep2025 01:04:08.601] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Yetta'/59200, l='ServerLevel[world]', x=-586.01, y=74.00, z=-1534.94] died: Yetta was slain by nasusperro
+[28Sep2025 01:06:27.750] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Chung'/59204, l='ServerLevel[world]', x=-542.30, y=82.94, z=-1530.30] died, message: 'Chung was slain by nasusperro'
+[28Sep2025 01:06:27.750] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Chung'/59204, l='ServerLevel[world]', x=-542.30, y=82.94, z=-1530.30] died: Chung was slain by nasusperro
+[28Sep2025 01:07:30.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Iron Golem
+[28Sep2025 01:07:30.531] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-513, 69, -1542) minecraft:overworld
+[28Sep2025 01:07:38.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Wilted
+[28Sep2025 01:07:51.050] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 01:07:51.050] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 01:07:51.050] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 01:07:51.051] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 01:07:51.051] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 01:07:51.051] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[28Sep2025 01:07:51.051] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 01:07:51.051] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 01:07:51.052] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 01:07:51.052] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 01:07:51.052] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 01:08:07.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Wilted
+[28Sep2025 01:08:07.332] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-514, 70, -1545) minecraft:overworld
+[28Sep2025 01:08:16.905] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 01:08:16.906] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 01:08:16.906] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 01:08:16.906] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 01:08:16.906] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 01:08:16.907] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[28Sep2025 01:08:16.907] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 01:08:16.907] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 01:08:16.907] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 01:08:16.907] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 01:08:16.907] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 01:08:43.595] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro lost connection: Disconnected
+[28Sep2025 01:08:43.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro left the game
+[28Sep2025 01:08:50.048] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nasusperro[/127.57.61.248:56983] logged in with entity id 64120 at (-563.7029341935441, 68.0, -1587.1824531821144)
+[28Sep2025 01:08:50.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro joined the game
+[28Sep2025 01:08:50.085] [Server thread/INFO] [Jade/]: Syncing config to nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217)
