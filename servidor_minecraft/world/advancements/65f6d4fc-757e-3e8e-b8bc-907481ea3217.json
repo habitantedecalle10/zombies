@@ -108,6 +108,7 @@
       "minecraft:birch_forest": "2025-09-28 05:23:13 +0000",
       "minecraft:bamboo_jungle": "2025-09-26 05:38:12 +0000",
       "minecraft:wooded_badlands": "2025-09-26 05:49:56 +0000",
+      "minecraft:savanna_plateau": "2025-09-28 06:23:02 +0000",
       "minecraft:beach": "2025-09-26 16:41:56 +0000",
       "minecraft:sparse_jungle": "2025-09-26 05:00:43 +0000",
       "minecraft:river": "2025-09-26 04:02:03 +0000",
@@ -117,10 +118,12 @@
       "minecraft:desert": "2025-09-26 05:48:38 +0000",
       "minecraft:jungle": "2025-09-26 04:57:47 +0000",
       "minecraft:warm_ocean": "2025-09-26 06:01:23 +0000",
+      "minecraft:flower_forest": "2025-09-28 05:59:12 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-28 05:22:25 +0000",
       "minecraft:meadow": "2025-09-26 04:20:33 +0000",
       "minecraft:savanna": "2025-09-26 04:22:24 +0000",
-      "minecraft:plains": "2025-09-26 04:18:17 +0000"
+      "minecraft:plains": "2025-09-26 04:18:17 +0000",
+      "neapolitan:neapolitan:strawberry_fields": "2025-09-28 05:51:22 +0000"
     },
     "done": false
   },
@@ -234,6 +237,7 @@
       "minecraft:enderman": "2025-09-28 01:14:33 +0000",
       "minecraft:vex": "2025-09-26 17:57:54 +0000",
       "minecraft:zombie": "2025-09-26 04:36:54 +0000",
+      "minecraft:drowned": "2025-09-28 06:00:07 +0000",
       "minecraft:zombie_villager": "2025-09-26 07:25:41 +0000"
     },
     "done": false
@@ -1931,7 +1935,8 @@
       "cooked_cod": "2025-09-26 04:21:32 +0000",
       "pumpkin_pie": "2025-09-26 18:26:42 +0000",
       "bread": "2025-09-26 06:01:13 +0000",
-      "golden_carrot": "2025-09-27 21:36:04 +0000"
+      "golden_carrot": "2025-09-27 21:36:04 +0000",
+      "neapolitan:strawberries": "2025-09-28 05:51:30 +0000"
     },
     "done": false
   },
@@ -6384,6 +6389,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-09-28 06:26:35 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-28 06:26:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-09-28 05:01:18 +0000"
@@ -6396,9 +6413,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-28 05:57:05 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/acacia_banister": {
     "criteria": {
       "has_item": "2025-09-28 05:07:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_barrel": {
+    "criteria": {
+      "has_acacia_plank": "2025-09-28 06:26:35 +0000"
     },
     "done": true
   },
@@ -6420,6 +6449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-28 05:57:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-28 05:49:13 +0000"
@@ -6429,6 +6464,24 @@
   "farmersdelight:main/place_campfire": {
     "criteria": {
       "campfire": "2025-09-28 05:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-28 05:57:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-28 05:57:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-28 05:57:05 +0000"
     },
     "done": true
   },
@@ -6456,6 +6509,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/acacia_plank_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-28 06:26:35 +0000"
+    },
+    "done": true
+  },
   "armoroftheages:recipes/combat/iron_plate_armor_chest": {
     "criteria": {
       "has_base_armor": "2025-09-28 05:47:08 +0000"
@@ -6474,6 +6533,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-28 06:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-09-28 06:19:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-09-28 05:55:32 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mining_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-28 05:49:13 +0000"
@@ -6483,6 +6560,12 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-28 05:49:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-09-28 06:26:35 +0000"
     },
     "done": true
   },
@@ -6501,6 +6584,12 @@
   "expanded_combat:recipes/combat/spruce_plank_dancer_s_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-28 05:11:27 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-28 06:26:35 +0000"
     },
     "done": true
   },
@@ -6528,6 +6617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-09-28 06:19:32 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/spruce_plank_flail_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-28 05:11:27 +0000"
@@ -6543,6 +6638,12 @@
   "expanded_combat:recipes/combat/spruce_plank_battle_staff_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-28 05:11:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-28 05:57:05 +0000"
     },
     "done": true
   },
@@ -6576,6 +6677,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-28 05:57:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-09-28 06:26:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed": {
     "criteria": {
       "has_green_wool": "2025-09-28 05:38:14 +0000"
@@ -6585,6 +6698,36 @@
   "expanded_combat:recipes/combat/spruce_plank_dagger_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-28 05:11:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_4": {
+    "criteria": {
+      "has_acacia_plank": "2025-09-28 06:26:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_3": {
+    "criteria": {
+      "has_acacia_plank": "2025-09-28 06:26:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_2": {
+    "criteria": {
+      "has_acacia_plank": "2025-09-28 06:26:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_1": {
+    "criteria": {
+      "has_acacia_plank": "2025-09-28 06:26:35 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-28 06:26:35 +0000"
     },
     "done": true
   },
@@ -6600,6 +6743,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-28 05:57:05 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-28 06:26:35 +0000"
+    },
+    "done": true
+  },
   "armoroftheages:recipes/combat/iron_plate_armor_head": {
     "criteria": {
       "has_base_armor": "2025-09-28 05:47:20 +0000"
@@ -6609,6 +6764,18 @@
   "some_assembly_required:recipes/decorations/crafting_shaped/sandwiching_station": {
     "criteria": {
       "has_smooth_stone": "2025-09-28 05:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-09-28 06:27:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-09-28 06:12:30 +0000"
     },
     "done": true
   },
@@ -6624,9 +6791,21 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/acacia_plank_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-28 06:26:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-09-28 05:26:13 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-28 06:26:35 +0000"
     },
     "done": true
   },
@@ -6642,6 +6821,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-28 06:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-28 05:57:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-28 05:57:05 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/transformation_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-28 05:49:13 +0000"
@@ -6651,6 +6848,24 @@
   "sophisticatedstorage:recipes/misc/spruce_chest": {
     "criteria": {
       "has_spruce_plank": "2025-09-28 05:11:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-28 05:57:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-09-28 06:26:35 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-28 06:26:35 +0000"
     },
     "done": true
   },
@@ -6678,6 +6893,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-28 06:26:35 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/time_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-28 05:49:13 +0000"
@@ -6690,9 +6911,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-28 05:57:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-09-28 05:11:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_chest": {
+    "criteria": {
+      "has_acacia_plank": "2025-09-28 06:26:35 +0000"
     },
     "done": true
   },
@@ -6714,9 +6947,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-09-28 05:57:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-28 05:57:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-09-28 05:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-28 05:57:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-28 06:26:35 +0000"
     },
     "done": true
   },
@@ -6750,6 +7007,36 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/acacia_plank_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-28 06:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-09-28 05:57:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-09-28 06:00:46 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-28 06:26:35 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-28 06:26:35 +0000"
+    },
+    "done": true
+  },
   "rusticdelight:recipes/misc/canvas_from_cotton_boll": {
     "criteria": {
       "has_cotton_boll": "2025-09-28 05:23:19 +0000"
@@ -6780,9 +7067,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-28 05:57:05 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-28 06:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-09-28 05:57:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-09-28 06:26:35 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-28 06:26:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-09-28 05:51:01 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/spruce_plank_great_hammer_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-28 05:11:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_fire": {
+    "criteria": {
+      "has_item": "2025-09-28 05:57:13 +0000"
     },
     "done": true
   },
@@ -6792,9 +7121,21 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/acacia_plank_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-28 06:26:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-09-28 05:11:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-09-28 06:27:37 +0000"
     },
     "done": true
   },
