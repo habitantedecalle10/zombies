@@ -7326,6 +7326,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-09-28 19:32:52 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/void_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-28 18:21:44 +0000"
@@ -7379,6 +7385,12 @@
       "has_upgrade_base": "2025-09-28 18:21:44 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-09-28 19:32:52 +0000"
+    },
+    "done": false
   },
   "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
     "criteria": {
