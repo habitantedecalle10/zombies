@@ -6695,3 +6695,97 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [28Sep2025 06:28:41.915] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Elke'/120921, l='ServerLevel[world]', x=-1442.51, y=95.00, z=-1121.10] died: Elke went up in flames
 [28Sep2025 06:28:41.917] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Thad'/120468, l='ServerLevel[world]', x=-1443.48, y=95.00, z=-1120.34] died, message: 'Thad went up in flames'
 [28Sep2025 06:28:41.917] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Thad'/120468, l='ServerLevel[world]', x=-1443.48, y=95.00, z=-1120.34] died: Thad went up in flames
+[28Sep2025 06:31:07.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[28Sep2025 06:41:43.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Antiquity Shard]
+[28Sep2025 06:42:44.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Vasebreaker]
+[28Sep2025 06:49:14.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Burner of Souls]
+[28Sep2025 06:56:51.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Fire Dragon
+[28Sep2025 06:56:51.599] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1493, 98, -1252) minecraft:overworld
+[28Sep2025 06:56:58.555] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 06:56:58.555] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 06:56:58.556] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 fire_echo
+[28Sep2025 06:56:58.556] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[28Sep2025 06:56:58.556] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 lightning_echo
+[28Sep2025 06:56:58.556] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 1 lightning_echo
+[28Sep2025 06:56:58.556] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 2 result 0 air
+[28Sep2025 06:56:58.556] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 06:56:58.556] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 silver_ring
+[28Sep2025 06:56:58.556] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[28Sep2025 06:56:58.556] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 06:56:58.556] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 06:56:58.557] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 06:56:58.557] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 06:56:58.557] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 06:56:58.557] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 06:56:58.557] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 06:57:51.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Fire Dragon
+[28Sep2025 06:57:51.390] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1492, 97, -1245) minecraft:overworld
+[28Sep2025 06:57:56.607] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 06:57:56.608] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 06:57:56.608] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 fire_echo
+[28Sep2025 06:57:56.608] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[28Sep2025 06:57:56.608] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 fire_echo
+[28Sep2025 06:57:56.608] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 1 fire_echo
+[28Sep2025 06:57:56.608] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 2 result 0 air
+[28Sep2025 06:57:56.608] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 06:57:56.608] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 poisonward_ring
+[28Sep2025 06:57:56.608] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[28Sep2025 06:57:56.608] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 06:57:56.608] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 06:57:56.609] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 06:57:56.609] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 06:57:56.609] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 06:57:56.609] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 06:57:56.609] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 06:58:03.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Fire Dragon
+[28Sep2025 06:58:03.287] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1494, 98, -1240) minecraft:overworld
+[28Sep2025 06:58:10.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Fire Dragon
+[28Sep2025 06:58:16.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Fire Dragon
+[28Sep2025 06:58:25.451] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 06:58:25.452] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 06:58:25.452] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 fire_echo
+[28Sep2025 06:58:25.452] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[28Sep2025 06:58:25.452] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 lightning_echo
+[28Sep2025 06:58:25.452] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 1 lightning_echo
+[28Sep2025 06:58:25.452] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 2 result 0 air
+[28Sep2025 06:58:25.452] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 06:58:25.452] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 silver_ring
+[28Sep2025 06:58:25.452] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[28Sep2025 06:58:25.452] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 06:58:25.453] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 06:58:25.453] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 06:58:25.453] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 06:58:25.453] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 06:58:25.453] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 06:58:25.453] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 06:58:30.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro walked into fire whilst fighting Fire Dragon
+[28Sep2025 06:58:30.657] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1500, 97, -1233) minecraft:overworld
+[28Sep2025 06:58:43.098] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mose'/133326, l='ServerLevel[world]', x=-1464.63, y=94.48, z=-1155.44] died, message: 'Mose was burnt to a crisp whilst fighting Fire Dragon'
+[28Sep2025 06:58:43.098] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mose'/133326, l='ServerLevel[world]', x=-1464.63, y=94.48, z=-1155.44] died: Mose was burnt to a crisp whilst fighting Fire Dragon
+[28Sep2025 06:58:45.543] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Theola'/133324, l='ServerLevel[world]', x=-1461.96, y=93.00, z=-1146.58] died, message: 'Theola burned to death'
+[28Sep2025 06:58:45.544] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Theola'/133324, l='ServerLevel[world]', x=-1461.96, y=93.00, z=-1146.58] died: Theola burned to death
+[28Sep2025 06:58:51.789] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Neda'/133264, l='ServerLevel[world]', x=-1465.83, y=94.00, z=-1173.20] died, message: 'Neda burned to death'
+[28Sep2025 06:58:51.790] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Neda'/133264, l='ServerLevel[world]', x=-1465.83, y=94.00, z=-1173.20] died: Neda burned to death
+[28Sep2025 06:58:51.857] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 06:58:51.857] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 06:58:51.857] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 fire_echo
+[28Sep2025 06:58:51.857] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[28Sep2025 06:58:51.857] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 fire_echo
+[28Sep2025 06:58:51.857] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 1 fire_echo
+[28Sep2025 06:58:51.858] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 2 result 0 air
+[28Sep2025 06:58:51.858] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 06:58:51.858] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 poisonward_ring
+[28Sep2025 06:58:51.858] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[28Sep2025 06:58:51.858] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 06:58:51.858] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[28Sep2025 06:58:51.858] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 06:58:51.858] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 06:58:51.859] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 06:58:51.859] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 06:58:51.859] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[28Sep2025 06:59:46.157] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Sudie'/133873, l='ServerLevel[world]', x=-1432.53, y=100.25, z=-1097.27] died, message: 'Sudie was slain by Fire Dragon'
+[28Sep2025 06:59:46.158] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Sudie'/133873, l='ServerLevel[world]', x=-1432.53, y=100.25, z=-1097.27] died: Sudie was slain by Fire Dragon
+[28Sep2025 07:00:56.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was incinerated by Fire Dragon
+[28Sep2025 07:00:56.094] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1465, 94, -1166) minecraft:overworld
+[28Sep2025 07:01:10.037] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/133278, l='ServerLevel[world]', x=-1457.85, y=93.00, z=-1184.05] died, message: 'Golem Healer burned to death'
+[28Sep2025 07:01:10.037] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/133278, l='ServerLevel[world]', x=-1457.85, y=93.00, z=-1184.05] died: Golem Healer burned to death

@@ -6743,9 +6743,21 @@
     },
     "done": true
   },
+  "gnumus:vasebreaker": {
+    "criteria": {
+      "vasebreaker": "2025-09-28 06:42:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-28 05:57:05 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:soulpyre": {
+    "criteria": {
+      "requirement": "2025-09-28 06:49:14 +0000"
     },
     "done": true
   },
@@ -6986,6 +6998,12 @@
   "expanded_combat:recipes/combat/spruce_plank_katana_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-28 05:11:27 +0000"
+    },
+    "done": true
+  },
+  "gnumus:antiquity_shard": {
+    "criteria": {
+      "antiquity_shard": "2025-09-28 06:41:43 +0000"
     },
     "done": true
   },
