@@ -1937,6 +1937,7 @@
       "pumpkin_pie": "2025-09-26 18:26:42 +0000",
       "bread": "2025-09-26 06:01:13 +0000",
       "golden_carrot": "2025-09-27 21:36:04 +0000",
+      "cooked_rabbit": "2025-09-28 20:34:43 +0000",
       "neapolitan:strawberries": "2025-09-28 05:51:30 +0000"
     },
     "done": false
@@ -7315,6 +7316,12 @@
     },
     "done": true
   },
+  "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-09-28 20:25:52 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-09-28 18:21:44 +0000"
@@ -7414,6 +7421,12 @@
   "bakery:recipes/cake_dough": {
     "criteria": {
       "has_sugar": "2025-09-28 18:48:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-09-28 20:18:21 +0000"
     },
     "done": true
   },
@@ -7567,9 +7580,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-09-28 20:25:52 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/dough": {
     "criteria": {
       "has_sugar": "2025-09-28 18:48:07 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_fence_gate_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-09-28 20:25:52 +0000"
     },
     "done": true
   },
@@ -7603,6 +7628,18 @@
     },
     "done": true
   },
+  "ribbits:recipes/mossy_oak_planks_fence_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-09-28 20:25:52 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-09-28 20:25:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-09-28 18:31:35 +0000"
@@ -7618,6 +7655,12 @@
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-09-28 18:22:55 +0000"
+    },
+    "done": true
+  },
+  "gnumus:sack_collector": {
+    "criteria": {
+      "sack_collector": "2025-09-28 20:26:04 +0000"
     },
     "done": true
   },
@@ -7645,6 +7688,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-09-28 20:25:52 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-28 18:21:44 +0000"
@@ -7657,6 +7706,12 @@
     },
     "done": true
   },
+  "ribbits:recipes/mossy_oak_planks_stairs_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-09-28 20:25:52 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-28 18:21:44 +0000"
@@ -7666,6 +7721,12 @@
   "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-28 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-09-28 20:25:52 +0000"
     },
     "done": true
   },
