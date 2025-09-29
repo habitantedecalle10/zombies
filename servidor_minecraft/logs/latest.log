@@ -3832,3 +3832,30 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [29Sep2025 01:56:41.397] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
 [29Sep2025 01:56:45.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Good Demoman]
 [29Sep2025 01:57:59.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Arachnophobe's Nightmare]
+[29Sep2025 02:04:42.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[29Sep2025 02:07:35.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was blown up by Mutant Creeper
+[29Sep2025 02:07:35.406] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(371, 80, -1892) minecraft:overworld
+[29Sep2025 02:07:49.942] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[29Sep2025 02:07:49.942] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[29Sep2025 02:07:49.942] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 fire_echo
+[29Sep2025 02:07:49.943] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[29Sep2025 02:07:49.943] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 holy_echo
+[29Sep2025 02:07:49.943] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 1 holy_echo
+[29Sep2025 02:07:49.943] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 2 result 0 air
+[29Sep2025 02:07:49.943] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[29Sep2025 02:07:49.944] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 poisonward_ring
+[29Sep2025 02:07:49.944] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[29Sep2025 02:07:49.944] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 cooldown_ring
+[29Sep2025 02:07:49.944] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 1 cooldown_ring
+[29Sep2025 02:07:49.944] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 2 result 0 air
+[29Sep2025 02:07:49.944] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 cast_time_ring
+[29Sep2025 02:07:49.945] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 1 cast_time_ring
+[29Sep2025 02:07:49.945] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 2 result 1 cast_time_ring
+[29Sep2025 02:07:49.945] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 3 result 0 air
+[29Sep2025 02:07:49.945] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[29Sep2025 02:07:49.945] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[29Sep2025 02:07:49.946] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[29Sep2025 02:07:49.946] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[29Sep2025 02:07:49.946] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[29Sep2025 02:07:49.946] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[29Sep2025 02:07:49.947] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
