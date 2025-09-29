@@ -3806,3 +3806,29 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [29Sep2025 01:39:19.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved too quickly! -5.307492470004547,-3.0,-8.155961188503397
 [29Sep2025 01:39:19.813] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3843ms or 76 ticks behind
 [29Sep2025 01:49:13.403] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class com.pikachu.mod.illager_more.CombatEvent
+[29Sep2025 01:56:41.388] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[29Sep2025 01:56:41.389] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[29Sep2025 01:56:41.389] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 fire_echo
+[29Sep2025 01:56:41.389] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[29Sep2025 01:56:41.389] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 fire_echo
+[29Sep2025 01:56:41.390] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 1 fire_echo
+[29Sep2025 01:56:41.390] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 2 result 0 air
+[29Sep2025 01:56:41.390] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[29Sep2025 01:56:41.390] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 cooldown_ring
+[29Sep2025 01:56:41.390] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[29Sep2025 01:56:41.391] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 poisonward_ring
+[29Sep2025 01:56:41.391] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 1 poisonward_ring
+[29Sep2025 01:56:41.391] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 2 result 0 air
+[29Sep2025 01:56:41.391] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 silver_ring
+[29Sep2025 01:56:41.391] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 1 silver_ring
+[29Sep2025 01:56:41.392] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 2 result 1 silver_ring
+[29Sep2025 01:56:41.392] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 3 result 0 air
+[29Sep2025 01:56:41.395] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[29Sep2025 01:56:41.395] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[29Sep2025 01:56:41.396] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[29Sep2025 01:56:41.396] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[29Sep2025 01:56:41.396] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[29Sep2025 01:56:41.396] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[29Sep2025 01:56:41.397] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[29Sep2025 01:56:45.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Good Demoman]
+[29Sep2025 01:57:59.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Arachnophobe's Nightmare]

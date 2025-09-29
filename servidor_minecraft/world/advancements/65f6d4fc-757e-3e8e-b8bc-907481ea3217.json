@@ -1940,7 +1940,8 @@
       "bread": "2025-09-26 06:01:13 +0000",
       "golden_carrot": "2025-09-27 21:36:04 +0000",
       "cooked_rabbit": "2025-09-28 20:34:43 +0000",
-      "neapolitan:strawberries": "2025-09-28 05:51:30 +0000"
+      "neapolitan:strawberries": "2025-09-28 05:51:30 +0000",
+      "cooked_salmon": "2025-09-29 01:50:02 +0000"
     },
     "done": false
   },
@@ -7738,6 +7739,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:arachnophobes_nightmare": {
+    "criteria": {
+      "arachnophobes_nightmare_0": "2025-09-29 01:57:59 +0000"
+    },
+    "done": true
+  },
   "rusticdelight:recipes/food/calamari_roll": {
     "criteria": {
       "has_cooked_rice": "2025-09-29 01:41:16 +0000"
@@ -7747,6 +7754,12 @@
   "rusticdelight:recipes/food/cherry_blossom_roll": {
     "criteria": {
       "has_cooked_rice": "2025-09-29 01:41:16 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-09-29 01:56:45 +0000"
     },
     "done": true
   },
