@@ -3864,3 +3864,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [29Sep2025 02:13:46.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.3848812624310085
 [29Sep2025 02:13:50.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.2501378814907298
 [29Sep2025 02:13:50.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.1261176538852737
+[29Sep2025 02:53:47.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Fire Dragon
+[29Sep2025 02:53:47.038] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(453, 70, -1741) minecraft:overworld
