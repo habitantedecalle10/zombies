@@ -3859,3 +3859,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [29Sep2025 02:07:49.946] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
 [29Sep2025 02:07:49.946] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
 [29Sep2025 02:07:49.947] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[29Sep2025 02:13:46.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.3936652303984829
+[29Sep2025 02:13:46.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.0
+[29Sep2025 02:13:46.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.3848812624310085
+[29Sep2025 02:13:50.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.2501378814907298
+[29Sep2025 02:13:50.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.1261176538852737
