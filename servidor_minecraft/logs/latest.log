@@ -3866,3 +3866,29 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [29Sep2025 02:13:50.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.1261176538852737
 [29Sep2025 02:53:47.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Fire Dragon
 [29Sep2025 02:53:47.038] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(453, 70, -1741) minecraft:overworld
+[29Sep2025 02:56:21.297] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[29Sep2025 02:56:21.298] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[29Sep2025 02:56:21.298] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 fire_echo
+[29Sep2025 02:56:21.298] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[29Sep2025 02:56:21.298] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 fire_echo
+[29Sep2025 02:56:21.299] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 1 fire_echo
+[29Sep2025 02:56:21.299] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 2 result 0 air
+[29Sep2025 02:56:21.299] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[29Sep2025 02:56:21.299] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 cooldown_ring
+[29Sep2025 02:56:21.299] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[29Sep2025 02:56:21.299] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 poisonward_ring
+[29Sep2025 02:56:21.300] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 1 poisonward_ring
+[29Sep2025 02:56:21.300] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 2 result 0 air
+[29Sep2025 02:56:21.300] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 silver_ring
+[29Sep2025 02:56:21.300] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 1 silver_ring
+[29Sep2025 02:56:21.300] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 2 result 1 silver_ring
+[29Sep2025 02:56:21.300] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 3 result 0 air
+[29Sep2025 02:56:21.301] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[29Sep2025 02:56:21.301] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[29Sep2025 02:56:21.301] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[29Sep2025 02:56:21.301] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[29Sep2025 02:56:21.301] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[29Sep2025 02:56:21.302] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[29Sep2025 02:56:21.302] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[29Sep2025 03:02:06.975] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/12, l='ServerLevel[world]', x=5.91, y=65.00, z=10.30] died, message: 'Golem Healer hit the ground too hard'
+[29Sep2025 03:02:06.976] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/12, l='ServerLevel[world]', x=5.91, y=65.00, z=10.30] died: Golem Healer fell from a high place
